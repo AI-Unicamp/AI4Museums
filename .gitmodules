@@ -1,0 +1,3 @@
+[submodule "ema"]
+	path = ema
+	url = git@github.com:AI-Unicamp/ema.git
