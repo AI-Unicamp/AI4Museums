@@ -1,0 +1,2922 @@
+mrco_36647,['madeira'],1
+minc_172514,['madeira', 'mármore', 'metal'],4099
+mhna_162791,['metal'],2
+mcbc_9778,['madeira', 'tinta', 'vidro'],21
+minc_147262,['madeira', 'metal', 'tinta'],7
+mche_59442,['metal'],2
+mche_41519,['madeira', 'palha'],65
+masb_49059,['metal'],2
+mcbc_10085,['argila'],256
+mcha_20483,['porcelana'],128
+mche_41035,['madeira', 'palha'],65
+mche_59827,['metal'],2
+mche_40969,['vidro'],16
+mcbc_11704,['madeira', 'metal'],3
+minc_187539,['palha', 'madeira'],65
+mche_68706,['cerâmica', 'pó de ouro'],40
+minc_41461,['fibra têxtil', 'madeira', 'ouro'],1179649
+mche_52507,['cerâmica', 'pó de ouro'],40
+mche_65870,['cerâmica', 'pó de ouro'],40
+mcbc_9919,['madeira', 'palha'],65
+mcha_24230,['porcelana'],128
+mcbc_9540,['madeira', 'mármore'],4097
+mche_48538,['madeira', 'metal'],3
+minc_37730,['madeira', 'metal', 'tinta'],7
+minc_173743,['metal', 'madeira'],3
+mcbc_10809,['argila'],256
+minc_42262,['madeira'],1
+mrsj_20746,['madeira', 'metal'],3
+mcbc_10081,['argila'],256
+minc_184009,['metal', 'madeira', 'tinta'],7
+minc_140108,['metal', 'tinta'],6
+mche_40297,['madeira', 'palha'],65
+mcha_14651,['metal'],2
+mche_52747,['cerâmica', 'pó de ouro'],40
+mche_51922,['madeira', 'palha'],65
+mdia_31388,['madeira', 'palha'],65
+minc_227703,[''],0
+mcbc_10865,['argila', 'vidro', 'metal'],274
+mche_44893,['metal', 'vidro'],18
+minc_46408,['metal'],2
+mcbc_10079,['argila'],256
+mdia_31851,['madeira'],1
+minc_73273,['madeira'],1
+minc_205505,['madeira'],1
+minc_140548,['metal', 'tinta'],6
+mban_12719,['madeira'],1
+mche_52843,['cerâmica', 'pó de ouro'],40
+minc_162359,['metal'],2
+minc_147672,['metal', 'vidro'],18
+mrco_35909,['madeira', 'palinha'],32769
+minc_231209,[''],0
+mdia_31946,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mhna_160513,['porcelana'],128
+mdia_30954,['metal'],2
+mche_46233,['linha de algodão', 'linho'],2621440
+mdia_31997,['porcelana', 'tinta'],132
+minc_34553,['madeira', 'metal', 'tinta'],7
+mcha_21269,['porcelana'],128
+minc_201834,['metal', 'madeira'],3
+minc_185806,['metal', 'madeira'],3
+mdia_33835,['porcelana', 'tinta'],132
+minc_24169,['madeira', 'metal', 'tinta'],7
+mche_61646,['madeira', 'palha'],65
+minc_46756,['metal'],2
+minc_203688,['metal', 'madeira'],3
+mcha_18749,['porcelana'],128
+minc_170784,['madeira', 'metal', 'tinta'],7
+minc_127883,['madeira', 'palha'],65
+mcha_47869,['vidro'],16
+mhna_166225,['porcelana'],128
+mche_66001,['cerâmica', 'pó de ouro'],40
+mdia_31220,['folha de ouro', 'madeira', 'pedra', 'tinta', 'vidro'],9237
+mche_74403,['gesso', 'madeira', 'pó de ouro'],2057
+minc_11995,['metal'],2
+mour_5328,['madeira', 'metal'],3
+mcpr_36799,['argila'],256
+mche_68586,['cerâmica', 'pó de ouro'],40
+mcha_31911,['vidro'],16
+mrsj_21396,['madeira', 'metal'],3
+mban_2883,['couro', 'madeira'],16385
+mche_65747,['cerâmica', 'pó de ouro'],40
+mcbc_10373,['tecido'],65536
+minc_34691,['madeira', 'pedra', 'tinta'],8197
+minc_6640,['madeira'],1
+minc_201935,['madeira', 'tinta'],5
+mban_14836,['metal'],2
+mcbc_10749,['vidro'],16
+mcpr_37668,['metal'],2
+mche_69066,['cerâmica', 'pó de ouro'],40
+mdia_31207,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mche_69505,['metal'],2
+mdia_32223,['madeira', 'metal'],3
+minc_141518,['metal', 'tinta'],6
+mrco_35830,['folha de ouro', 'madeira', 'tinta'],1029
+mrsj_22258,['madeira', 'metal'],3
+mche_49872,['metal'],2
+minc_82395,['madeira'],1
+mche_56090,['cerâmica', 'pó de ouro'],40
+mche_70529,['vidro'],16
+mche_74349,['gesso', 'madeira', 'pó de ouro'],2057
+mche_75872,['madeira', 'pó de ouro'],9
+mche_51887,['madeira', 'palha'],65
+minc_82874,['madeira', 'metal', 'tinta'],7
+mcha_15078,['madeira'],1
+minc_111163,['metal'],2
+mcbc_9214,['madeira', 'palha'],65
+mcha_27613,['vidro'],16
+minc_209191,['madeira'],1
+mche_58098,['metal'],2
+minc_184252,['madeira'],1
+mche_48838,['cerâmica', 'pó de ouro'],40
+mche_67714,['madeira', 'palha'],65
+mcha_20384,['porcelana'],128
+mcpr_36954,['argila'],256
+mche_48469,['madeira', 'palha'],65
+mcha_25704,['porcelana'],128
+mche_57737,['metal'],2
+minc_42542,['madeira'],1
+mcbc_11696,['madeira', 'metal'],3
+mcbc_10811,['argila'],256
+mcbc_11690,['madeira', 'metal'],3
+minc_208246,['madeira'],1
+mrco_36029,['vidro'],16
+mche_46776,['metal'],2
+mcha_22473,['porcelana'],128
+mcha_20119,['porcelana'],128
+mche_75384,['madeira', 'mármore'],4097
+minc_208492,['madeira', 'palha'],65
+minc_37422,['madeira', 'tinta'],5
+mcha_25020,['porcelana'],128
+minc_230883,[''],0
+mcpr_37327,['argila', 'tinta'],260
+mche_73836,['gesso', 'madeira', 'pó de ouro'],2057
+minc_35881,['madeira', 'pedra', 'tinta'],8197
+mche_54258,['metal'],2
+masb_62111,['madeira'],1
+mcbc_10821,['couro', 'metal', 'tinta'],16390
+mcbc_9212,['madeira', 'palha'],65
+minc_139689,['metal', 'vidro'],18
+mour_5326,['madeira'],1
+mrsj_20092,['madeira'],1
+minc_147755,['metal', 'tinta', 'vidro'],22
+mcpr_45480,['metal'],2
+mcha_27451,['vidro'],16
+minc_96775,['vidro'],16
+minc_100445,['metal', 'madeira', 'metal'],5
+minc_35590,['madeira', 'pedra', 'tinta'],8197
+minc_99729,['madeira'],1
+mdia_31619,['folha de ouro', 'madeira', 'metal', 'papel', 'tinta'],67109895
+minc_174195,['madeira'],1
+mche_65657,['cerâmica', 'pó de ouro'],40
+mrsj_20176,['madeira'],1
+mdia_32016,['metal'],2
+minc_5584,['metal', 'madeira'],3
+minc_182813,['madeira', 'tinta'],5
+minc_141606,['metal', 'tinta'],6
+mrsj_24165,['madeira', 'purpurina'],8388609
+mche_71917,['metal'],2
+mcha_27424,['vidro'],16
+minc_73362,['madeira'],1
+mrco_36515,['madeira', 'palinha'],32769
+mche_64385,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+mcbc_11145,['madeira', 'mármore'],4097
+minc_145814,['metal'],2
+mcpr_37078,['argila'],256
+minc_233159,['pedra', 'conchas', 'madeira'],4294975489
+mcpr_37761,['metal'],2
+minc_175075,['metal', 'madeira', 'tinta'],7
+mrsj_23119,['madeira', 'palha'],65
+mche_75223,['madeira', 'palha'],65
+mdia_33830,['porcelana', 'tinta'],132
+mrsj_20705,['madeira', 'metal'],3
+mcha_35193,['tecido'],65536
+mcbc_11656,['madeira', 'metal'],3
+minc_232335,[''],0
+mcha_20020,['porcelana'],128
+mcha_19493,['porcelana'],128
+minc_148443,['metal'],2
+mrco_36649,['metal', 'metal', 'vidro'],20
+mche_68343,['cerâmica', 'pó de ouro'],40
+mrco_35901,['metal', 'madeira', 'tinta', 'vidro'],23
+mche_59710,['metal'],2
+minc_185591,['madeira'],1
+mhna_162921,['metal'],2
+mche_60007,['metal'],2
+minc_82992,['metal', 'tinta', 'vidro'],22
+mcbc_9498,['madeira', 'palha'],65
+mche_72398,['vidro'],16
+mrsj_23572,['madeira', 'palha'],65
+minc_162603,['metal'],2
+mhna_166099,['porcelana'],128
+mdia_33881,['metal'],2
+mche_47660,['cerâmica', 'pó de ouro'],40
+minc_207830,['madeira', 'fibra têxtil'],1048577
+mrco_36239,['madeira'],1
+mche_45199,['metal', 'vidro'],18
+mdia_31278,['madeira', 'palha'],65
+mche_53083,['cerâmica', 'pó de ouro'],40
+mhna_168096,['vidro'],16
+mdia_32314,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mche_74295,['gesso', 'madeira', 'pó de ouro'],2057
+mcha_19090,['porcelana'],128
+mhna_163244,['metal'],2
+minc_39549,['madeira', 'metal', 'tinta'],7
+minc_85220,['madeira', 'tinta'],5
+mrco_36581,['metal', 'madeira', 'tinta'],7
+minc_228547,[''],0
+mche_68433,['cerâmica', 'pó de ouro'],40
+mcbc_10494,['couro', 'madeira', 'palha'],16449
+minc_100020,['madeira'],1
+minc_70355,['madeira'],1
+mche_59173,['metal'],2
+minc_233251,[''],0
+minc_146913,['palha', 'madeira'],65
+mche_53505,['cerâmica', 'pó de ouro', 'tinta'],44
+mcbc_10643,['metal'],2
+minc_140680,['metal', 'tinta'],6
+mche_69898,['madeira', 'palha'],65
+mrco_36474,['madeira', 'tinta'],5
+mban_3449,['madeira'],1
+mche_49784,['metal'],2
+mcha_19338,['porcelana'],128
+mban_2506,['madeira'],1
+mche_50469,['madeira', 'palha'],65
+mche_63068,['cerâmica', 'pó de ouro'],40
+mche_56482,['metal'],2
+masb_61987,['madeira'],1
+mcpr_24819,['madeira', 'metal'],3
+mhna_166419,['porcelana'],128
+mche_44927,['metal', 'vidro'],18
+minc_22110,['madeira', 'couro', 'metal'],16387
+mcha_21932,['porcelana'],128
+minc_225875,[''],0
+mche_60305,['metal'],2
+mche_48678,['cerâmica', 'pó de ouro'],40
+minc_37510,['madeira', 'metal', 'tinta'],7
+masb_61894,['madeira'],1
+mche_51991,['madeira', 'mármore'],4097
+mban_2924,['madeira'],1
+mcbc_11638,['madeira', 'metal'],3
+minc_41569,['madeira'],1
+minc_111203,['metal'],2
+mche_65777,['cerâmica', 'pó de ouro'],40
+minc_163255,['metal'],2
+mche_72570,['vidro'],16
+mche_52024,['metal'],2
+mche_60959,['madeira', 'palha'],65
+mban_5156,['madeira', 'fibra'],262145
+minc_187378,['madeira'],1
+mche_52873,['cerâmica', 'pó de ouro'],40
+mcha_18687,['porcelana'],128
+mcha_27962,['vidro'],16
+mrsj_24204,['madeira', 'tinta'],5
+mche_58304,['metal'],2
+mche_74786,['madeira', 'palha'],65
+mcha_24380,['porcelana'],128
+mche_54503,['cerâmica', 'pó de ouro'],40
+mhna_167735,['metal'],2
+mdia_30964,['metal'],2
+mche_63667,['cerâmica', 'pó de ouro'],40
+mche_48066,['madeira', 'palha'],65
+minc_172147,['couro', 'metal', 'madeira'],16387
+minc_174657,['metal', 'madeira'],3
+minc_105802,['argila', 'esmalte', 'verniz'],33555200
+minc_228776,[''],0
+mcpr_33403,['madeira', 'metal'],3
+mrsj_23803,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mche_64778,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_26683,['vidro'],16
+masb_51923,['metal', 'plástico'],1073741826
+mcha_27505,['vidro'],16
+mche_74241,['gesso', 'madeira', 'pó de ouro'],2057
+minc_230583,[''],0
+mche_43191,['metal'],2
+minc_92354,['metal', 'vidro'],18
+minc_39165,['metal', 'madeira'],3
+mche_40490,['madeira', 'palha'],65
+mche_69963,['madeira', 'palha'],65
+mcha_15296,['madeira'],1
+minc_163415,['metal'],2
+mche_47822,['madeira'],1
+mche_64287,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+minc_140725,['metal'],2
+mdia_31992,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+minc_193028,['madeira'],1
+mcbc_10071,['argila'],256
+mche_76072,['madeira', 'pó de ouro'],9
+mche_43598,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_25110,['porcelana'],128
+minc_72548,['metal', 'madeira', 'tinta'],7
+mcpr_36078,['metal', 'madeira', 'tinta'],7
+mcha_25140,['porcelana'],128
+mche_71153,['madeira', 'metal', 'palha'],67
+mche_43097,['metal'],2
+mche_54743,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_225605,[''],0
+mrco_35899,['folha de ouro', 'madeira', 'tinta'],1029
+minc_35633,['madeira', 'pedra', 'tinta'],8197
+mcha_23194,['porcelana'],128
+mrsj_22668,['madeira', 'palha'],65
+mche_45480,['madeira', 'palha'],65
+mcpr_44137,['madeira', 'metal'],3
+minc_141210,['metal', 'tinta'],6
+minc_229431,[''],0
+mcbc_9452,['vidro'],16
+mrco_36179,['metal'],2
+mche_75057,['madeira', 'palha'],65
+minc_163295,['metal'],2
+mche_68976,['cerâmica', 'pó de ouro'],40
+mban_14308,['madeira', 'fibra'],262145
+mdia_31681,['madeira'],1
+mche_43566,['cerâmica', 'pó de ouro', 'tinta'],44
+mcbc_9556,['metal'],2
+mche_73300,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_67941,['madeira', 'mármore'],4097
+mche_60247,['metal'],2
+mban_2017,['madeira'],1
+mcpr_35017,['metal', 'madeira', 'fibra têxtil'],1048579
+mche_58664,['metal'],2
+minc_161776,['madeira'],1
+mche_49843,['metal'],2
+minc_110145,['metal'],2
+mcha_22048,['porcelana'],128
+mrsj_23840,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mrsj_22463,['madeira', 'palha'],65
+mban_5674,['argila'],256
+minc_17873,['madeira'],1
+mche_69800,['cerâmica', 'pó de ouro'],40
+mche_64877,['metal', 'vidro'],18
+mrco_35941,['madeira', 'palinha'],32769
+mcha_22879,['porcelana'],128
+minc_226005,[''],0
+mche_73125,['cerâmica', 'pó de ouro'],40
+mcbc_11660,['madeira', 'metal'],3
+mche_41104,['madeira', 'metal', 'palha'],67
+mrsj_21764,['madeira'],1
+mrsj_20787,['madeira'],1
+minc_226092,[''],0
+mche_72041,['metal', 'vidro'],18
+mdia_32011,['metal'],2
+mrsj_21273,['madeira'],1
+minc_227162,[''],0
+mche_67777,['cerâmica', 'pó de ouro'],40
+mche_45951,['madeira'],1
+minc_141870,['metal', 'tinta'],6
+mdia_31525,['madeira', 'palha'],65
+minc_99787,['madeira'],1
+mdia_31652,['folha de ouro', 'madeira', 'pedra', 'tinta', 'vidro'],9237
+minc_127787,['madeira', 'palha', 'madeira'],66
+mcha_47319,['vidro'],16
+mcha_37884,['metal', 'vidro'],18
+minc_140064,['metal', 'tinta'],6
+mche_63821,['vidro', 'metal'],18
+mban_4805,['madeira', 'fibra'],262145
+mabo_504,['madrepérola', 'metal'],68719476738
+mche_59887,['metal'],2
+minc_192536,['madeira', 'tinta'],5
+mcbc_11440,['resina', 'vidro'],8589934608
+mche_73242,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_62760,['cerâmica', 'pó de ouro'],40
+mban_5118,['madeira', 'fibra'],262145
+minc_124851,['metal'],2
+minc_111250,['metal'],2
+minc_42859,['madeira', 'tinta'],5
+mche_69863,['madeira', 'palha'],65
+mrsj_20340,['madeira'],1
+mrsj_27849,['folha de ouro', 'porcelana', 'tinta'],1156
+minc_124172,['metal', 'madeira'],3
+mche_47157,['madeira', 'palha'],65
+mche_54929,['cerâmica'],32
+minc_204871,['palha', 'madeira'],65
+mche_42187,['madeira', 'palha'],65
+mche_55784,['cerâmica', 'pó de ouro'],40
+minc_43613,['metal', 'madeira', 'tinta'],7
+minc_21377,['metal', 'vidro'],18
+mche_74651,['madeira', 'metal', 'palha'],67
+minc_221545,['argila', 'esmalte', 'ouro'],131840
+mche_56180,['metal', 'vidro'],18
+minc_184186,['metal', 'madeira'],3
+mche_45267,['metal', 'vidro'],18
+minc_206036,['madeira', 'metal'],3
+mche_51552,['madeira', 'palha'],65
+minc_112615,['metal'],2
+mrco_35959,['madeira', 'palinha'],32769
+mche_42128,['linha', 'tecido'],16842752
+mche_51784,['madeira', 'palha'],65
+mban_13070,['madeira'],1
+mche_53353,['cerâmica', 'pó de ouro'],40
+mcbc_9216,['madeira', 'palha'],65
+minc_39297,['metal', 'madeira', 'tinta'],7
+minc_172817,['madeira', 'metal', 'tinta'],7
+mche_65047,['metal', 'vidro'],18
+minc_233489,[''],0
+minc_189259,['madeira', 'palha', 'madeira'],66
+mour_5687,['metal', 'madeira'],3
+mche_63098,['cerâmica', 'pó de ouro'],40
+minc_231169,[''],0
+minc_231742,[''],0
+mrco_36011,['madeira', 'palinha'],32769
+mcbc_9530,['madeira', 'metal', 'vidro'],19
+mche_47960,['madeira', 'palha'],65
+mche_57373,['cerâmica', 'pó de ouro', 'tinta'],44
+mhna_163856,['metal'],2
+minc_110004,['metal'],2
+masb_61801,['madeira'],1
+minc_141034,['metal', 'tinta'],6
+mban_10187,['madeira'],1
+mcha_18997,['porcelana'],128
+mhna_167998,['metal'],2
+minc_155936,['metal'],2
+minc_161600,['madeira', 'tinta'],5
+minc_187210,['pedra-sabão'],17179869184
+mdia_31139,['madeira', 'palha'],65
+mcha_18904,['porcelana'],128
+mcbc_9234,['madeira', 'metal'],3
+masb_49091,['madeira', 'metal'],3
+minc_207777,['madeira', 'fibra têxtil'],1048577
+mcpr_45071,['metal'],2
+mche_51683,['vidro'],16
+mcpr_44750,['metal'],2
+mche_51240,['cerâmica', 'pó de ouro'],40
+minc_39737,['madeira'],1
+mche_53821,['cerâmica', 'pó de ouro'],40
+minc_70608,['madeira'],1
+mcha_27740,['vidro'],16
+mcbc_10893,['madeira', 'palha'],65
+minc_99560,['madeira'],1
+mrco_35967,['madeira', 'palinha'],32769
+minc_205719,['madeira'],1
+mcha_15114,['madeira'],1
+mche_76527,['metal'],2
+mcha_22106,['porcelana'],128
+minc_46710,['metal'],2
+mrco_36273,['madeira'],1
+mabo_820,['argila'],256
+mrsj_22914,['madeira', 'palha'],65
+mcpr_45129,['metal'],2
+mrco_35772,['madeira', 'tinta'],5
+mcpr_35988,['metal', 'madeira', 'metal'],5
+mche_50664,['vidro'],16
+mche_75416,['madeira', 'mármore'],4097
+mour_5227,['couro lavrado', 'madeira', 'metal'],268435459
+mour_6023,['madeira'],1
+minc_82053,['madeira', 'tinta'],5
+mche_60335,['metal'],2
+mche_64037,['vidro', 'metal'],18
+minc_231398,[''],0
+mche_60993,['madeira'],1
+minc_12146,['metal'],2
+mcbc_11710,['madeira', 'metal'],3
+mcbc_10747,['vidro'],16
+mche_52537,['cerâmica', 'pó de ouro'],40
+mche_72657,['vidro'],16
+minc_82506,['metal', 'madeira', 'tinta'],7
+mche_58754,['metal'],2
+mche_42815,['metal'],2
+mche_42420,['metal'],2
+mche_56775,['madeira', 'palha'],65
+minc_184472,['metal', 'madeira', 'metal'],5
+mche_63791,['cerâmica', 'pó de ouro'],40
+minc_141430,['metal', 'tinta'],6
+mche_46898,['vidro', 'metal', 'tinta', 'pó de ouro'],30
+mche_61277,['metal'],2
+mche_62124,['madeira', 'palha'],65
+mche_53143,['cerâmica', 'pó de ouro'],40
+minc_31875,['argila', 'papel'],67109120
+minc_5958,['madeira', 'metal', 'madeira'],4
+mche_41140,['cerâmica', 'pó de ouro'],40
+mrco_36009,['madeira', 'palinha'],32769
+mrsj_21193,['madeira'],1
+minc_18617,['madeira', 'metal'],3
+minc_141826,['metal', 'tinta'],6
+minc_30839,['madeira', 'ouro'],131073
+minc_233066,['pedra', 'conchas', 'madeira'],4294975489
+minc_188321,['madeira'],1
+mche_44995,['metal', 'vidro'],18
+mdia_31656,['madeira', 'papel', 'tinta', 'pedra'],67117061
+minc_183528,['metal', 'madeira'],3
+mche_63280,['cerâmica', 'pó de ouro'],40
+minc_204292,['metal', 'madeira'],3
+minc_231472,[''],0
+minc_35759,['madeira', 'pedra', 'tinta'],8197
+mche_41554,['madeira', 'palha'],65
+mcbc_9464,['madeira', 'vidro'],17
+mche_76197,['madeira', 'pó de ouro'],9
+mrsj_23447,['folha de ouro', 'porcelana', 'tinta'],1156
+mche_61836,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_105312,['argila', 'esmalte', 'verniz'],33555200
+mrsj_26515,['madeira', 'tinta'],5
+mrsj_18473,['pedra'],8192
+minc_171862,['madeira'],1
+mche_58903,['metal'],2
+minc_46506,['metal'],2
+minc_110098,['metal'],2
+mcpr_44655,['metal'],2
+mche_62918,['cerâmica', 'pó de ouro'],40
+minc_201140,['madeira'],1
+minc_184702,['couro', 'madeira', 'tinta'],16389
+mche_41831,['madeira', 'palha'],65
+mcbc_11484,['argila', 'vidro', 'madeira', 'metal'],275
+mrsj_23711,['madeira', 'metal', 'tinta'],7
+mdia_31518,['madeira', 'palha'],65
+minc_232874,[''],0
+mcbc_9923,['mármore', 'madeira'],4097
+mche_70098,['madeira', 'palha'],65
+minc_82143,['madeira', 'tinta'],5
+minc_70499,['madeira', 'metal', 'madeira'],4
+mcpr_37916,['metal'],2
+minc_222944,['madeira', 'verniz'],33554433
+minc_116723,['metal'],2
+mdia_33278,['madeira', 'metal', 'policromia', 'tinta'],4194311
+mcbc_11644,['madeira', 'metal'],3
+mche_47566,['cerâmica', 'pó de ouro'],40
+mhna_163535,['metal'],2
+minc_146589,['metal', 'metal'],4
+mche_74956,['madeira', 'palha'],65
+mabo_502,['metal'],2
+minc_42310,['madeira', 'marfim'],134217729
+mche_63635,['cerâmica', 'pó de ouro'],40
+mrsj_21355,['madeira'],1
+mche_72599,['vidro'],16
+mrco_36563,['metal', 'madeira', 'tinta'],7
+minc_34106,['madeira', 'ouro'],131073
+minc_39598,['metal', 'madeira', 'tinta'],7
+mche_57190,['metal'],2
+mcha_15794,['madeira', 'palha'],65
+mcbc_10841,['vidro'],16
+mcbc_11674,['madeira', 'metal'],3
+mche_58634,['metal'],2
+mdia_34427,['madeira'],1
+mdia_31885,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mrsj_20545,['madeira'],1
+minc_110698,['metal'],2
+minc_171804,['madeira', 'purpurina', 'tinta'],8388613
+mcha_25311,['vidro'],16
+mdia_33765,['porcelana', 'tinta'],132
+minc_116911,['metal'],2
+minc_74507,['madeira'],1
+mche_63914,['vidro', 'metal'],18
+mcbc_11427,['resina', 'vidro'],8589934608
+mche_74187,['gesso', 'madeira', 'pó de ouro'],2057
+minc_228209,[''],0
+mcbc_10843,['vidro'],16
+mcbc_10554,['argila', 'vidro', 'madeira', 'metal'],275
+minc_116864,['metal'],2
+mche_63008,['cerâmica', 'pó de ouro'],40
+mche_58694,['metal'],2
+mcha_20648,['porcelana'],128
+masb_61830,['madeira'],1
+minc_233207,['madeira', 'pedra', 'tinta'],8197
+minc_100304,['metal', 'madeira', 'tinta'],7
+mche_45696,['cerâmica', 'pó de ouro'],40
+minc_189209,['madeira', 'palha'],65
+mcpr_36892,['argila'],256
+mban_2966,['madeira'],1
+mche_44315,['metal', 'vidro'],18
+minc_99377,['madeira'],1
+masb_49154,['metal'],2
+mche_66153,['cerâmica', 'pó de ouro'],40
+minc_112401,['metal'],2
+minc_224328,[''],0
+mcbc_10470,['argila', 'vidro', 'madeira', 'metal'],275
+mrsj_28335,['folha de ouro', 'tinta', 'vidro'],1044
+mche_55586,['cerâmica', 'pó de ouro'],40
+mche_56544,['cerâmica', 'pó de ouro'],40
+mcha_28824,['metal'],2
+mche_73755,['gesso', 'madeira', 'pó de ouro'],2057
+minc_185488,['madeira'],1
+minc_40999,['madeira', 'ouro'],131073
+minc_46961,['argila', 'esmalte', 'ouro'],131840
+minc_182584,['metal', 'madeira', 'metal'],5
+mban_5902,['argila'],256
+minc_175312,['madeira'],1
+mche_72275,['vidro'],16
+mrco_36121,['esmalte', 'porcelana', 'tinta'],644
+minc_183369,['madeira', 'tinta'],5
+mcha_24469,['porcelana'],128
+mcbc_11652,['madeira', 'metal'],3
+mcbc_10763,['vidro'],16
+minc_5085,['madeira', 'metal'],3
+mche_74457,['gesso', 'madeira', 'pó de ouro'],2057
+mdia_31590,['metal'],2
+mdia_33775,['porcelana', 'tinta'],132
+minc_71182,['madeira', 'tinta'],5
+mcha_18873,['porcelana'],128
+mcpr_36768,['argila', 'tinta'],260
+mcha_15957,['madeira', 'palha'],65
+minc_42680,['madeira', 'osso', 'tinta'],34359738373
+minc_186941,['metal', 'madeira'],3
+minc_222990,['madeira'],1
+minc_26052,['metal'],2
+mche_52657,['cerâmica', 'pó de ouro'],40
+minc_158674,['madeira'],1
+minc_224928,[''],0
+mrsj_16589,['madeira', 'tinta'],5
+mche_45029,['metal', 'vidro'],18
+mrsj_28069,[''],0
+mche_73809,['gesso', 'madeira', 'pó de ouro'],2057
+mcpr_36923,['argila'],256
+mrsj_21889,['madeira'],1
+mrsj_23365,['madeira', 'palha'],65
+mcha_25791,['porcelana'],128
+minc_173647,['metal', 'madeira', 'tinta'],7
+mche_58784,['metal'],2
+minc_116770,['metal'],2
+minc_141254,['metal', 'tinta'],6
+minc_232837,[''],0
+minc_34768,['madeira', 'pedra', 'tinta'],8197
+mche_65149,['metal', 'vidro'],18
+minc_87779,['metal'],2
+mrco_36141,['vidro', 'metal', 'metal'],20
+masb_48904,['metal'],2
+mcbc_11664,['madeira', 'metal'],3
+masb_62172,['madeira'],1
+mche_75922,['madeira', 'pó de ouro'],9
+mabo_757,['metal', 'vidro'],18
+minc_140372,['metal', 'tinta'],6
+mche_58873,['metal'],2
+mcpr_37636,['metal'],2
+minc_41682,['fibra têxtil', 'madeira', 'tinta'],1048581
+mabo_817,['argila'],256
+mrco_36233,['metal'],2
+mcbc_10195,['argila', 'tinta'],260
+mrco_36435,['madeira', 'tinta'],5
+mcha_23113,['porcelana'],128
+mcha_27559,['vidro'],16
+mche_59113,['metal'],2
+mche_54167,['cerâmica', 'pó de ouro'],40
+minc_231590,[''],0
+mcha_20714,['porcelana'],128
+minc_73698,['madeira', 'palha'],65
+mche_67425,['madeira', 'palha'],65
+mabo_488,[''],0
+mhna_163467,['metal'],2
+minc_187486,['madeira'],1
+mche_61215,['metal'],2
+mche_67261,['madeira', 'palha'],65
+mdia_31903,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mrsj_24386,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mche_73512,['gesso', 'madeira', 'pó de ouro'],2057
+minc_142134,['metal', 'tinta'],6
+mche_75947,['madeira', 'pó de ouro'],9
+mdia_31132,['madeira', 'palha'],65
+minc_86667,['madeira', 'purpurina', 'tinta'],8388613
+mche_76222,['metal'],2
+mche_60925,['madeira', 'palha'],65
+mhna_162855,['metal'],2
+mcbc_9432,['madeira', 'palha'],65
+mhna_163371,['metal'],2
+minc_141474,['metal', 'tinta'],6
+mche_52597,['cerâmica', 'pó de ouro'],40
+mche_49267,['metal'],2
+minc_26101,['metal'],2
+mcha_21845,['porcelana'],128
+minc_11309,['madeira'],1
+mhna_166866,['porcelana'],128
+mcbc_10474,['argila', 'vidro', 'madeira', 'metal'],275
+mrsj_23242,['madeira', 'palha'],65
+mcpr_36108,['metal', 'madeira'],3
+minc_206403,['metal', 'madeira'],3
+minc_39825,['metal', 'madeira'],3
+mche_44042,['madeira', 'palha'],65
+minc_223314,[''],0
+mche_62158,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_52717,['cerâmica', 'pó de ouro'],40
+mhna_166829,['porcelana'],128
+mcha_24260,['porcelana'],128
+mban_1504,['madeira', 'metal'],3
+minc_175365,['madeira', 'metal'],3
+minc_186669,['madeira', 'palha'],65
+mche_42785,['metal'],2
+mche_60217,['metal'],2
+mcbc_9482,['couro', 'madeira', 'metal', 'palha'],16451
+mrco_35957,['madeira', 'palinha'],32769
+minc_73608,['madeira', 'palha'],65
+mche_60037,['metal'],2
+mcbc_10447,['madeira', 'metal', 'papel', 'tinta', 'vidro'],67108887
+mcha_24170,['porcelana'],128
+minc_41042,['opalina'],536870912
+minc_9742,['metal', 'madeira'],3
+mche_45233,['metal', 'vidro'],18
+mdia_33770,['porcelana', 'tinta'],132
+mche_41069,['madeira', 'palha'],65
+minc_221479,['argila', 'esmalte', 'ouro'],131840
+minc_145686,['pedra-sabão'],17179869184
+minc_72602,['metal', 'madeira', 'tinta'],7
+mrco_36147,['esmalte', 'porcelana', 'tinta'],644
+minc_208142,['madeira', 'palha', 'madeira'],66
+mche_49417,['metal'],2
+mcbc_10831,['vidro'],16
+minc_162439,['metal'],2
+minc_229391,[''],0
+mche_56150,['cerâmica', 'pó de ouro'],40
+minc_189072,['madeira', 'osso'],34359738369
+minc_173949,['madeira'],1
+mche_49725,['metal'],2
+minc_47557,['argila', 'esmalte'],768
+minc_185757,['madeira'],1
+minc_99673,['madeira'],1
+mche_46991,['madeira', 'palha'],65
+mche_66306,['cerâmica', 'pó de ouro'],40
+mche_48933,['metal'],2
+mche_49297,['metal'],2
+mcha_20615,['porcelana'],128
+mhna_160327,['melamina'],2147483648
+mcbc_10845,['vidro'],16
+mche_71948,['metal'],2
+mrsj_20217,['madeira'],1
+mche_74538,['gesso', 'madeira', 'pó de ouro'],2057
+minc_168524,['metal', 'madeira'],3
+mcha_19524,['porcelana'],128
+minc_111697,['metal'],2
+mrco_36472,['madeira', 'tinta'],5
+mrco_35895,['folha de ouro', 'madeira', 'tinta'],1029
+mcha_26844,['vidro'],16
+mcbc_10895,['madeira', 'palha'],65
+mdia_31941,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+minc_228163,[''],0
+mcbc_11502,['argila', 'vidro', 'metal'],274
+mban_13109,['couro', 'madeira'],16385
+mche_61934,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_20516,['porcelana'],128
+mban_2628,['madeira'],1
+minc_29269,['madeira', 'palha'],65
+minc_232175,[''],0
+minc_231362,[''],0
+minc_203180,['madeira'],1
+mcha_23395,['porcelana'],128
+mcbc_10805,['madeira', 'metal', 'tinta', 'vidro'],23
+minc_124439,['metal'],2
+mrco_36089,['madeira'],1
+mrsj_27981,['folha de ouro', 'porcelana', 'tinta'],1156
+mche_51586,['madeira', 'palha'],65
+mban_14266,['madeira', 'fibra'],262145
+minc_233412,[''],0
+minc_111819,['metal'],2
+mrsj_23938,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mche_63975,['vidro', 'metal'],18
+mcbc_10869,['madeira', 'metal'],3
+mcha_31488,['argila'],256
+minc_23829,['metal', 'madeira'],3
+mcha_20747,['porcelana'],128
+minc_37643,['metal', 'madeira'],3
+mche_69374,['cerâmica', 'pó de ouro'],40
+mban_5040,['madeira', 'fibra'],262145
+minc_148577,['metal'],2
+minc_205880,['metal', 'madeira'],3
+mcbc_11510,['metal', 'tinta'],6
+mche_44382,['metal', 'vidro'],18
+mrsj_23406,['madeira', 'palha'],65
+minc_174710,['metal', 'madeira'],3
+mche_48100,['metal', 'madeira'],3
+minc_191785,['madeira', 'tinta'],5
+mche_50306,['madeira', 'palha'],65
+mcpr_37978,['metal'],2
+mche_54320,['metal'],2
+minc_223081,['madeira'],1
+mabo_826,['opalina'],536870912
+mhna_166699,['porcelana'],128
+mrsj_24010,['madeira', 'metal', 'tinta'],7
+minc_110470,['metal'],2
+mcha_24410,['porcelana'],128
+mcha_47919,['vidro'],16
+mche_57859,['metal'],2
+mcha_27586,['vidro'],16
+minc_162237,['metal'],2
+minc_183840,['madeira'],1
+minc_224158,[''],0
+minc_182873,['madeira'],1
+mche_72208,['vidro'],16
+mche_48574,['metal', 'madeira'],3
+mche_68616,['cerâmica', 'pó de ouro'],40
+minc_235443,['madeira', 'tinta', 'vidro'],21
+mche_41928,['metal'],2
+minc_9644,['madeira'],1
+mche_71631,['vidro'],16
+minc_35703,['madeira', 'pedra', 'tinta'],8197
+mche_55088,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_208400,['madeira', 'palha'],65
+minc_90014,['madeira'],1
+mcbc_10855,['vidro'],16
+mche_47350,['vidro'],16
+minc_140504,['metal', 'tinta'],6
+mcha_15827,['madeira', 'palha'],65
+mche_57610,['madeira', 'mármore', 'metal'],4099
+mche_61184,['metal'],2
+mcbc_11458,['madeira', 'mármore'],4097
+minc_71139,['metal', 'madeira', 'tinta'],7
+mhna_166972,['porcelana'],128
+minc_124891,['metal'],2
+mrco_36452,['madeira', 'tinta'],5
+mche_55968,['cerâmica', 'pó de ouro'],40
+mdia_31901,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mcpr_37296,['argila', 'tinta'],260
+minc_141166,['metal', 'tinta'],6
+mche_62696,['vidro'],16
+mche_64006,['vidro', 'metal'],18
+minc_91162,['metal'],2
+mche_74685,['madeira', 'metal', 'palha'],67
+mhna_166512,['porcelana'],128
+mcbc_11099,['madeira', 'palha'],65
+mcbc_10823,['argila'],256
+mcha_20876,['porcelana'],128
+mcpr_45570,['metal'],2
+mrco_36635,['metal', 'vidro'],18
+mrsj_21152,['madeira', 'metal'],3
+mche_61904,['cerâmica', 'pó de ouro'],40
+mcpr_32758,['metal'],2
+mcha_22687,['porcelana'],128
+mche_52116,['metal'],2
+mcbc_10171,['madeira'],1
+minc_166097,['madeira', 'tinta'],5
+minc_31456,['madeira', 'metal', 'tinta'],7
+minc_141386,['metal', 'tinta'],6
+mche_75847,['madeira', 'pó de ouro'],9
+minc_128254,['madeira', 'palha'],65
+mrsj_26962,['madeira'],1
+mrsj_20134,['madeira'],1
+mche_60187,['metal'],2
+minc_30711,['madeira', 'metal', 'tinta'],7
+mche_76498,['cerâmica', 'pó de ouro'],40
+mabo_492,['metal'],2
+masb_61956,['madeira'],1
+mhna_160414,['melamina'],2147483648
+mrco_36007,['madeira', 'palinha'],32769
+mcpr_35654,['metal', 'madeira', 'tinta'],7
+mcbc_9254,['argila', 'vidro', 'metal'],274
+minc_233295,[''],0
+mche_45669,['tecido'],65536
+mdia_33893,['metal'],2
+mcbc_9500,['madeira', 'palha'],65
+mcbc_9210,['madeira', 'palha'],65
+mche_47058,['madeira', 'palha'],65
+mcbc_11692,['madeira', 'metal'],3
+minc_141782,['metal', 'tinta'],6
+mcpr_35047,['metal', 'madeira', 'tinta'],7
+minc_209054,['metal', 'madeira'],3
+mcbc_10369,['linha', 'tecido'],16842752
+mche_43320,['metal'],2
+mche_64646,['cerâmica', 'pó de ouro', 'tinta'],44
+masb_49122,['metal'],2
+minc_70752,['madeira', 'metal'],3
+minc_175626,['madeira'],1
+mche_67458,['vidro'],16
+mche_57978,['metal'],2
+minc_110790,['metal'],2
+mcbc_10827,['vidro'],16
+mche_75351,['madeira', 'mármore'],4097
+mrsj_23324,['madeira', 'palha'],65
+mche_73944,['gesso', 'madeira', 'pó de ouro'],2057
+mrsj_20907,['madeira'],1
+mrsj_22545,['madeira', 'palha'],65
+minc_174607,['metal', 'madeira'],3
+minc_87625,['metal'],2
+mche_59857,['metal'],2
+mdia_31149,['madeira'],1
+mcha_35272,['tecido'],65536
+mban_4922,['madeira'],1
+mcpr_37110,['argila'],256
+minc_175866,['madeira', 'palha'],65
+minc_31499,['madeira', 'metal', 'tinta'],7
+minc_25476,['metal', 'madeira'],3
+minc_140284,['metal', 'tinta'],6
+mrco_36836,['madeira', 'metal'],3
+minc_141342,['metal', 'tinta'],6
+mdia_32041,['marfim'],134217728
+mcha_19369,['porcelana'],128
+mcha_24320,['porcelana'],128
+minc_139876,['metal', 'purpurina', 'tinta'],8388614
+mcpr_45157,['metal'],2
+mche_74820,['madeira', 'palha'],65
+minc_176119,['metal', 'madeira', 'tinta'],7
+mcha_28093,['vidro'],16
+mche_46206,['linha de algodão', 'linho'],2621440
+minc_25625,['madeira'],1
+mche_56872,['madeira', 'mármore'],4097
+minc_186719,['madeira', 'palha'],65
+mche_55340,['cerâmica', 'pó de ouro'],40
+minc_230542,[''],0
+minc_186383,['madeira', 'palha'],65
+mche_63190,['cerâmica', 'pó de ouro'],40
+mhna_162823,['metal'],2
+mche_52627,['cerâmica', 'pó de ouro'],40
+mche_59680,['metal'],2
+mcha_27765,['vidro'],16
+mban_14346,['argila'],256
+mcpr_38009,['metal'],2
+mche_73095,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_49357,['metal'],2
+minc_96820,['vidro'],16
+mabo_829,['opalina'],536870912
+mban_5233,['madeira', 'fibra'],262145
+mche_43382,['metal'],2
+mrsj_16677,['metal', 'tinta'],6
+mche_63373,['madeira', 'palha'],65
+mour_5689,['metal'],2
+minc_222789,['madeira', 'metal', 'tinta'],7
+mche_64352,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+mcbc_10825,['vidro'],16
+mche_68556,['cerâmica', 'pó de ouro'],40
+mche_54991,['cerâmica', 'pó de ouro'],40
+minc_163335,['metal'],2
+mcha_24138,['porcelana'],128
+mdia_31758,['madeira', 'metal'],3
+minc_229550,[''],0
+mche_50760,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_47789,['madeira', 'palha'],65
+mche_51360,['cerâmica', 'pó de ouro'],40
+mdia_31859,['madeira'],1
+mabo_482,['argila', 'metal'],258
+mche_51818,['madeira', 'palha'],65
+minc_47100,['argila', 'esmalte'],768
+mdia_33908,['metal'],2
+mhna_166668,['porcelana'],128
+minc_175817,['madeira', 'palha'],65
+minc_188957,['madeira', 'palha'],65
+mrsj_23532,['madeira', 'palha'],65
+mrsj_22504,['madeira', 'palha'],65
+mche_62442,['cerâmica', 'pó de ouro'],40
+mcha_23275,['porcelana'],128
+mche_64451,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+minc_171373,['madeira'],1
+minc_187428,['metal', 'madeira'],3
+minc_127736,['madeira', 'palha', 'madeira'],66
+mcbc_11662,['madeira', 'metal'],3
+minc_188217,['madeira'],1
+mdia_31587,['metal'],2
+minc_100539,['madeira', 'metal', 'tinta'],7
+mcha_23221,['porcelana'],128
+mche_51484,['vidro'],16
+mche_53791,['cerâmica', 'pó de ouro'],40
+mche_49327,['metal'],2
+minc_172268,['madeira', 'palha'],65
+mche_51620,['vidro'],16
+minc_186609,['madeira', 'palha', 'madeira'],66
+mche_45825,['metal'],2
+mche_74052,['gesso', 'madeira', 'pó de ouro'],2057
+mche_66123,['cerâmica', 'pó de ouro'],40
+minc_184856,['madeira'],1
+minc_161688,['madeira', 'tinta'],5
+mcbc_11702,['madeira', 'metal'],3
+mche_58334,['metal'],2
+minc_88666,['madeira'],1
+mrco_37108,['metal', 'vidro'],18
+mban_5826,['argila'],256
+mche_49602,['metal'],2
+mche_46689,['metal'],2
+mrco_36275,['madeira'],1
+masb_63280,['metal'],2
+mche_40588,['metal'],2
+mche_68282,['cerâmica', 'pó de ouro'],40
+mcbc_9496,['madeira', 'palha'],65
+minc_148620,['metal'],2
+minc_10215,['metal', 'metal', 'vidro'],20
+mcha_15178,['madeira', 'metal'],3
+mrsj_28025,[''],0
+mche_65081,['metal', 'vidro'],18
+mche_74133,['gesso', 'madeira', 'pó de ouro'],2057
+minc_184579,['madeira'],1
+mche_74484,['gesso', 'madeira', 'pó de ouro'],2057
+mche_55021,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_187892,['madeira'],1
+minc_175470,['madeira'],1
+mcha_21368,['porcelana'],128
+mche_53053,['cerâmica', 'pó de ouro'],40
+mcbc_9472,['couro', 'madeira', 'metal', 'palha'],16451
+minc_36400,['metal', 'madeira'],3
+mrco_36139,['vidro'],16
+minc_208858,['metal', 'madeira'],3
+mcbc_11666,['madeira', 'metal'],3
+mrco_36850,['folha de ouro', 'madeira', 'metal'],1027
+mche_43159,['metal'],2
+mche_46959,['metal'],2
+mche_44688,['metal', 'vidro'],18
+minc_111658,['metal'],2
+mhna_163751,['metal'],2
+minc_232549,['madeira', 'metal'],3
+mche_55845,['cerâmica', 'pó de ouro'],40
+mche_61028,['metal'],2
+mcha_15689,['madeira', 'palha'],65
+mcha_21335,['porcelana'],128
+mhna_168229,['vidro'],16
+mcha_18935,['porcelana'],128
+mche_59768,['metal'],2
+mcbc_9486,['madeira', 'palha'],65
+mche_45611,['vidro'],16
+mcbc_9536,['couro', 'madeira', 'palha'],16449
+mcha_21038,['porcelana'],128
+mrsj_20666,['madeira'],1
+mdia_34321,['madeira', 'palha'],65
+mcha_15862,['madeira', 'palha'],65
+minc_188647,['madeira', 'palha'],65
+mche_42695,['metal'],2
+mhna_163890,['metal'],2
+mche_71348,['linha de algodão', 'linho'],2621440
+minc_174049,['madeira', 'metal', 'madeira'],4
+mche_54533,['cerâmica', 'pó de ouro'],40
+mche_48503,['metal', 'madeira', 'mármore', 'vidro'],4115
+mche_48030,['madeira', 'palha'],65
+mcha_14946,['madeira', 'mármore', 'metal'],4099
+mrsj_23037,['madeira', 'palha'],65
+minc_15834,['metal'],2
+mche_54072,['metal'],2
+minc_141914,['metal', 'tinta'],6
+mban_4550,['madeira'],1
+minc_168462,['metal', 'madeira'],3
+minc_85130,['madeira', 'tinta'],5
+mche_45063,['metal', 'vidro'],18
+mche_43694,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_42290,['metal'],2
+mcpr_36830,['argila'],256
+minc_100065,['madeira'],1
+mcha_23005,['porcelana'],128
+mche_65840,['cerâmica', 'pó de ouro'],40
+mcha_24290,['porcelana'],128
+minc_175161,['madeira'],1
+mdia_31987,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mche_64418,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+minc_42633,['madeira', 'metal', 'metal'],5
+mcpr_44103,['madeira', 'metal'],3
+minc_82641,['madeira', 'tinta'],5
+minc_18042,['metal', 'vidro'],18
+mrco_36243,['madeira', 'metal'],3
+minc_41989,['metal', 'madeira'],3
+mche_42452,['metal'],2
+mrsj_20584,['madeira'],1
+mche_61519,['cerâmica', 'pó de ouro'],40
+mche_60824,['madeira'],1
+minc_223421,[''],0
+mcbc_10743,['vidro'],16
+minc_29357,['madeira', 'palha'],65
+minc_41233,['couro', 'metal', 'madeira'],16387
+mche_58068,['metal'],2
+mcha_18656,['porcelana'],128
+mdia_33268,['madeira', 'metal', 'policromia', 'tinta'],4194311
+minc_110423,['metal'],2
+mche_64221,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+mche_63128,['cerâmica', 'pó de ouro'],40
+mche_44179,['metal', 'vidro'],18
+mche_53567,['cerâmica', 'pó de ouro'],40
+mrsj_16717,['metal', 'tinta'],6
+mche_75897,['madeira', 'pó de ouro'],9
+mcha_22019,['porcelana'],128
+mcbc_9202,['madeira', 'metal', 'tecido'],65539
+mche_73566,['gesso', 'madeira', 'pó de ouro'],2057
+mcbc_10739,['vidro'],16
+mban_4882,['madeira', 'fibra'],262145
+minc_11948,['metal'],2
+minc_140814,['metal', 'tinta'],6
+minc_15920,['metal'],2
+mcha_22658,['porcelana'],128
+minc_123360,['metal', 'metal'],4
+minc_110933,['metal'],2
+minc_208956,['metal', 'madeira'],3
+mche_62858,['cerâmica', 'pó de ouro'],40
+minc_14904,['madeira'],1
+minc_34149,['madeira', 'ouro'],131073
+mrsj_23283,['madeira', 'palha'],65
+mche_75772,['madeira', 'pó de ouro'],9
+mche_40169,['metal'],2
+minc_98271,['metal'],2
+mcpr_38189,['metal', 'madeira'],3
+mcbc_9456,['madeira', 'mármore', 'metal', 'tinta', 'vidro'],4119
+mhna_163211,['metal'],2
+minc_228663,[''],0
+minc_70653,['madeira'],1
+minc_100491,['metal', 'madeira', 'tinta'],7
+mrco_35945,['madeira', 'palinha'],32769
+mche_51853,['madeira', 'palha'],65
+mche_53731,['cerâmica', 'pó de ouro'],40
+mrco_35953,['madeira', 'palinha'],32769
+mdia_32109,['madeira', 'palha'],65
+minc_43263,['madeira', 'tinta'],5
+mche_62378,['metal'],2
+mche_72174,['vidro'],16
+mcha_22265,['porcelana'],128
+minc_224493,[''],0
+mche_58186,['metal'],2
+mche_68493,['cerâmica', 'pó de ouro'],40
+mche_48644,['metal', 'madeira', 'mármore', 'vidro'],4115
+mche_61964,['madeira', 'palha'],65
+minc_141298,['metal', 'tinta'],6
+mcbc_10773,['argila', 'tinta'],260
+mcha_22978,['porcelana'],128
+mche_65507,['cerâmica', 'pó de ouro'],40
+mrsj_24067,['folha de ouro', 'madeira', 'pedra', 'tinta', 'vidro'],9237
+masb_47283,['metal'],2
+mche_55556,['cerâmica', 'pó de ouro'],40
+mche_64809,['metal', 'vidro'],18
+mcha_19555,['porcelana'],128
+mche_76172,['madeira', 'pó de ouro'],9
+mche_70063,['madeira', 'palha'],65
+minc_99422,['madeira'],1
+mche_45547,['vidro'],16
+mcpr_37234,['argila'],256
+mcbc_10745,['vidro'],16
+minc_9843,['madeira', 'metal'],3
+minc_112279,['metal'],2
+mche_62888,['cerâmica', 'pó de ouro'],40
+mhna_159801,['vidro'],16
+mcha_18718,['porcelana'],128
+mcbc_10889,['madeira', 'palha'],65
+mcha_20812,['porcelana'],128
+mche_56710,['metal'],2
+mcbc_9466,['madeira', 'metal'],3
+mcbc_11642,['madeira', 'metal'],3
+minc_140460,['metal', 'tinta'],6
+mabo_501,['metal'],2
+mche_43976,['metal', 'vidro'],18
+masb_48837,['metal'],2
+minc_37466,['madeira', 'tinta'],5
+mcbc_10887,['madeira', 'palha'],65
+mche_46659,['metal'],2
+mrco_36129,['esmalte', 'porcelana', 'tinta'],644
+mche_60853,['madeira', 'mármore'],4097
+mche_69224,['cerâmica', 'pó de ouro'],40
+mche_61616,['cerâmica', 'pó de ouro'],40
+minc_140152,['metal', 'tinta'],6
+mche_58574,['metal'],2
+mcha_19648,['porcelana'],128
+minc_20377,['metal', 'madeira'],3
+mche_43034,['metal'],2
+mche_67159,['metal', 'vidro'],18
+minc_87830,['metal'],2
+mche_64099,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_58604,['metal'],2
+mrsj_20506,['madeira'],1
+mche_63697,['cerâmica', 'pó de ouro'],40
+mrco_35832,['folha de ouro', 'madeira', 'tinta'],1029
+minc_183892,['madeira', 'fibra têxtil', 'tinta'],1048581
+minc_235306,[''],0
+minc_123506,['metal', 'metal'],4
+mcbc_10645,['metal'],2
+mche_71696,['metal', 'vidro'],18
+mcha_22187,['porcelana'],128
+mour_5253,['metal', 'madeira'],3
+mcha_19431,['porcelana'],128
+minc_175730,['madeira', 'palha'],65
+minc_70563,['madeira'],1
+mdia_31306,['madeira', 'vidro'],17
+minc_102145,['metal'],2
+minc_208640,['madeira', 'metal'],3
+mdia_31967,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mcha_35245,['tecido'],65536
+mcha_32012,['vidro'],16
+mche_57312,['vidro'],16
+mche_68646,['cerâmica', 'pó de ouro'],40
+minc_12195,['metal'],2
+mcbc_10761,['vidro'],16
+mche_43725,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_69133,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_110980,['metal'],2
+mcha_24200,['porcelana'],128
+mche_73620,['gesso', 'madeira', 'pó de ouro'],2057
+mhna_163276,['metal'],2
+mcbc_10077,['argila'],256
+mche_46870,['linha de algodão', 'linho'],2621440
+mban_1791,['metal'],2
+mche_61122,['metal'],2
+mcbc_9220,['madeira', 'palha'],65
+minc_123997,['metal'],2
+mche_64748,['cerâmica', 'pó de ouro'],40
+mche_66702,['cerâmica', 'pó de ouro'],40
+mcbc_11688,['madeira', 'metal'],3
+minc_10547,['metal'],2
+minc_168582,['madeira'],1
+minc_174303,['metal', 'madeira'],3
+mcha_14619,['madeira'],1
+mche_53445,['cerâmica', 'pó de ouro'],40
+minc_141694,['metal', 'tinta'],6
+mche_58215,['metal'],2
+mche_68736,['cerâmica', 'pó de ouro'],40
+mche_56362,['metal'],2
+mche_52084,['metal'],2
+minc_73412,['metal', 'madeira'],3
+mcbc_11680,['madeira', 'metal'],3
+mcha_30651,['madeira', 'metal'],3
+minc_80209,['madeira', 'ouro'],131073
+mdia_31960,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mcbc_9226,['madeira', 'metal'],3
+minc_172219,['madeira', 'palha'],65
+minc_12097,['metal'],2
+mcbc_11115,['madeira', 'metal', 'vidro'],19
+minc_111440,['metal'],2
+mcbc_11640,['madeira', 'metal'],3
+mrsj_23877,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+mche_56120,['cerâmica', 'pó de ouro'],40
+mcbc_10759,['vidro'],16
+minc_84056,['argila', 'esmalte'],768
+mche_67490,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_205985,['madeira'],1
+mcha_25080,['porcelana'],128
+minc_127984,['madeira', 'palha'],65
+mche_41415,['madeira', 'palha'],65
+mban_1547,['madeira', 'metal'],3
+minc_33925,['madeira', 'tinta'],5
+mdia_33794,['argila', '', 'tinta'],260
+mcha_18966,['porcelana'],128
+mcha_23032,['porcelana'],128
+mche_43849,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_112483,['metal'],2
+minc_175262,['madeira'],1
+mour_5275,['madeira', 'metal'],3
+mban_10227,['madeira'],1
+mcha_24440,['porcelana'],128
+mcbc_10087,['argila'],256
+mcbc_11151,['argila', 'vidro', 'madeira', 'metal'],275
+mrco_36633,['metal'],2
+mhna_164071,['metal'],2
+mche_70862,['linha de algodão', 'linho'],2621440
+minc_228510,[''],0
+minc_116679,['metal'],2
+mcbc_10490,['madeira', 'metal', 'tinta'],7
+mcbc_10281,['madeira'],1
+minc_31739,['madeira', 'metal'],3
+mrsj_15460,['folha de ouro', 'porcelana', 'tinta'],1156
+minc_173795,['metal', 'madeira'],3
+mche_54009,['madeira', 'mármore'],4097
+minc_43218,['madeira', 'tinta'],5
+mcbc_9434,['argila', 'vidro', 'metal'],274
+mche_52993,['cerâmica', 'pó de ouro'],40
+mban_5078,['madeira', 'fibra'],262145
+mche_44790,['metal', 'vidro'],18
+minc_10437,['metal', 'vidro'],18
+minc_224111,[''],0
+mche_58993,['metal'],2
+mban_14799,['metal'],2
+minc_227567,[''],0
+mban_6020,['madeira'],1
+minc_42493,['madeira', 'metal'],3
+mrsj_28596,['folha de ouro', 'porcelana', 'tinta'],1156
+mrco_36551,['folha de ouro', 'madeira', 'tinta'],1029
+mcbc_11431,['metal', 'tinta'],6
+mche_49103,['metal', 'vidro'],18
+mche_47596,['cerâmica', 'pó de ouro'],40
+mrco_36511,['madeira', 'palinha'],32769
+mcha_27532,['vidro'],16
+mche_52477,['cerâmica', 'pó de ouro'],40
+mche_68252,['cerâmica', 'pó de ouro'],40
+mcbc_10911,['madeira', 'palha'],65
+minc_209499,['palha', 'madeira'],65
+minc_148485,['metal'],2
+minc_72765,['madeira'],1
+mche_74079,['gesso', 'madeira', 'pó de ouro'],2057
+minc_139735,['metal', 'vidro'],18
+mche_51450,['vidro'],16
+mcbc_9558,['linha', 'tecido'],16842752
+minc_162199,['metal'],2
+mche_63515,['cerâmica', 'pó de ouro'],40
+mche_42668,['metal', 'vinhático'],137438953474
+minc_156040,['madeira', 'ouro'],131073
+mrco_36484,['madeira'],1
+mche_42482,['metal'],2
+minc_140328,['metal', 'tinta'],6
+mhna_162724,['metal'],2
+mche_67682,['madeira', 'palha'],65
+minc_224416,[''],0
+mhna_167771,['metal'],2
+mhna_163019,['metal'],2
+mcbc_11676,['madeira', 'metal'],3
+mcbc_11682,['madeira', 'metal'],3
+minc_226866,[''],0
+mcbc_11109,['madeira', 'metal', 'vidro'],19
+mhna_163115,['metal'],2
+minc_172907,['madeira'],1
+mche_46018,['linha de algodão', 'linho'],2621440
+mcha_19927,['porcelana'],128
+mche_54289,['metal'],2
+minc_125209,['madeira'],1
+mrsj_22955,['madeira', 'palha'],65
+mcbc_10755,['vidro'],16
+mche_71223,['madeira', 'mármore'],4097
+mche_66215,['cerâmica', 'pó de ouro'],40
+mrsj_19591,['madeira'],1
+minc_233698,[''],0
+minc_205561,['madeira'],1
+minc_105269,['argila', 'esmalte', 'verniz'],33555200
+mrco_36019,['madeira', 'palinha'],32769
+mche_47261,['metal'],2
+mcpr_37885,['metal'],2
+mche_44281,['metal', 'vidro'],18
+minc_228091,[''],0
+mcha_21990,['porcelana'],128
+mche_42755,['metal'],2
+minc_162687,['metal'],2
+minc_186089,['madeira', 'palha'],65
+mche_64843,['metal', 'vidro'],18
+mche_43818,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_99967,['madeira'],1
+mcbc_9901,['madeira', 'metal'],3
+mche_60656,['madeira', 'palha'],65
+mcha_20153,['porcelana'],128
+mche_41625,['madeira', 'palha'],65
+masb_60481,['metal'],2
+mcbc_11700,['madeira', 'metal'],3
+mche_65115,['metal', 'vidro'],18
+mche_69006,['cerâmica', 'pó de ouro'],40
+mrco_36155,['esmalte', 'porcelana', 'tinta'],644
+mche_43631,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_25760,['porcelana'],128
+mche_68463,['cerâmica', 'pó de ouro'],40
+minc_72709,['metal', 'madeira'],3
+minc_10756,['madeira'],1
+mour_5913,['madeira'],1
+mrsj_21110,['madeira', 'metal'],3
+minc_42216,['madeira'],1
+mche_53537,['cerâmica', 'pó de ouro'],40
+minc_119508,['metal', 'vidro'],18
+mche_68826,['cerâmica', 'pó de ouro'],40
+mdia_31114,['madeira', 'pedra'],8193
+mche_40365,['madeira', 'palha'],65
+mcha_19059,['porcelana'],128
+mche_66031,['cerâmica', 'pó de ouro'],40
+mche_56422,['cerâmica', 'pó de ouro'],40
+mcpr_30862,[''],0
+mche_45579,['vidro'],16
+minc_203225,['madeira'],1
+mcha_15654,['madeira', 'palha'],65
+mdia_31159,['madeira', 'metal'],3
+mche_72714,['vidro'],16
+mche_43224,['metal'],2
+mcha_21434,['porcelana'],128
+mrco_36027,['madeira'],1
+mcbc_9993,['linha', 'madeira', 'metal', 'tecido', 'vidro'],16842771
+minc_139789,['metal'],2
+mche_46806,['metal'],2
+minc_82552,['metal', 'madeira', 'tinta'],7
+mcha_22343,['porcelana'],128
+mhna_166607,['porcelana'],128
+minc_30797,['metal', 'madeira', 'tinta'],7
+minc_17987,['madeira'],1
+minc_185859,['madeira', 'palha', 'madeira'],66
+mcha_19679,['porcelana'],128
+mcbc_9298,['argila', 'vidro', 'metal'],274
+mcbc_10905,['madeira', 'palha'],65
+mche_75972,['madeira', 'pó de ouro'],9
+minc_192981,['madeira'],1
+minc_186037,['madeira', 'palha'],65
+mche_75822,['madeira', 'pó de ouro'],9
+minc_233575,[''],0
+mcbc_11494,['metal', 'madeira'],3
+mdia_32127,['madeira', 'palha'],65
+mche_56392,['cerâmica', 'pó de ouro'],40
+mche_65687,['cerâmica', 'pó de ouro'],40
+mche_59202,['metal'],2
+minc_124482,['fibra têxtil'],1048576
+mcha_59115,['metal', 'vidro'],18
+mche_66456,['cerâmica', 'pó de ouro'],40
+mdia_31547,['madeira'],1
+mche_68946,['cerâmica', 'pó de ouro'],40
+mcbc_9484,['couro', 'madeira', 'metal', 'palha'],16451
+mcha_20681,['porcelana'],128
+mabo_491,[''],0
+mcha_38390,['vidro'],16
+mche_60067,['metal'],2
+minc_111859,['metal'],2
+mcha_19400,['porcelana'],128
+minc_100587,['madeira', 'metal', 'tinta'],7
+mrco_36645,['madeira'],1
+minc_184132,['couro', 'metal', 'madeira'],16387
+mche_51713,['madeira', 'palha'],65
+minc_175419,['madeira'],1
+mche_42388,['metal'],2
+mche_55814,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_55428,['cerâmica', 'pó de ouro'],40
+mcha_27913,['vidro'],16
+minc_188049,['madeira', 'palha'],65
+mrsj_28376,['folha de ouro', 'tinta', 'vidro'],1044
+mche_40618,['cerâmica', 'pó de ouro'],40
+mrco_36175,['metal'],2
+mban_16016,['argila'],256
+mcpr_36861,['argila'],256
+mche_68097,['cerâmica', 'pó de ouro', 'tinta'],44
+mdia_31107,['metal', 'vidro'],18
+mrco_36005,['metal', 'vidro', 'mármore', 'metal', 'vidro'],4132
+mcbc_11153,['madeira'],1
+mdia_32282,['', 'madeira', 'metal', 'policromia', 'tinta'],4194311
+minc_37554,['madeira', 'metal', 'tinta'],7
+mche_70133,['metal', 'vidro'],18
+mcha_20582,['porcelana'],128
+mcha_28040,['vidro'],16
+mche_43287,['metal'],2
+mche_45097,['metal', 'vidro'],18
+minc_165823,['madeira', 'tinta'],5
+mche_51420,['cerâmica', 'pó de ouro'],40
+mche_49695,['metal'],2
+mche_58364,['metal'],2
+minc_174820,['metal', 'madeira'],3
+mche_64319,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+mche_65537,['cerâmica', 'pó de ouro'],40
+minc_43059,['metal', 'madeira', 'tinta'],7
+mcbc_9474,['couro', 'madeira', 'metal', 'palha'],16451
+minc_9935,['madeira'],1
+mhna_167806,['metal'],2
+mcbc_11708,['madeira', 'metal'],3
+mhna_167905,['metal'],2
+minc_172568,['madeira'],1
+mcha_26817,['vidro'],16
+mhna_163982,['metal'],2
+minc_188268,['madeira'],1
+mche_59053,['metal'],2
+mche_51518,['madeira', 'palha'],65
+mcha_14720,['vidro', 'madeira', 'metal'],19
+mche_63310,['cerâmica', 'pó de ouro'],40
+mche_57577,['madeira', 'palha'],65
+mrco_36468,['folha de ouro', 'madeira', 'tinta'],1029
+mour_5442,['madeira', 'metal'],3
+mche_49201,['vidro', 'metal'],18
+minc_123915,['metal'],2
+mcha_21874,['porcelana'],128
+mrsj_27678,['folha de ouro', 'tinta', 'vidro'],1044
+mche_71794,['vidro', 'metal', 'opalina', 'tinta', 'pó de ouro'],536870942
+mcha_23167,['porcelana'],128
+minc_5528,['metal', 'madeira', 'tinta'],7
+mcbc_11684,['madeira', 'metal'],3
+mche_53173,['cerâmica', 'pó de ouro'],40
+minc_174556,['metal', 'madeira'],3
+mche_62728,['vidro'],16
+minc_36454,['metal', 'madeira'],3
+mcha_22813,['porcelana'],128
+mche_44858,['metal', 'vidro'],18
+mcbc_10723,['madeira', 'metal', 'vidro'],19
+mcpr_32541,['tecido', 'metal'],65538
+minc_186319,['madeira', 'palha'],65
+mcha_37537,['metal'],2
+mche_55523,['cerâmica'],32
+minc_42812,['metal', 'madeira', 'tinta'],7
+mcha_15759,['madeira', 'palha'],65
+mche_73183,['cerâmica', 'pó de ouro'],40
+mcha_14815,['madeira'],1
+mche_53263,['cerâmica', 'pó de ouro'],40
+mrco_36003,['metal', 'vidro', 'mármore', 'metal', 'vidro'],4132
+mcbc_9208,['madeira', 'palha'],65
+minc_172726,['madeira', 'metal', 'tinta'],7
+mche_75697,['madeira', 'pó de ouro'],9
+mche_73271,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_128210,['madeira', 'palha'],65
+mdia_31646,['folha de ouro', 'madeira', 'metal', 'policromia', 'tinta'],4195335
+mche_73782,['gesso', 'madeira', 'pó de ouro'],2057
+mcbc_10847,['vidro'],16
+mche_55458,['cerâmica', 'pó de ouro'],40
+mrsj_21601,['madeira'],1
+minc_234079,[''],0
+mcha_20908,['porcelana'],128
+mche_74854,['madeira', 'palha'],65
+mcbc_10550,['argila', 'vidro', 'madeira', 'metal'],275
+mban_12680,['metal', 'vidro'],18
+minc_229325,[''],0
+mche_53884,['cerâmica', 'pó de ouro'],40
+mche_50371,['madeira', 'palha'],65
+mrsj_22791,['madeira', 'palha'],65
+mcha_21467,['porcelana'],128
+mche_62189,['cerâmica'],32
+mcha_26872,['vidro'],16
+mrco_36439,['madeira', 'tinta'],5
+minc_162523,['metal'],2
+mche_53323,['cerâmica', 'pó de ouro'],40
+mche_70458,['madeira'],1
+mban_4844,['madeira', 'fibra'],262145
+mban_16167,['argila'],256
+mche_68796,['cerâmica', 'pó de ouro'],40
+mche_45986,['casca de ovo', 'madeira', 'marfim', 'papel'],275079233537
+minc_208088,['madeira', 'palha', 'madeira'],66
+mche_72008,['metal', 'vidro'],18
+minc_140902,['metal', 'tinta'],6
+mrsj_28157,[''],0
+mdia_30959,['metal'],2
+mcpr_38040,['metal'],2
+minc_223035,['madeira', 'metal', 'tinta'],7
+minc_201886,['madeira', 'tinta'],5
+mche_44416,['metal', 'vidro'],18
+mhna_163083,['metal'],2
+mche_75190,['madeira', 'palha'],65
+mche_53475,['cerâmica', 'pó de ouro'],40
+mche_61426,['metal'],2
+minc_35935,['madeira', 'pedra', 'tinta'],8197
+mcbc_9488,['madeira', 'palha'],65
+mche_57012,['metal'],2
+mcha_37567,['metal'],2
+mcbc_10839,['vidro'],16
+mche_56452,['cerâmica', 'pó de ouro'],40
+mche_42725,['metal'],2
+mche_61337,['metal'],2
+mdia_33780,['porcelana', 'tinta'],132
+mche_64945,['metal', 'vidro'],18
+mche_44620,['metal', 'vidro'],18
+mche_54833,['madeira', 'palha'],65
+mche_44450,['metal', 'vidro'],18
+mche_75997,['madeira', 'pó de ouro'],9
+mban_5636,['argila'],256
+minc_33969,['madeira', 'tinta'],5
+mche_74565,['gesso', 'madeira', 'pó de ouro'],2057
+mdia_31557,['madeira'],1
+minc_208693,['metal', 'madeira'],3
+mche_58544,['metal'],2
+mcpr_44961,['metal'],2
+minc_41133,['madeira', 'metal'],3
+mcha_19183,['porcelana'],128
+mcha_19462,['porcelana'],128
+minc_224697,[''],0
+mcha_22945,['porcelana'],128
+minc_75684,['pedra-sabão'],17179869184
+minc_10800,['metal', 'tinta', 'vidro'],22
+minc_231046,[''],0
+mcbc_10833,['vidro'],16
+mche_44824,['metal', 'vidro'],18
+mdia_31293,['madeira'],1
+minc_170870,['madeira'],1
+mche_52207,['vidro'],16
+mche_58484,['metal'],2
+mche_63545,['cerâmica', 'pó de ouro'],40
+mche_68856,['cerâmica', 'pó de ouro'],40
+mche_56245,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_210245,['metal'],2
+mcbc_11648,['madeira', 'metal'],3
+minc_174349,['madeira'],1
+mche_58274,['metal'],2
+minc_142354,['metal', 'tinta'],6
+mche_40648,['cerâmica', 'pó de ouro', 'tinta'],44
+mban_5939,['argila'],256
+mche_58008,['metal'],2
+mche_49632,['metal'],2
+mche_61397,['metal'],2
+mche_55754,['cerâmica', 'pó de ouro'],40
+mhna_163403,['metal'],2
+mhna_168030,['vidro'],16
+minc_231860,[''],0
+mche_47226,['madeira', 'palha'],65
+mche_64191,['cerâmica', 'pó de ouro'],40
+mdia_31948,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mcpr_37947,['metal'],2
+mrco_36854,['metal'],2
+mcha_21137,['porcelana'],128
+mche_40812,['madeira', 'palha'],65
+mcpr_33678,['metal'],2
+mrsj_28289,['folha de ouro', 'porcelana', 'tinta'],1156
+mche_74430,['gesso', 'madeira', 'pó de ouro'],2057
+mche_67554,['cerâmica', 'pó de ouro'],40
+minc_205614,['metal', 'madeira'],3
+mche_57829,['metal'],2
+mrco_35826,['folha de ouro', 'madeira', 'tinta'],1029
+mdia_33727,['metal', 'tinta', 'vidro'],22
+mche_48807,['vidro'],16
+mcbc_10891,['madeira', 'palha'],65
+minc_172859,['madeira', 'metal', 'tinta'],7
+mche_74752,['madeira', 'palha'],65
+minc_192184,['madeira'],1
+mdia_31617,['folha de ouro', 'madeira', 'metal', 'policromia', 'tinta'],4195335
+mrco_36107,['metal'],2
+mche_73593,['gesso', 'madeira', 'pó de ouro'],2057
+mche_43756,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_10655,['metal', 'vidro'],18
+mche_50435,['madeira', 'palha'],65
+mcpr_37823,['metal'],2
+mdia_33787,['porcelana', 'tinta'],132
+mcbc_10849,['vidro'],16
+mche_56335,['linha de algodão'],524288
+mcbc_9204,['madeira', 'mármore'],4097
+mrco_35961,['madeira', 'palinha'],32769
+mche_75747,['madeira', 'pó de ouro'],9
+mrco_36159,['porcelana', 'tinta'],132
+minc_43103,['metal', 'madeira', 'vidro'],19
+mche_67906,['madeira', 'palha'],65
+mche_54197,['metal'],2
+minc_140770,['metal', 'tinta'],6
+mche_64716,['cerâmica', 'pó de ouro'],40
+mche_75157,['metal', 'madeira', 'palha'],67
+minc_184907,['metal', 'madeira', 'ouro'],131075
+mche_46125,['linha de algodão', 'linho'],2621440
+mche_62346,['vidro'],16
+minc_226590,[''],0
+mche_67359,['madeira', 'palha'],65
+mcha_47091,['vidro'],16
+minc_174102,['madeira'],1
+mrco_36125,['esmalte', 'porcelana', 'tinta'],644
+minc_83862,['metal'],2
+mhna_168129,['vidro'],16
+mche_73674,['gesso', 'madeira', 'pó de ouro'],2057
+minc_231911,[''],0
+mcha_23334,['porcelana'],128
+mrsj_24250,['folha de ouro', 'madeira', 'tinta'],1029
+mche_66275,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_140196,['metal', 'tinta'],6
+minc_124582,['metal', 'tinta'],6
+mhna_166899,['porcelana'],128
+mcha_22239,['porcelana'],128
+mcha_26764,['vidro'],16
+mban_2219,['pedra'],8192
+mcha_20318,['porcelana'],128
+mche_59739,['metal'],2
+minc_209235,['madeira'],1
+minc_141078,['metal', 'tinta'],6
+mcha_27888,['vidro'],16
+mche_59797,['metal'],2
+mour_5247,['metal', 'madeira'],3
+mdia_34148,['madeira'],1
+mche_49034,['vidro', 'metal'],18
+minc_162483,['metal'],2
+mche_56275,['metal'],2
+mcbc_11512,['madeira', 'metal', 'tinta'],7
+mrsj_24117,['folha de ouro', 'madeira'],1025
+mhna_159708,['vidro'],16
+mche_43350,['metal'],2
+minc_116817,['metal'],2
+mche_45920,['metal'],2
+mcbc_11650,['madeira', 'metal'],3
+minc_89210,['metal', 'fibra têxtil', 'metal'],1048580
+mche_66093,['cerâmica', 'pó de ouro'],40
+mche_44654,['metal', 'vidro'],18
+mche_65418,['cerâmica', 'pó de ouro'],40
+minc_123956,['metal'],2
+mdia_32302,['madeira', 'mármore', 'metal', 'pedra'],12291
+mdia_32118,['madeira', 'palha'],65
+mdia_31686,['folha de ouro', 'madeira', 'policromia', 'tinta'],4195333
+mche_40199,['cerâmica'],32
+mrsj_23201,['madeira', 'palha'],65
+mcbc_9206,['madeira', 'palha'],65
+minc_223501,[''],0
+minc_162315,['metal'],2
+minc_205668,['madeira'],1
+mcbc_10277,['madeira', 'palha'],65
+minc_140990,['metal', 'tinta'],6
+mche_61152,['metal'],2
+minc_47424,['argila', 'esmalte'],768
+minc_112359,['metal'],2
+mche_50730,['cerâmica'],32
+minc_233115,['pedra', 'conchas', 'madeira'],4294975489
+mche_49539,['metal'],2
+mche_54773,['cerâmica', 'pó de ouro'],40
+mban_7583,['madeira', 'metal', 'madeira'],4
+mcpr_45043,['metal'],2
+mhna_160087,['melamina'],2147483648
+mche_75647,['madeira', 'pó de ouro'],9
+minc_30753,['madeira', 'metal', 'tinta'],7
+mrco_36023,['madeira', 'palinha'],32769
+mcbc_9476,['couro', 'madeira', 'metal', 'palha'],16451
+mcha_18625,['porcelana'],128
+mcbc_11419,['argila', 'vidro', 'madeira', 'metal'],275
+mche_71120,['madeira', 'mármore'],4097
+minc_185542,['metal', 'madeira'],3
+minc_84232,['madeira', 'metal', 'tinta'],7
+minc_228699,[''],0
+mche_64616,['cerâmica', 'pó de ouro'],40
+mche_72628,['vidro'],16
+mche_44213,['metal', 'vidro'],18
+mche_55274,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_99905,['madeira'],1
+mche_71470,['metal', 'vidro'],18
+mche_76147,['madeira', 'pó de ouro'],9
+masb_47566,['metal'],2
+minc_47053,['argila', 'esmalte', 'ouro'],131840
+mrco_36133,['esmalte', 'porcelana', 'tinta'],644
+mche_75797,['madeira', 'pó de ouro'],9
+minc_47332,['argila', 'esmalte'],768
+mcbc_11678,['madeira', 'metal'],3
+mrco_35836,['madeira'],1
+mche_45331,['vidro'],16
+minc_185013,['couro', 'madeira', 'metal'],16387
+mche_60127,['metal'],2
+minc_127934,['madeira', 'palha', 'madeira'],66
+mche_41693,['madeira', 'metal', 'palha'],67
+minc_231779,[''],0
+mche_73998,['gesso', 'madeira', 'pó de ouro'],2057
+mche_51270,['cerâmica', 'pó de ouro'],40
+mche_66606,['cerâmica', 'pó de ouro'],40
+mcbc_10439,['madeira', 'metal', 'papel', 'tinta', 'vidro'],67108887
+mche_51300,['cerâmica', 'pó de ouro'],40
+minc_10609,['metal', 'vidro'],18
+mche_73971,['gesso', 'madeira', 'pó de ouro'],2057
+mrco_36852,['metal'],2
+mcbc_10765,['vidro'],16
+mcbc_11506,['argila', 'vidro', 'metal'],274
+mrsj_21030,['madeira', 'metal'],3
+mche_65477,['cerâmica', 'pó de ouro'],40
+mche_42878,['metal'],2
+mche_54961,['cerâmica', 'pó de ouro'],40
+mhna_162758,['metal'],2
+mche_49754,['metal'],2
+minc_228585,[''],0
+masb_52044,['metal', 'plástico'],1073741826
+mrco_36099,['metal'],2
+mban_14228,['madeira'],1
+minc_80099,['metal', 'madeira', 'tinta'],7
+minc_163456,['metal'],2
+minc_43322,['madeira', 'metal', 'tinta'],7
+mdia_32277,['madeira', 'metal', 'policromia', 'tinta'],4194311
+mdia_31315,['madeira', 'marfim'],134217729
+minc_225565,[''],0
+mche_53383,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_186884,['madeira'],1
+mrco_35975,['madeira', 'palinha'],32769
+mche_63605,['cerâmica', 'pó de ouro'],40
+mcha_27838,['vidro'],16
+mcbc_10647,['metal'],2
+minc_175676,['madeira'],1
+mche_51090,['cerâmica', 'pó de ouro'],40
+mcbc_10641,['metal'],2
+mhna_162889,['metal'],2
+minc_39434,['metal', 'madeira'],3
+minc_188855,['madeira', 'palha'],65
+mcha_20940,['porcelana'],128
+mhna_163786,['metal'],2
+mche_50897,['cerâmica', 'pó de ouro'],40
+mche_54563,['cerâmica', 'pó de ouro'],40
+minc_233801,[''],0
+mcbc_9478,['couro', 'madeira', 'metal', 'palha'],16451
+mche_73890,['gesso', 'madeira', 'pó de ouro'],2057
+minc_36355,['metal', 'madeira'],3
+mhna_166257,['porcelana'],128
+minc_47378,['argila', 'esmalte'],768
+mche_58038,['metal'],2
+mhna_163647,['metal'],2
+mche_44010,['madeira'],1
+minc_111536,['metal'],2
+minc_203625,['metal', 'madeira'],3
+mche_66366,['cerâmica', 'pó de ouro'],40
+mche_55149,['metal'],2
+minc_140416,['metal', 'tinta'],6
+mrsj_21560,['madeira', 'metal'],3
+mdia_31496,['', 'metal'],2
+mche_51330,['cerâmica', 'pó de ouro'],40
+minc_73140,['madeira', 'metal', 'tinta'],7
+minc_228821,[''],0
+mcbc_10287,['argila', 'vidro', 'metal'],274
+mcbc_10450,['metal'],2
+minc_141958,['metal', 'tinta'],6
+minc_42057,['couro', 'madeira'],16385
+mdia_31953,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+minc_189317,['madeira', 'palha', 'madeira'],66
+mcha_25205,['porcelana'],128
+mche_57279,['vidro'],16
+mche_42320,['vidro'],16
+mche_62948,['cerâmica', 'pó de ouro'],40
+mcha_20972,['porcelana'],128
+mche_59083,['metal'],2
+mche_70493,['madeira', 'metal', 'palha'],67
+minc_70992,['madeira', 'palha', 'madeira'],66
+mche_54653,['cerâmica', 'pó de ouro'],40
+mcha_15585,['madeira', 'palha'],65
+mrsj_24337,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+minc_5480,['metal', 'madeira'],3
+mcha_19276,['porcelana'],128
+minc_35354,['madeira', 'pedra', 'tinta'],8197
+minc_111618,['metal'],2
+mche_61680,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_71291,['tecido', 'linha de algodão'],589824
+mrco_35921,['madeira', 'metal', 'tinta'],7
+mcha_21236,['porcelana'],128
+mche_40456,['madeira', 'palha'],65
+minc_208589,['madeira'],1
+mcbc_10769,['argila', 'tinta'],260
+minc_224237,[''],0
+mdia_33825,['folha de ouro', 'porcelana', 'tinta'],1156
+mcha_18501,['porcelana'],128
+mche_66516,['cerâmica', 'pó de ouro'],40
+minc_182759,['madeira', 'metal', 'tinta'],7
+mche_73329,['metal'],2
+minc_124769,['metal'],2
+mcha_19803,['porcelana'],128
+mche_46152,['linha de algodão', 'linho'],2621440
+mche_66486,['cerâmica', 'pó de ouro'],40
+minc_207368,['madeira'],1
+mrco_36509,['madeira', 'palinha'],32769
+mche_50063,['metal'],2
+minc_166185,['madeira'],1
+minc_87879,['metal'],2
+minc_141122,['metal', 'tinta'],6
+mche_43787,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_85265,['madeira', 'tinta'],5
+minc_155886,['metal'],2
+minc_34060,['metal', 'tinta'],6
+minc_180472,['metal'],2
+mche_44348,['metal', 'vidro'],18
+mabo_496,['metal'],2
+mban_12486,['madeira'],1
+mcbc_10075,['argila'],256
+mche_63727,['cerâmica', 'pó de ouro'],40
+minc_142090,['metal', 'tinta'],6
+mcha_21203,['porcelana'],128
+mdia_31977,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mban_1713,['madeira'],1
+minc_230750,[''],0
+minc_223692,[''],0
+mcha_18811,['porcelana'],128
+mche_72367,['vidro'],16
+minc_116531,['metal', 'madeira'],3
+mrco_36456,['madeira', 'tinta'],5
+mche_56740,['madeira', 'palha'],65
+mrco_36151,['esmalte', 'porcelana', 'tinta'],644
+minc_172102,['madeira'],1
+minc_228427,[''],0
+mcbc_11438,['argila', 'verniz'],33554688
+masb_61738,['madeira'],1
+minc_41088,['opalina'],536870912
+minc_188699,['metal', 'madeira'],3
+minc_208193,['madeira', 'palha', 'madeira'],66
+mrsj_21805,['madeira'],1
+minc_206146,['metal', 'madeira'],3
+minc_41847,['metal', 'madeira', 'tinta'],7
+mche_73007,['cerâmica', 'pó de ouro'],40
+masb_63559,['metal'],2
+minc_208035,['madeira', 'palha', 'madeira'],66
+mche_62600,['cerâmica', 'tinta'],36
+mcbc_9454,['vidro'],16
+minc_175773,['madeira', 'palha'],65
+minc_174972,['madeira', 'metal', 'tinta'],7
+mche_74106,['gesso', 'madeira', 'pó de ouro'],2057
+mban_7074,['argila'],256
+mrco_36458,['madeira', 'tinta'],5
+mche_66576,['cerâmica', 'pó de ouro'],40
+mcha_19152,['porcelana'],128
+minc_184648,['madeira', 'palha'],65
+mche_65567,['cerâmica', 'pó de ouro'],40
+mche_74511,['gesso', 'madeira', 'pó de ouro'],2057
+mche_51649,['vidro'],16
+mche_60690,['madeira', 'palha'],65
+mche_40230,['cerâmica'],32
+minc_10906,['metal', 'vidro'],18
+mche_55488,['madeira', 'palha'],65
+mche_47857,['madeira'],1
+mche_45514,['vidro'],16
+mcpr_36048,['metal', 'madeira', 'tinta'],7
+minc_230509,[''],0
+mdia_31863,['madeira', 'metal', 'tinta'],7
+minc_156653,['metal', 'madeira', 'tinta'],7
+minc_142310,['metal', 'tinta'],6
+mche_65357,['cerâmica', 'pó de ouro'],40
+minc_232414,[''],0
+mdia_31299,['madeira', 'vidro'],17
+minc_5633,['madeira'],1
+mcbc_9316,['madeira', 'mármore'],4097
+minc_161820,['madeira'],1
+mcha_21961,['porcelana'],128
+mrsj_21520,['madeira', 'metal'],3
+minc_46457,['metal'],2
+mcpr_44717,['argila', 'vidro'],272
+mche_73485,['gesso', 'madeira', 'pó de ouro'],2057
+mcha_31572,['argila'],256
+mche_71662,['madeira', 'palha'],65
+mche_61486,['madeira', 'mármore'],4097
+minc_111991,['metal'],2
+mcha_15407,['madeira'],1
+mrsj_15658,['folha de ouro', 'porcelana', 'tinta'],1156
+minc_124678,['metal', 'tinta'],6
+mcbc_10093,['argila', 'vidro', 'madeira', 'metal'],275
+minc_11901,['metal'],2
+mhna_163682,['metal'],2
+minc_201191,['madeira'],1
+minc_184306,['metal', 'madeira'],3
+minc_186159,['madeira'],1
+mcbc_11670,['madeira', 'metal'],3
+minc_139408,['metal', 'madeira'],3
+mcha_21104,['porcelana'],128
+mrsj_22054,['madeira'],1
+mche_66245,['cerâmica', 'pó de ouro'],40
+mche_60626,['metal'],2
+mcha_26737,['vidro'],16
+minc_228858,[''],0
+mrco_36013,['madeira', 'palinha'],32769
+mrco_36513,['madeira', 'palinha'],32769
+mche_59412,['metal'],2
+mcha_23059,['porcelana'],128
+mrsj_20382,['madeira'],1
+mcbc_10482,['madeira', 'mármore'],4097
+mcha_35299,['linha'],16777216
+minc_86948,['metal'],2
+minc_207487,['madeira', 'palha'],65
+minc_205770,['metal', 'madeira'],3
+minc_34461,['madeira', 'metal', 'tinta'],7
+mche_46179,['linha de algodão', 'linho'],2621440
+mcbc_10873,['metal', 'madeira', 'verniz'],33554435
+mban_1752,['madeira'],1
+minc_12046,['metal'],2
+minc_206093,['madeira', 'metal'],3
+mdia_31283,['madeira', 'palha'],65
+minc_73318,['metal', 'madeira'],3
+minc_224890,[''],0
+minc_186769,['madeira', 'palha'],65
+minc_233373,[''],0
+minc_147966,['metal', 'metal'],4
+mhna_160476,['porcelana'],128
+mche_55618,['cerâmica', 'pó de ouro'],40
+minc_110376,['metal'],2
+mche_44145,['metal', 'vidro'],18
+minc_30625,['madeira'],1
+mhna_166793,['porcelana'],128
+minc_175519,['madeira'],1
+mche_51957,['madeira', 'palha'],65
+minc_165781,['madeira', 'tinta'],5
+minc_223179,[''],0
+minc_185977,['madeira', 'palha', 'madeira'],66
+mche_50695,['madeira', 'palha'],65
+mche_57767,['metal'],2
+mrsj_16349,['madeira'],1
+mcha_19741,['porcelana'],128
+mcha_14586,['madeira'],1
+minc_72826,['madeira', 'palha'],65
+mcha_23248,['porcelana'],128
+mche_72339,['vidro'],16
+minc_162727,['metal'],2
+mche_71538,['metal', 'vidro'],18
+minc_225798,[''],0
+minc_101145,['metal'],2
+mche_73065,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_55304,['madeira', 'metal', 'palha'],67
+mcha_21903,['porcelana'],128
+mhna_159737,['vidro'],16
+minc_175574,['madeira', 'tinta'],5
+minc_41523,['metal', 'madeira'],3
+mche_75023,['madeira', 'palha'],65
+minc_36266,['madeira'],1
+minc_183208,['madeira', 'purpurina', 'tinta'],8388613
+mhna_163435,['metal'],2
+mcbc_11632,['madeira', 'metal', 'tecido', 'vidro'],65555
+mcbc_10751,['vidro'],16
+minc_140946,['metal', 'tinta'],6
+mche_65217,['metal', 'vidro'],18
+mche_63883,['vidro', 'metal'],18
+minc_23969,['madeira', 'metal', 'madeira'],4
+minc_113029,['couro', 'metal', 'madeira'],16387
+minc_232252,[''],0
+minc_174001,['madeira'],1
+mche_47093,['metal'],2
+mban_4963,['madeira', 'fibra'],262145
+mche_54623,['cerâmica', 'pó de ouro'],40
+mcha_20417,['porcelana'],128
+mcha_22213,['porcelana'],128
+minc_206195,['metal', 'madeira'],3
+minc_201781,['metal', 'madeira'],3
+minc_165948,['madeira'],1
+masb_48935,['metal'],2
+mcha_19214,['porcelana'],128
+mche_51180,['cerâmica', 'pó de ouro'],40
+minc_96432,['metal', 'tinta', 'vidro'],22
+minc_174398,['metal', 'madeira'],3
+mcha_27478,['vidro'],16
+mche_74268,['gesso', 'madeira', 'pó de ouro'],2057
+minc_102237,['metal'],2
+mche_54803,['cerâmica', 'pó de ouro'],40
+mhna_166162,['porcelana'],128
+mche_73647,['gesso', 'madeira', 'pó de ouro'],2057
+mhna_166450,['porcelana'],128
+mcbc_10907,['madeira', 'palha'],65
+mrsj_27718,['folha de ouro', 'tinta', 'vidro'],1044
+minc_174147,['madeira'],1
+mche_58843,['metal'],2
+mche_54105,['cerâmica', 'pó de ouro', 'tinta'],44
+mrco_36476,['madeira', 'tinta'],5
+mban_13840,['metal'],2
+mcbc_11508,['madeira', 'metal', 'tinta'],7
+minc_155837,['metal'],2
+minc_230621,[''],0
+mhna_168261,['vidro'],16
+mche_54473,['cerâmica', 'pó de ouro'],40
+minc_128166,['madeira', 'palha'],65
+mhna_163051,['metal'],2
+mche_64911,['metal', 'vidro'],18
+mche_40937,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_111949,['metal'],2
+mdia_31568,['madeira', 'metal'],3
+mcbc_9218,['madeira', 'palha'],65
+minc_41277,['madeira', 'metal'],3
+mcha_25050,['porcelana'],128
+minc_201722,['madeira', 'metal', 'tinta'],7
+mban_3401,['madeira'],1
+minc_111297,['metal'],2
+mhna_163575,['metal'],2
+mban_5864,['argila'],256
+minc_127832,['madeira', 'palha'],65
+mcbc_11636,['madeira', 'metal'],3
+minc_201088,['madeira', 'palha', 'madeira'],66
+minc_73654,['madeira', 'palha'],65
+minc_34640,['madeira', 'pedra', 'tinta'],8197
+mrsj_17353,['folha de ouro', 'tinta'],1028
+mcha_37481,['metal'],2
+mche_40262,['madeira', 'mármore', 'metal'],4099
+minc_99487,['madeira'],1
+mdia_30943,['metal'],2
+mcbc_11482,['metal', 'tinta'],6
+minc_111899,['metal'],2
+minc_162161,['metal'],2
+mrsj_20826,['madeira'],1
+minc_196716,['fibra têxtil'],1048576
+mche_41865,['metal'],2
+mcpr_36018,['metal', 'madeira', 'tinta'],7
+mcpr_45016,['metal'],2
+mrco_36043,['esmalte', 'metal', 'vidro'],530
+minc_173507,['madeira', 'tinta'],5
+minc_186556,['madeira'],1
+mche_76253,['argila', 'caulim'],549755814144
+mche_54593,['cerâmica', 'pó de ouro'],40
+mche_47691,['madeira', 'palha'],65
+mdia_31393,['madeira', 'palha'],65
+mrco_36199,['madeira'],1
+minc_193160,['metal'],2
+mrsj_23975,['folha de ouro', 'madeira', 'metal', 'tinta'],1031
+minc_161644,['madeira', 'tinta'],5
+mdia_31883,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mour_5446,['metal', 'madeira'],3
+mcha_19834,['porcelana'],128
+minc_163375,['metal'],2
+mhna_166730,['porcelana'],128
+mche_59023,['metal'],2
+mrsj_23758,['madeira', 'tinta'],5
+mche_69344,['cerâmica', 'pó de ouro'],40
+mche_58963,['metal'],2
+mrco_35999,['madeira'],1
+mrsj_27937,['folha de ouro', 'porcelana', 'tinta'],1156
+mcbc_9538,['couro', 'madeira', 'palha'],16449
+mban_16055,['argila'],256
+mche_47440,['metal'],2
+minc_226550,[''],0
+minc_31693,['madeira'],1
+mcha_19617,['porcelana'],128
+mche_45726,['cerâmica', 'pó de ouro', 'tinta'],44
+mhna_163147,['metal'],2
+mche_72074,['metal', 'vidro'],18
+mrsj_21232,['madeira'],1
+minc_124810,['metal'],2
+minc_111391,['metal'],2
+mban_16130,['argila'],256
+mrco_36454,['madeira', 'tinta'],5
+mhna_159655,['vidro'],16
+mche_58813,['metal'],2
+mban_7194,['madeira'],1
+mche_66546,['cerâmica', 'pó de ouro', 'tinta'],44
+mhna_163716,['metal'],2
+minc_183473,['metal', 'madeira'],3
+mrsj_22422,['madeira', 'palha'],65
+minc_10379,['metal', 'vidro'],18
+minc_73855,['madeira', 'palha'],65
+minc_37685,['madeira', 'metal', 'tinta'],7
+mche_76097,['madeira', 'pó de ouro'],9
+mcha_20219,['porcelana'],128
+minc_173845,['metal', 'madeira'],3
+minc_34821,['madeira', 'pedra', 'tinta'],8197
+masb_49027,['metal'],2
+minc_193207,['metal'],2
+mche_76022,['madeira', 'pó de ouro'],9
+minc_146956,['madeira'],1
+minc_12701,['metal', 'madeira'],3
+mrco_36103,['metal', 'tinta'],6
+mcbc_11105,['madeira', 'palha'],65
+mcbc_11706,['madeira', 'metal'],3
+minc_42588,['madeira', 'metal'],3
+mrsj_23659,['madeira', 'metal', 'tinta'],7
+minc_29313,['madeira', 'palha'],65
+minc_225752,[''],0
+mrsj_15614,['folha de ouro', 'porcelana', 'tinta'],1156
+mdia_31552,['madeira', 'metal'],3
+mhna_166291,['porcelana'],128
+minc_9887,['metal', 'madeira'],3
+mcha_58911,['metal'],2
+mche_76047,['madeira', 'pó de ouro'],9
+mche_68159,['metal'],2
+minc_89025,['madeira', 'tinta'],5
+mche_42256,['metal', 'madeira', 'palha'],67
+mche_50338,['madeira', 'palha'],65
+mche_72143,['vidro'],16
+mhna_167840,['metal'],2
+minc_230664,[''],0
+minc_81085,['madeira', 'tinta'],5
+mcha_19028,['porcelana'],128
+mche_47410,['metal'],2
+minc_25520,['metal', 'madeira'],3
+mche_74025,['gesso', 'madeira', 'pó de ouro'],2057
+minc_20423,['madeira'],1
+minc_84187,['metal', 'madeira', 'tinta'],7
+minc_162643,['metal'],2
+mche_72455,['vidro'],16
+mcbc_11658,['madeira', 'metal'],3
+minc_70697,['madeira'],1
+mdia_34432,['madeira'],1
+minc_35832,['madeira', 'pedra', 'tinta'],8197
+minc_79591,['madeira', 'tinta'],5
+mdia_31575,['madeira', 'metal'],3
+mcha_22912,['porcelana'],128
+minc_176310,['madeira', 'metal', 'tinta'],7
+minc_204454,['madeira'],1
+minc_208446,['madeira', 'palha'],65
+mdia_34314,['madeira', 'palha'],65
+mcha_22135,['porcelana'],128
+mche_43663,['cerâmica', 'pó de ouro', 'tinta'],44
+mcbc_9554,['argila', 'vidro', 'metal'],274
+minc_124301,['metal', 'madeira'],3
+minc_232675,['metal'],2
+mcha_20549,['porcelana'],128
+mche_49902,['metal'],2
+mdia_31240,['madeira'],1
+mche_73863,['gesso', 'madeira', 'pó de ouro'],2057
+mrsj_23078,['madeira', 'palha'],65
+mche_46746,['metal'],2
+mche_48964,['madeira'],1
+mche_70232,['madeira'],1
+mche_55875,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_49387,['metal'],2
+mche_72484,['vidro'],16
+minc_123548,['metal', 'metal'],4
+minc_186267,['madeira', 'palha'],65
+mdia_33273,['madeira', 'metal', 'policromia', 'tinta'],4194311
+mcbc_11492,['madeira'],1
+mhna_159620,['vidro'],16
+mban_5309,['madeira', 'fibra'],262145
+mche_40140,['cerâmica', 'pó de ouro'],40
+mban_4761,['metal'],2
+mcbc_11500,['madeira', 'mármore'],4097
+mcbc_9308,['madeira', 'tecido', 'tinta', 'vidro'],65557
+mche_58724,['metal'],2
+minc_201620,['madeira', 'metal', 'tinta'],7
+minc_110192,['metal'],2
+mhna_168194,['vidro'],16
+mche_52176,['vidro'],16
+mban_16629,['madeira'],1
+mcbc_10711,['madeira', 'mármore', 'metal'],4099
+mban_1632,['madeira'],1
+mche_55242,['cerâmica', 'pó de ouro'],40
+minc_35269,['madeira', 'pedra', 'tinta'],8197
+minc_112317,['metal'],2
+minc_30883,['madeira', 'ouro'],131073
+mche_57161,['metal'],2
+mche_65936,['cerâmica', 'pó de ouro'],40
+minc_139918,['metal', 'purpurina', 'tinta'],8388614
+minc_183736,['metal', 'madeira'],3
+minc_162399,['metal'],2
+minc_88724,['madeira'],1
+mche_43004,['metal'],2
+minc_232714,['metal'],2
+minc_163215,['metal'],2
+mrco_36470,['madeira', 'tinta'],5
+minc_139834,['metal', 'purpurina', 'tinta'],8388614
+minc_73506,['madeira', 'palha'],65
+mcha_19772,['porcelana'],128
+minc_23923,['metal', 'madeira'],3
+mrco_36163,['porcelana', 'tinta'],132
+minc_233334,[''],0
+minc_140592,['metal', 'tinta'],6
+mche_50403,['metal'],2
+mdia_32287,['madeira', 'metal', 'policromia', 'tinta'],4194311
+mrsj_28201,[''],0
+mban_4632,['madeira'],1
+mche_75256,['madeira', 'metal', 'palha'],67
+mban_5751,['argila'],256
+mche_48610,['madeira', 'palha'],65
+mche_41314,['madeira', 'palha'],65
+mche_52777,['cerâmica', 'pó de ouro'],40
+mche_53233,['cerâmica', 'pó de ouro'],40
+mche_72309,['vidro'],16
+minc_170827,['madeira', 'metal', 'tinta'],7
+minc_72453,['metal', 'madeira', 'tinta'],7
+mdia_31739,['metal'],2
+mcha_47293,['vidro'],16
+mdia_31144,['madeira', 'metal'],3
+mche_60724,['madeira', 'palha'],65
+mour_5241,['couro lavrado', 'madeira', 'metal'],268435459
+minc_34013,['metal', 'tinta'],6
+mche_75672,['madeira', 'pó de ouro'],9
+mhna_166638,['porcelana'],128
+mdia_30951,['metal'],2
+mcbc_10089,['linha', '', 'tecido'],16842752
+minc_174505,['madeira', 'metal'],3
+mche_63220,['cerâmica', 'pó de ouro'],40
+mche_61092,['metal'],2
+mcbc_11149,['argila', 'vidro', 'madeira', 'metal'],275
+minc_72988,['palha', 'madeira'],65
+mche_74922,['madeira', 'palha'],65
+mban_9869,['vidro'],16
+mche_62978,['cerâmica', 'pó de ouro'],40
+minc_112657,['metal'],2
+mche_44961,['metal', 'vidro'],18
+mche_58933,['metal'],2
+mcha_19586,['porcelana'],128
+mche_70032,['argila'],256
+mche_74160,['gesso', 'madeira', 'pó de ouro'],2057
+minc_110837,['metal'],2
+minc_24015,['madeira'],1
+minc_102104,['metal'],2
+mche_60758,['madeira', 'palha'],65
+mdia_31168,['metal'],2
+minc_176215,['palha', 'madeira', 'metal'],67
+mban_6580,['madeira'],1
+minc_172620,['madeira'],1
+mche_66894,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_42157,['metal'],2
+minc_11855,['metal'],2
+mdia_31154,['madeira', 'metal'],3
+minc_42446,['madeira', 'metal'],3
+mche_47192,['madeira', 'palha'],65
+mban_5271,['madeira', 'fibra'],262145
+minc_140240,['metal', 'tinta'],6
+mrco_36045,['madeira', 'metal'],3
+minc_47512,['argila', 'esmalte'],768
+minc_105051,['madeira', 'metal', 'tinta'],7
+mdia_31908,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mrsj_22586,['madeira', 'palha'],65
+mche_68373,['cerâmica', 'pó de ouro'],40
+mche_57797,['metal'],2
+mche_47291,['vidro'],16
+minc_186445,['metal', 'madeira'],3
+mche_48136,['metal'],2
+mcha_23140,['porcelana'],128
+mche_53293,['cerâmica', 'pó de ouro'],40
+mcha_20285,['porcelana'],128
+mcha_26710,['vidro'],16
+minc_83042,['metal', 'tinta', 'vidro'],22
+minc_188434,['metal', 'madeira'],3
+minc_227515,[''],0
+mban_16093,['argila'],256
+mcbc_9460,['madeira', 'mármore', 'metal', 'tinta', 'vidro'],4119
+mche_69602,['vidro'],16
+mche_54867,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_52903,['cerâmica', 'pó de ouro'],40
+mche_56604,['madeira', 'palha'],65
+minc_184417,['metal'],2
+mche_48341,['vidro'],16
+mche_53113,['cerâmica', 'pó de ouro'],40
+minc_42725,['madeira', 'tinta'],5
+mche_47122,['madeira', 'palha'],65
+mban_7034,['argila'],256
+mche_55998,['cerâmica', 'pó de ouro'],40
+mour_5332,['madeira', 'metal'],3
+mcbc_9246,['metal', 'vidro'],18
+mcbc_10771,['argila', 'tinta'],260
+mche_74888,['madeira', 'palha'],65
+mche_43942,['madeira', 'palha'],65
+minc_231434,[''],0
+minc_209007,['metal', 'madeira'],3
+mche_43507,['linha de seda'],1099511627776
+mhna_163308,['metal'],2
+minc_95874,['metal', 'madeira'],3
+mban_7233,['madeira'],1
+minc_105106,['madeira', 'metal', 'tinta'],7
+minc_174765,['madeira', 'metal', 'madeira'],4
+mche_62312,['madeira', 'palha'],65
+minc_170972,['metal', 'madeira', 'ouro'],131075
+minc_127692,['madeira', 'palha'],65
+mche_41450,['madeira', 'palha'],65
+mdia_31535,['madeira', 'metal', 'tinta'],7
+minc_207982,['madeira', 'palha', 'madeira'],66
+mcha_20351,['porcelana'],128
+mche_59143,['metal'],2
+mcbc_9977,['linha'],16777216
+minc_106898,['metal'],2
+mhna_162954,['metal'],2
+mche_59232,['metal'],2
+mdia_31965,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+minc_29225,['madeira', 'palha'],65
+masb_48428,['madeira', 'metal'],3
+mcpr_37854,['metal'],2
+mche_71189,['madeira', 'palha'],65
+minc_42114,['madeira', 'metal'],3
+mcbc_11672,['madeira', 'metal'],3
+mhna_160176,['melamina'],2147483648
+mche_40712,['madeira', 'policromia'],4194305
+mche_56808,['metal'],2
+mcha_21786,['porcelana'],128
+minc_185911,['madeira', 'palha', 'madeira'],66
+mche_54897,['cerâmica', 'pó de ouro'],40
+mcha_24930,['porcelana'],128
+mcha_22846,['porcelana'],128
+mrsj_20948,['madeira'],1
+mche_63757,['metal', 'vidro'],18
+minc_79547,['madeira', 'tinta'],5
+minc_17568,['madeira'],1
+mche_51150,['cerâmica', 'pó de ouro'],40
+mche_70797,['vidro'],16
+minc_119551,['metal'],2
+minc_112441,['metal'],2
+mcha_18842,['porcelana'],128
+minc_169955,['madeira'],1
+mcbc_10486,['madeira', 'mármore'],4097
+mcha_21401,['porcelana'],128
+mche_70923,['tecido'],65536
+mcha_20450,['porcelana'],128
+mrco_36846,['metal', 'tinta'],6
+minc_83910,['metal'],2
+minc_110745,['metal'],2
+mche_65013,['metal', 'vidro'],18
+minc_192671,['argila'],256
+mrco_36559,['metal', 'madeira', 'tinta'],7
+minc_100207,['metal', 'madeira'],3
+minc_184960,['metal', 'madeira', 'metal'],5
+mhna_167966,['metal'],2
+mche_57890,['metal'],2
+mcpr_44594,['plástico'],1073741824
+mche_73036,['cerâmica', 'pó de ouro'],40
+mche_73917,['gesso', 'madeira', 'pó de ouro'],2057
+mche_62252,['cerâmica', 'pó de ouro'],40
+mche_47994,['madeira', 'palha'],65
+minc_231509,[''],0
+mrco_36441,['madeira', 'tinta'],5
+mche_63575,['cerâmica', 'pó de ouro'],40
+mche_70167,['madeira', 'mármore'],4097
+mche_73701,['gesso', 'madeira', 'pó de ouro'],2057
+mcha_23365,['porcelana'],128
+mcha_25171,['porcelana'],128
+mche_47380,['vidro'],16
+minc_174451,['madeira', 'palha'],65
+mdia_31171,['metal'],2
+mcpr_44930,['argila'],256
+mrco_36001,['metal', 'vidro'],18
+masb_49404,['madeira'],1
+mrsj_22340,['madeira', 'metal'],3
+mche_49962,['cerâmica', 'pó de ouro', 'tinta'],44
+mcbc_10829,['vidro'],16
+mcha_30622,['madeira', 'metal'],3
+mche_58454,['metal'],2
+mche_68676,['cerâmica', 'pó de ouro'],40
+minc_183631,['madeira'],1
+mche_76122,['madeira', 'pó de ouro'],9
+mche_53630,['cerâmica', 'pó de ouro'],40
+mrsj_24879,['folha de ouro', 'porcelana', 'tinta'],1156
+mche_40554,['metal', 'vidro'],18
+mcha_26788,['vidro'],16
+mabo_763,['madeira', 'vidro'],17
+minc_171325,['metal', 'madeira'],3
+mche_41898,['cerâmica', 'pó de ouro'],40
+mche_52567,['cerâmica', 'pó de ouro'],40
+mdia_31972,['cerâmica', '', 'esmalte', 'porcelana', 'tinta'],676
+minc_233979,[''],0
+mche_59590,['metal'],2
+mrsj_20424,['madeira', 'metal'],3
+mrco_36577,['folha de ouro', 'madeira', 'tinta'],1029
+mche_44586,['metal', 'vidro'],18
+minc_188101,['madeira', 'palha'],65
+mhna_159681,['vidro'],16
+mrsj_24715,['folha de ouro', 'metal', 'tinta', 'vidro'],1046
+minc_41417,['metal', 'madeira'],3
+mcha_28796,['metal'],2
+mabo_787,['metal'],2
+mcpr_45509,['madeira', 'metal'],3
+mche_41485,['madeira', 'palha'],65
+minc_99614,['madeira', 'tinta'],5
+mabo_493,['metal'],2
+mche_64979,['metal', 'vidro'],18
+mche_45301,['metal'],2
+mdia_31913,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mdia_31261,['vidro', 'folha de ouro', 'gesso', 'madeira'],3089
+mcbc_11654,['madeira', 'metal'],3
+minc_70404,['madeira'],1
+mcpr_45539,['metal'],2
+mche_74619,['madeira', 'mármore'],4097
+minc_110564,['metal'],2
+mhna_168063,['vidro'],16
+mour_5921,['madeira'],1
+mcha_27814,['vidro'],16
+mche_43255,['metal'],2
+mche_54381,['metal'],2
+mrsj_22627,['madeira', 'palha'],65
+mcha_22161,['porcelana'],128
+minc_159552,['madeira'],1
+minc_189137,['madeira', 'palha'],65
+mban_5546,['pedra', 'metal'],8194
+mche_66636,['cerâmica', 'pó de ouro'],40
+minc_10320,['metal'],2
+minc_30668,['metal', 'madeira', 'tinta'],7
+minc_123452,['metal', 'metal'],4
+mcha_19896,['porcelana'],128
+mcbc_10885,['madeira', 'palha'],65
+mche_40331,['madeira', 'palha'],65
+mche_52054,['metal'],2
+mcha_22317,['porcelana'],128
+mcha_21170,['porcelana'],128
+minc_46556,['metal'],2
+mdia_31123,['madeira', 'palha'],65
+mcbc_9470,['couro', 'madeira', 'metal', 'palha'],16451
+minc_189469,['madeira', 'palha', 'madeira'],66
+mcbc_11470,['resina', 'vidro'],8589934608
+mche_58128,['metal'],2
+minc_142222,['metal', 'tinta'],6
+minc_184529,['fibra têxtil', 'madeira'],1048577
+minc_70946,['madeira', 'palha', 'madeira'],66
+mche_45165,['metal', 'vidro'],18
+mrco_36651,['metal', 'vidro'],18
+mcha_22745,['porcelana'],128
+mdia_31530,['madeira', 'metal'],3
+minc_147590,['metal'],2
+mche_42973,['metal'],2
+mcha_19121,['porcelana'],128
+minc_105760,['argila', 'esmalte', 'verniz'],33555200
+minc_227661,[''],0
+mche_61307,['metal'],2
+mche_59322,['metal'],2
+mcbc_10801,['metal'],2
+mban_5194,['madeira', 'fibra'],262145
+mrco_36466,['folha de ouro', 'madeira', 'tinta'],1029
+mche_67807,['cerâmica', 'pó de ouro'],40
+mrsj_28113,[''],0
+mche_68766,['cerâmica', 'pó de ouro'],40
+mcbc_11169,['argila', 'vidro', 'madeira', 'metal'],275
+mcha_14914,['vidro', 'madeira', 'mármore', 'metal'],4115
+mche_57248,['vidro'],16
+mche_51025,['cerâmica'],32
+mche_51210,['cerâmica', 'pó de ouro'],40
+mche_59382,['metal'],2
+mche_74990,['madeira', 'palha'],65
+mche_64068,['vidro', 'metal'],18
+mban_5788,['argila'],256
+mche_76468,['linha', 'tecido'],16842752
+minc_231290,[''],0
+mche_72542,['vidro'],16
+mrsj_21724,['madeira', 'metal'],3
+mrsj_21479,['madeira'],1
+minc_41735,['metal', 'madeira', 'tinta'],7
+minc_119338,['metal'],2
+mhna_166481,['porcelana'],128
+minc_35547,['madeira', 'pedra', 'tinta'],8197
+mour_5263,['metal', 'madeira', 'policromia'],4194307
+mrco_36555,['folha de ouro', 'madeira', 'tinta'],1029
+minc_142002,['metal', 'tinta'],6
+mche_64254,['vidro', 'gesso', 'madeira', 'pó de ouro'],2073
+mche_58514,['metal'],2
+mcbc_11686,['madeira', 'metal'],3
+minc_231326,[''],0
+mche_65448,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_44722,['metal', 'vidro'],18
+mcpr_37730,['metal'],2
+mhna_163821,['metal'],2
+minc_184358,['metal'],2
+mcha_27987,['vidro'],16
+mche_53023,['cerâmica', 'pó de ouro'],40
+mche_54713,['cerâmica', 'pó de ouro'],40
+minc_188591,['metal', 'madeira'],3
+mche_73539,['gesso', 'madeira', 'pó de ouro'],2057
+mche_42847,['metal'],2
+mrsj_22996,['madeira', 'palha'],65
+mhna_166065,['porcelana'],128
+minc_209101,['couro', 'madeira'],16385
+minc_94358,['metal'],2
+minc_100634,['madeira', 'metal', 'tinta'],7
+minc_41890,['madeira', 'metal'],3
+minc_110051,['metal'],2
+mban_1674,['madeira'],1
+minc_110517,['metal'],2
+mcha_20780,['porcelana'],128
+minc_142178,['metal', 'tinta'],6
+minc_34509,['madeira', 'metal', 'tinta'],7
+mche_60458,['metal'],2
+minc_39643,['madeira', 'metal', 'tinta'],7
+minc_187323,['metal', 'madeira'],3
+mche_69769,['cerâmica', 'pó de ouro', 'tinta'],44
+mcbc_11698,['madeira', 'metal'],3
+mcbc_11712,['madeira', 'metal'],3
+minc_37599,['metal', 'madeira', 'tinta'],7
+minc_15965,['metal'],2
+masb_48967,['metal'],2
+mrsj_21683,['madeira'],1
+minc_171417,['madeira'],1
+mcbc_11161,['madeira', 'metal', 'tinta'],7
+mche_48237,['metal', 'vidro'],18
+mcbc_10478,['madeira', 'metal'],3
+mche_75090,['madeira', 'palha'],65
+mche_63038,['cerâmica', 'pó de ouro'],40
+mcbc_10853,['metal', 'vidro'],18
+mcha_21302,['porcelana'],128
+mcha_27863,['vidro'],16
+minc_165543,['metal'],2
+minc_147631,['metal'],2
+mcpr_44989,['metal'],2
+minc_110611,['metal'],2
+mban_6099,['madeira'],1
+minc_228127,[''],0
+mche_59501,['metal'],2
+mche_46071,['linha de algodão', 'linho'],2621440
+mcha_37512,['metal'],2
+mrsj_26833,['madeira', 'tinta'],5
+mrsj_19920,['madeira', 'metal', 'tinta'],7
+mcha_47894,['vidro'],16
+mche_40677,['madeira'],1
+mche_53597,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_122948,['metal', 'metal'],4
+mrco_35828,['folha de ouro', 'madeira', 'tinta'],1029
+minc_73556,['madeira', 'palha'],65
+mban_7500,['metal', 'madeira'],3
+mban_16667,['madeira', 'metal'],3
+mdia_31245,['madeira', 'metal', 'policromia', 'tinta'],4194311
+mche_68222,['cerâmica', 'pó de ouro'],40
+mche_54683,['cerâmica', 'pó de ouro'],40
+minc_140636,['metal', 'tinta'],6
+mche_75288,['madeira', 'metal', 'palha'],67
+mche_62061,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_55398,['cerâmica', 'pó de ouro'],40
+minc_188378,['madeira'],1
+minc_31786,['madeira'],1
+mrco_36173,['pedra'],8192
+mdia_31932,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mcbc_9560,['linha', 'tecido'],16842752
+minc_89343,['metal', 'madeira'],3
+minc_234131,[''],0
+minc_188905,['madeira', 'palha'],65
+mhna_163340,['metal'],2
+mcbc_11694,['madeira', 'metal'],3
+mhna_164011,['metal'],2
+minc_179648,['metal'],2
+minc_208348,['madeira', 'palha'],65
+mrco_36482,['madeira'],1
+minc_155990,['metal'],2
+minc_201988,['madeira'],1
+mcha_24990,['porcelana'],128
+mdia_31542,['madeira'],1
+minc_141562,['metal', 'tinta'],6
+mche_61247,['metal'],2
+mour_5693,['metal', 'vidro'],18
+mour_5669,['metal'],2
+mban_5001,['madeira', 'fibra'],262145
+mcha_19245,['porcelana'],128
+mche_53979,['cerâmica', 'pó de ouro'],40
+mche_62282,['cerâmica', 'pó de ouro'],40
+mdia_32006,['metal'],2
+minc_205935,['madeira'],1
+minc_170741,['madeira', 'ouro'],131073
+mcbc_9320,['madeira', 'metal'],3
+mche_53914,['metal', 'vidro'],18
+mdia_31222,['madeira', 'palha'],65
+mche_43911,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_61059,['metal'],2
+minc_111575,['madeira', 'tinta'],5
+mche_54443,['cerâmica', 'pó de ouro'],40
+mche_56838,['madeira', 'palha'],65
+mcha_18594,['porcelana'],128
+mche_46098,['linha de algodão', 'linho'],2621440
+minc_97254,['argila', 'tinta'],260
+mche_44756,['metal', 'vidro'],18
+mabo_823,['argila'],256
+mdia_32244,['metal'],2
+mche_65597,['cerâmica', 'pó de ouro'],40
+mche_60157,['metal'],2
+minc_141738,['metal', 'tinta'],6
+minc_229358,[''],0
+mcpr_45099,['metal'],2
+minc_187590,['madeira', 'palha'],65
+minc_208302,['madeira', 'palha'],65
+mche_64484,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_193072,['metal', 'madeira'],3
+mhna_163952,['metal'],2
+minc_111125,['metal'],2
+mcbc_10903,['madeira', 'palha'],65
+mche_47723,['madeira', 'palha'],65
+mche_61999,['madeira', 'mármore'],4097
+mabo_494,['metal'],2
+mche_47024,['madeira', 'palha'],65
+minc_233887,[''],0
+mrsj_20625,['madeira'],1
+mcha_20252,['porcelana'],128
+minc_146869,['madeira'],1
+mcha_21071,['porcelana'],128
+mcha_15350,['madeira', 'metal'],3
+mche_66336,['cerâmica', 'pó de ouro'],40
+minc_192133,['madeira'],1
+mche_59292,['metal'],2
+mcha_31935,['vidro'],16
+mcbc_11046,['vidro'],16
+minc_147056,['madeira'],1
+mche_63852,['vidro', 'metal'],18
+mche_74719,['madeira', 'palha'],65
+mcha_19307,['porcelana'],128
+mban_7155,['madeira'],1
+mcbc_11498,['madeira'],1
+mche_52687,['cerâmica', 'pó de ouro'],40
+mcha_23086,['porcelana'],128
+minc_39498,['metal', 'madeira', 'tinta'],7
+minc_24217,['madeira', 'tinta'],5
+mcha_22077,['porcelana'],128
+masb_49250,['madeira'],1
+mcpr_16913,['madeira', 'metal'],3
+mdia_32216,['esmalte', 'metal', 'tinta'],518
+mche_48902,['metal'],2
+minc_140858,['metal', 'tinta'],6
+mrsj_27388,['metal'],2
+mcha_21816,['porcelana'],128
+mhna_167873,['metal'],2
+masb_61338,[''],0
+minc_126468,['couro', 'madeira'],16385
+minc_162275,['metal'],2
+mche_74322,['gesso', 'madeira', 'pó de ouro'],2057
+mrco_36567,['metal', 'madeira', 'tinta'],7
+minc_72934,['madeira', 'palha', 'madeira'],66
+mcha_22369,['porcelana'],128
+minc_110239,['metal'],2
+mhna_159773,['vidro'],16
+mdia_33342,['metal', 'tinta'],6
+minc_228625,[''],0
+mcpr_36737,['argila', 'tinta'],260
+mcbc_10452,['metal'],2
+mour_5233,['couro lavrado', 'madeira', 'metal'],268435459
+masb_48996,['metal'],2
+mrsj_21314,['madeira', 'metal'],3
+mcpr_38102,['madeira'],1
+mche_52933,['cerâmica', 'pó de ouro'],40
+masb_62081,['madeira'],1
+mche_56305,['metal'],2
+mche_53415,['cerâmica', 'pó de ouro'],40
+minc_73748,['palha', 'madeira'],65
+mdia_32239,['metal'],2
+minc_229471,[''],0
+minc_124215,['metal', 'madeira'],3
+mcbc_9931,['argila', 'vidro', 'madeira', 'metal'],275
+minc_99850,['madeira'],1
+minc_9788,['madeira', 'metal', 'tinta'],7
+mcbc_11143,['madeira'],1
+minc_203565,['metal', 'madeira'],3
+mche_53203,['cerâmica', 'pó de ouro'],40
+mche_63250,['cerâmica', 'pó de ouro'],40
+minc_35478,['madeira', 'pedra', 'tinta'],8197
+mrco_35997,['madeira', 'mármore'],4097
+mche_57645,['linha de algodão', 'linho'],2621440
+mhna_166760,['porcelana'],128
+mche_68403,['cerâmica', 'pó de ouro'],40
+mour_5685,['metal', 'madeira', 'vidro'],19
+mche_58157,['metal'],2
+mcbc_10073,['argila'],256
+mrsj_28641,['folha de ouro', 'porcelana', 'tinta'],1156
+minc_124038,['metal', 'madeira'],3
+mrco_36488,['madeira'],1
+minc_70454,['madeira', 'metal'],3
+mche_68312,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_69284,['cerâmica', 'pó de ouro'],40
+masb_47823,['metal'],2
+minc_183097,['metal', 'madeira', 'tinta'],7
+mche_73728,['gesso', 'madeira', 'pó de ouro'],2057
+mche_53761,['cerâmica', 'pó de ouro'],40
+mhna_166543,['porcelana'],128
+minc_208536,['metal', 'madeira'],3
+minc_111027,['metal'],2
+mche_56028,['cerâmica', 'pó de ouro'],40
+mche_72426,['vidro'],16
+mche_74214,['gesso', 'madeira', 'pó de ouro'],2057
+mche_67747,['cerâmica', 'pó de ouro'],40
+mdia_31982,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+mrco_36437,['madeira', 'tinta'],5
+mrsj_25171,['folha de ouro', 'madeira', 'tinta'],1029
+mche_68886,['cerâmica', 'pó de ouro'],40
+minc_112862,['metal', 'tinta'],6
+mche_69194,['cerâmica', 'pó de ouro'],40
+minc_226469,[''],0
+mabo_499,['metal'],2
+mche_72513,['vidro'],16
+mche_58424,['metal'],2
+mche_67974,['cerâmica', 'pó de ouro', 'tinta'],44
+mche_73212,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_223731,[''],0
+minc_42399,['metal', 'madeira'],3
+mrco_36021,['madeira', 'palinha'],32769
+mrsj_22873,['madeira', 'palha'],65
+minc_186498,['metal', 'madeira', 'metal'],5
+minc_42355,['madeira', 'marfim'],134217729
+mban_7464,['metal', 'madeira'],3
+mcpr_33708,['metal'],2
+mche_69314,['cerâmica', 'pó de ouro'],40
+minc_165905,['madeira', 'tinta'],5
+minc_142266,['metal', 'tinta'],6
+mche_41347,['madeira', 'palha'],65
+mche_53660,['cerâmica', 'pó de ouro', 'tinta'],44
+mhna_166356,['porcelana'],128
+mche_69036,['cerâmica', 'pó de ouro'],40
+mche_44518,['metal', 'vidro'],18
+minc_208907,['metal', 'madeira'],3
+mrco_36137,['vidro'],16
+mcbc_9907,['metal', 'tinta'],6
+mche_68036,['cerâmica', 'pó de ouro'],40
+mhna_163610,['metal'],2
+mcpr_38072,['metal'],2
+mche_58244,['metal'],2
+mche_69254,['cerâmica', 'pó de ouro'],40
+minc_35423,['madeira', 'pedra', 'tinta'],8197
+mban_5591,['argila'],256
+minc_71518,['argila', 'metal', 'tinta'],262
+mrco_36480,['madeira'],1
+minc_43157,['madeira', 'tinta'],5
+minc_41324,['couro', 'madeira', 'metal'],16387
+mcpr_44072,['metal'],2
+mche_75123,['madeira', 'palha'],65
+mabo_485,['argila', 'metal'],258
+mcbc_9782,['madeira', 'mármore', 'metal'],4099
+mche_47320,['vidro'],16
+minc_128306,['madeira', 'palha'],65
+mche_68916,['cerâmica', 'pó de ouro'],40
+mcbc_10371,['tecido'],65536
+minc_209286,['palha', 'madeira'],65
+mcha_15380,['madeira'],1
+mche_46486,['cerâmica'],32
+minc_100252,['madeira', 'tinta'],5
+mour_5817,['cerâmica'],32
+mche_52146,['cerâmica', 'pó de ouro'],40
+minc_205824,['metal', 'madeira'],3
+mcha_15928,['madeira', 'palha'],65
+mour_5243,['metal', 'madeira'],3
+mche_43880,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_124629,['metal', 'tinta'],6
+mche_75722,['madeira', 'pó de ouro'],9
+minc_192763,['madeira', 'purpurina', 'tinta'],8388613
+mche_47756,['madeira', 'palha'],65
+mche_44552,['metal', 'vidro'],18
+minc_142046,['metal', 'tinta'],6
+mrsj_21438,['madeira'],1
+minc_39253,['metal', 'madeira'],3
+mche_74592,['gesso', 'madeira', 'pó de ouro'],2057
+mrsj_27893,['folha de ouro', 'porcelana', 'tinta'],1156
+mour_5231,['couro lavrado', 'madeira', 'metal'],268435459
+mrsj_22750,['madeira', 'palha'],65
+minc_79635,['madeira'],1
+mcha_19865,['porcelana'],128
+mcpr_44624,['plástico'],1073741824
+mche_43066,['metal'],2
+mcbc_10901,['madeira', 'palha'],65
+mcbc_10909,['couro', 'madeira', 'metal', 'palha'],16451
+mcha_14754,['madeira', 'metal'],3
+minc_36310,['madeira'],1
+minc_39209,['madeira', 'metal'],3
+mcbc_10897,['madeira', 'palha'],65
+minc_47284,['argila', 'esmalte'],768
+mche_66426,['cerâmica', 'pó de ouro'],40
+mcpr_36357,['metal', 'madeira'],3
+minc_201669,['madeira', 'tinta'],5
+mrsj_22381,['madeira', 'metal'],3
+minc_230707,[''],0
+mcha_26656,['vidro'],16
+mban_1592,['madeira'],1
+mcha_20186,['porcelana'],128
+minc_175918,['madeira'],1
+minc_85175,['madeira', 'tinta'],5
+mche_43414,['metal'],2
+mcha_27790,['vidro'],16
+mche_50792,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_24960,['porcelana'],128
+mche_70666,['vidro'],16
+minc_228343,[''],0
+mcbc_10502,['madeira', 'mármore', 'metal', 'tinta', 'vidro'],4119
+mche_66396,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_124129,['metal', 'madeira'],3
+mrsj_21069,['madeira'],1
+minc_141650,['metal', 'tinta'],6
+minc_187267,['madeira'],1
+mdia_31654,['folha de ouro', 'madeira', 'pedra', 'tinta', 'vidro'],9237
+mche_63944,['vidro', 'metal'],18
+mche_71504,['metal', 'vidro'],18
+minc_112083,['metal'],2
+minc_71473,['argila', 'metal', 'tinta'],262
+mche_47925,['madeira', 'metal', 'palha'],67
+mhna_167934,['metal'],2
+minc_223614,[''],0
+mrsj_22832,['madeira', 'palha'],65
+minc_162933,['madeira', 'tinta'],5
+mcbc_11460,['madeira', 'metal'],3
+mcbc_10279,['madeira', 'palha'],65
+mche_51390,['cerâmica', 'pó de ouro'],40
+mrco_36490,['madeira'],1
+minc_232914,[''],0
+mcbc_11101,['madeira', 'palha'],65
+mche_55209,['cerâmica', 'pó de ouro', 'tinta'],44
+mcha_15620,['madeira', 'palha'],65
+minc_124258,['metal', 'madeira'],3
+mche_44484,['metal', 'vidro'],18
+minc_207433,['madeira', 'palha'],65
+minc_189630,['madeira', 'palha'],65
+minc_72880,['madeira', 'palha'],65
+mche_65717,['cerâmica', 'pó de ouro'],40
+mche_74376,['gesso', 'madeira', 'pó de ouro'],2057
+mhna_163922,['metal'],2
+mhna_164041,['metal'],2
+minc_100352,['madeira', 'metal', 'tinta'],7
+mrsj_28245,['folha de ouro', 'porcelana', 'tinta'],1156
+mhna_166388,['porcelana'],128
+mrsj_22709,['madeira', 'palha'],65
+mche_65285,['metal', 'vidro'],18
+minc_208743,['madeira', 'purpurina', 'tinta'],8388613
+mcpr_45749,['madeira', 'metal'],3
+minc_186212,['metal', 'madeira'],3
+mabo_500,['metal'],2
+minc_230964,[''],0
+mdia_31936,['cerâmica', 'esmalte', 'porcelana', 'tinta'],676
+minc_110886,['metal'],2
+mche_58394,['metal'],2
+mcha_24350,['porcelana'],128
+minc_174249,['madeira'],1
+mdia_31187,['metal'],2
+minc_47009,['argila', 'esmalte', 'ouro'],131840
+mche_53948,['cerâmica', 'pó de ouro', 'tinta'],44
+minc_124396,['metal'],2
+mcbc_9528,['metal', 'tinta'],6
+mcpr_37699,['metal'],2
+minc_47147,['argila', 'esmalte'],768
+mche_60097,['metal'],2
+mche_66833,['cerâmica', 'pó de ouro'],40
+mhna_166323,['porcelana'],128
+minc_209337,['madeira', 'metal', 'tinta'],7
+mche_61586,['cerâmica', 'pó de ouro'],40
+mabo_760,['metal'],2
+mcha_22291,['porcelana'],128
+mche_49814,['metal'],2
+mche_56638,['madeira', 'palha'],65
+minc_162891,['madeira', 'tinta'],5
+minc_118706,['madeira'],1
+minc_23875,['metal', 'madeira'],3
+mche_44247,['metal', 'vidro'],18
+minc_124086,['metal', 'madeira'],3
+minc_40956,['madeira', 'ouro'],131073
+mcbc_10097,['vidro', 'madeira', 'metal', 'porcelana'],147
+mcbc_11435,['metal', 'tinta'],6
+minc_47468,['argila', 'esmalte'],768
+mhna_163500,['metal'],2
+mcha_23302,['porcelana'],128
+minc_39692,['madeira', 'tinta'],5
+minc_232590,[''],0
+mcha_22716,['porcelana'],128
+minc_47238,['argila', 'esmalte'],768
+mrsj_23612,['metal', 'madeira', 'tinta'],7
+mcha_18780,['porcelana'],128
+minc_94554,['vidro'],16
+mhna_168162,['vidro'],16
+masb_61069,['madeira'],1
+mche_65251,['metal', 'vidro'],18
+mhna_163179,['metal'],2
+mban_4592,['couro', 'metal', 'madeira'],16387
+mche_59262,['metal'],2
+minc_111737,['metal'],2
+mrsj_23160,['madeira', 'palha'],65
+mcbc_10775,['argila', 'tinta'],260
+mche_67522,['vidro'],16
+minc_110658,['metal'],2
+mcha_22776,['porcelana'],128
+mrco_36478,['madeira'],1
+mche_48370,['madeira'],1
+mcbc_10741,['vidro'],16
+mche_69164,['cerâmica', 'pó de ouro'],40
+mcha_15724,['madeira', 'palha'],65
+minc_31649,['madeira', 'marfim'],134217729
+mche_42941,['metal'],2
+mcpr_37792,['metal'],2
+mche_60792,['metal'],2
+mche_43128,['metal'],2
+mour_5229,['couro lavrado', 'madeira', 'metal'],268435459
+mche_45131,['metal', 'vidro'],18
+minc_192578,['metal'],2
+mrsj_20989,['madeira'],1
+mche_48435,['madeira', 'palha'],65
+minc_73456,['madeira'],1
+mche_54229,['metal'],2
+mcha_18563,['porcelana'],128
+mche_61367,['metal'],2
+minc_84013,['argila', 'esmalte'],768
+mcha_35220,['tecido'],65536
+minc_172312,['metal', 'madeira'],3
+minc_80253,['metal', 'madeira', 'tinta'],7
+mdia_31182,['metal'],2
+mche_65627,['cerâmica', 'pó de ouro'],40
+mhna_166577,['porcelana'],128
+mhna_166194,['porcelana'],128
+mdia_32026,['metal', 'osso'],34359738370
+mcha_18532,['porcelana'],128
+minc_161732,['madeira'],1
+minc_41785,['fibra têxtil', 'madeira', 'tinta'],1048581
+mrco_35969,['madeira', 'palha'],65
+minc_100400,['metal', 'madeira', 'tinta'],7
+mcbc_10899,['madeira', 'palha'],65
+mrco_36183,['metal'],2
+minc_90588,['metal', 'madeira', 'tinta'],7
+mcbc_10913,['madeira', 'palha'],65
+mcha_16902,['madeira', 'metal', 'vidro'],19
+minc_128080,['pedra'],8192
+mche_59530,['metal'],2
+mche_52963,['cerâmica', 'pó de ouro'],40
+minc_41934,['fibra têxtil', 'madeira', 'tinta'],1048581
+mcpr_38131,['madeira'],1
+minc_176171,['madeira', 'palha'],65
+minc_188163,['metal', 'madeira'],3
+minc_5435,['madeira', 'metal'],3
+minc_123402,['metal', 'metal'],4
+mrsj_20465,['madeira', 'metal'],3
+mche_41590,['madeira', 'palha'],65
+mcbc_10091,['linha'],16777216
+mcbc_11668,['madeira', 'metal'],3
+mcha_14785,['madeira', 'metal'],3
+minc_224542,[''],0
+mban_6060,['madeira'],1
+minc_233614,[''],0
+mban_2174,['madeira'],1
+minc_101274,['metal'],2
+minc_10854,['metal', 'tinta', 'vidro'],22
+minc_187656,['madeira'],1
+mche_42358,['cerâmica', 'pó de ouro'],40
+minc_124535,['metal', 'tinta'],6
+mche_60276,['metal'],2
+minc_162563,['metal'],2
+mcbc_9494,['madeira', 'palha'],65
+mche_48708,['madeira', 'metal', 'palha'],67
+mrsj_20299,['madeira', 'metal'],3
+minc_87674,['metal'],2
+minc_188484,['metal', 'madeira'],3
+minc_35212,['madeira', 'pedra', 'tinta'],8197
+minc_111344,['metal'],2
+mche_52306,['cerâmica', 'pó de ouro'],40
+mcha_15895,['madeira', 'palha'],65
+minc_82774,['madeira', 'metal', 'tinta'],7
+mche_61769,['cerâmica', 'pó de ouro'],40
+mcha_21005,['porcelana'],128
+mrco_35905,['madeira', 'metal'],3
+minc_105358,['argila', 'esmalte', 'verniz'],33555200
+mban_2671,['madeira'],1
+minc_111487,['metal'],2
+mche_42909,['metal'],2
+mban_12638,['metal', 'vidro'],18
+minc_231818,[''],0
+minc_187714,['madeira'],1
+minc_72657,['metal', 'madeira'],3
+minc_192716,['madeira', 'purpurina', 'tinta'],8388613
+mcha_20844,['porcelana'],128
+minc_110286,['metal'],2
+mcha_19710,['porcelana'],128
+mcpr_37265,['argila'],256
+mrco_36571,['metal', 'madeira', 'tinta'],7
+mcbc_11646,['madeira', 'metal'],3
+mhna_166936,['porcelana'],128
+mrco_36450,['madeira', 'tinta'],5
+mhna_162987,['metal'],2
+minc_206461,['madeira'],1
+mche_57042,['cerâmica', 'pó de ouro'],40
+mche_59620,['metal'],2
+minc_125108,['metal'],2
+mban_7271,['madeira'],1
+minc_105400,['argila', 'esmalte', 'verniz'],33555200
+mrsj_24797,['folha de ouro', 'metal', 'tinta', 'vidro'],1046
+mche_68526,['cerâmica', 'pó de ouro'],40

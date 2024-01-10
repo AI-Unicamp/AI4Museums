@@ -1,0 +1,2922 @@
+MRCO_36647, material-9, jacarandá | madeira
+MINC_172514, material, Madeira | Mármore | Metal
+MHNA_162791, material, aço | prata
+MCBC_9778, material, Madeira | Tinta | Vidro
+MINC_147262, material, Madeira > Cedro | Ouro | Tintas
+MCHE_59442, materiais, Prata
+MCHE_41519, materiais, Madeira | Palhinha
+MASB_49059, material, Metal > Latão | Metal > Níquel
+MCBC_10085, material, Argila
+MCHA_20483, materiais_tecnicas-2, Porcelana
+MCHE_41035, materiais, Madeira | Palhinha
+MCHE_59827, materiais, Prata
+MCHE_40969, materiais, Vidro
+MCBC_11704, material, Madeira > Ébano | Metal
+MINC_187539, material, Palha > Junco | Madeira
+MCHE_68706, materiais, Cerâmica | Pó de Ouro
+MINC_41461, material, Fibra Têxtil | Madeira > Jacarandá | Ouro
+MCHE_52507, materiais, Cerâmica | Pó de Ouro
+MCHE_65870, materiais, Cerâmica | Pó de Ouro
+MCBC_9919, material, Madeira > Nogueira | Palhinha
+MCHA_24230, materiais_tecnicas-2, Porcelana
+MCBC_9540, material, Madeira | Mármore
+MCHE_48538, materiais, Madeira | Metal
+MINC_37730, material, Madeira | Ouro | Tintas
+MINC_173743, material, Ferro | Madeira
+MCBC_10809, material, Argila
+MINC_42262, material, Madeira > Jacarandá | Madeira
+MRSJ_20746, material-3, Madeira | Metal
+MCBC_10081, material, Argila
+MINC_184009, material, Ferro | Madeira | Tintas
+MINC_140108, material, Folha-de-flandres | Tintas
+MCHE_40297, materiais, Madeira | Palhinha
+MCHA_14651, materiais_tecnicas-2, Ferro
+MCHE_52747, materiais, Cerâmica | Pó de Ouro
+MCHE_51922, materiais, Madeira | Palhinha
+MDIA_31388, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | marchetaria | palhinha | pau-marfim
+MINC_227703, material, 
+MCBC_10865, material, Argila | Vidro > Cristal | Metal
+MCHE_44893, materiais, Cobre | Cristal Bacará
+MINC_46408, material, Prata
+MCBC_10079, material, Argila
+MDIA_31851, material-tecnica-3, madeira | marcenaria | torneado
+MINC_73273, material, Madeira
+MINC_205505, material, Madeira
+MINC_140548, material, Folha-de-flandres | Tintas
+MBAN_12719, material, Madeira
+MCHE_52843, materiais, Cerâmica | Pó de Ouro
+MINC_162359, material, Latão
+MINC_147672, material, Folha-de-flandres | Vidro
+MRCO_35909, material-9, madeira | palinha
+MINC_231209, material, 
+MDIA_31946, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MHNA_160513, material, porcelana
+MDIA_30954, material-tecnica-3, fundição | metal
+MCHE_46233, materiais, Linha de Algodão | Linho
+MDIA_31997, material-tecnica-3, decalcomania | porcelana | queima | tinta
+MINC_34553, material, Madeira | Ouro | Tintas
+MCHA_21269, materiais_tecnicas-2, Porcelana
+MINC_201834, material, Aluminato de Prata | Madeira > Cedro
+MINC_185806, material, Ferro | Madeira
+MDIA_33835, material-tecnica-3, pintura | porcelana | queima | tinta
+MINC_24169, material, Madeira > Cedro | Folha-de-flandres | Tintas
+MCHE_61646, materiais, Madeira | Palhinha
+MINC_46756, material, Prata
+MINC_203688, material, Bronze | Madeira
+MCHA_18749, materiais_tecnicas-2, Porcelana
+MINC_170784, material, Madeira | Ouro | Tintas
+MINC_127883, material, Madeira > Jacarandá | Palha > Junco
+MCHA_47869, materiais_tecnicas-2, Vidro
+MHNA_166225, material, porcelana
+MCHE_66001, materiais, Cerâmica | Pó de Ouro
+MDIA_31220, material-tecnica-3, douramento | entalhe | folha de ouro | madeira | pedra | policromia | recorte | tinta | vidro
+MCHE_74403, materiais, Gesso | Madeira | Pó de Ouro
+MINC_11995, material, Ferro | Latão
+MOUR_5328, material-tecnica-3, madeira recortada | metal | torneado
+MCPR_36799, material, Rocha > Argila
+MCHE_68586, materiais, Cerâmica | Pó de Ouro
+MCHA_31911, materiais_tecnicas-2, Vidro
+MRSJ_21396, material-3, Madeira | Metal
+MBAN_2883, material, Couro > Couro Lavrado | Madeira
+MCHE_65747, materiais, Cerâmica | Pó de Ouro
+MCBC_10373, material, Tecido
+MINC_34691, material, Madeira | Pedra > Talcita | Tintas
+MINC_6640, material, Madeira > Cedro
+MINC_201935, material, Madeira > Cedro | Tintas
+MBAN_14836, material, Metal > Bronze
+MCBC_10749, material, Vidro > Cristal
+MCPR_37668, material, Metal
+MCHE_69066, materiais, Cerâmica | Pó de Ouro
+MDIA_31207, material-tecnica-3, douramento | entalhe | folha de ouro | fundição | madeira | metal | policromia | tinta
+MCHE_69505, materiais, Prata
+MDIA_32223, material-tecnica-3, fundição | madeira | marcenaria | metal
+MINC_141518, material, Folha-de-flandres | Tintas
+MRCO_35830, material-9, folha de ouro | madeira | tinta
+MRSJ_22258, material-3, Madeira | Metal
+MCHE_49872, materiais, Prata
+MINC_82395, material, Madeira > Cedro | Madeira > Jacarandá
+MCHE_56090, materiais, Cerâmica | Pó de Ouro
+MCHE_70529, materiais, Vidro
+MCHE_74349, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_75872, materiais, Madeira | Pó de Ouro
+MCHE_51887, materiais, Madeira | Palhinha
+MINC_82874, material, Madeira > Cedro | Ouro | Tintas
+MCHA_15078, materiais_tecnicas-2, Madeira
+MINC_111163, material, Latão
+MCBC_9214, material, Madeira > Jacarandá | Palhinha
+MCHA_27613, materiais_tecnicas-2, Vidro
+MINC_209191, material, Madeira
+MCHE_58098, materiais, Prata
+MINC_184252, material, Madeira > Jacarandá
+MCHE_48838, materiais, Cerâmica | Pó de Ouro
+MCHE_67714, materiais, Madeira | Palhinha
+MCHA_20384, materiais_tecnicas-2, Porcelana
+MCPR_36954, material, Rocha > Argila
+MCHE_48469, materiais, Madeira | Palhinha
+MCHA_25704, materiais_tecnicas-2, Porcelana
+MCHE_57737, materiais, Prata
+MINC_42542, material, Madeira > Jacarandá
+MCBC_11696, material, Madeira > Ébano | Metal
+MCBC_10811, material, Argila
+MCBC_11690, material, Madeira > Ébano | Metal
+MINC_208246, material, Madeira > Jacarandá | Madeira > Vinhático
+MRCO_36029, material-9, vidro
+MCHE_46776, materiais, Prata
+MCHA_22473, materiais_tecnicas-2, Porcelana
+MCHA_20119, materiais_tecnicas-2, Porcelana
+MCHE_75384, materiais, Madeira | Mármore
+MINC_208492, material, Madeira > Jacarandá | Palha > Junco
+MINC_37422, material, Madeira | Tintas
+MCHA_25020, materiais_tecnicas-2, Porcelana
+MINC_230883, material, 
+MCPR_37327, material, Rocha > Argila | Pigmento
+MCHE_73836, materiais, Gesso | Madeira | Pó de Ouro
+MINC_35881, material, Madeira | Pedra > Talcita | Tintas
+MCHE_54258, materiais, Prata
+MASB_62111, material, Madeira
+MCBC_10821, material, Cordão Torcido | Couro | Metal | Tinta
+MCBC_9212, material, Madeira > Jacarandá | Palhinha
+MINC_139689, material, Folha-de-flandres | Vidro
+MOUR_5326, material-tecnica-3, madeira | marcenaria
+MRSJ_20092, material-3, Madeira
+MINC_147755, material, Folha-de-flandres | Tintas | Vidro
+MCPR_45480, material, Metal > Metal Fundido | Metal > Metal Moldado
+MCHA_27451, materiais_tecnicas-2, Vidro
+MINC_96775, material, Vidro
+MINC_100445, material, Ferro | Madeira > Jacarandá | Latão
+MINC_35590, material, Madeira | Pedra > Talcita | Tintas
+MINC_99729, material, Madeira > Jacarandá | Madeira
+MDIA_31619, material-tecnica-3, douramento | entalhe | folha de ouro | fundição | impressão | litografia | madeira | metal | papel | policromia | tinta
+MINC_174195, material, Madeira
+MCHE_65657, materiais, Cerâmica | Pó de Ouro
+MRSJ_20176, material-3, Madeira
+MDIA_32016, material-tecnica-3, fundição | gravação | metal
+MINC_5584, material, Ferro | Madeira
+MINC_182813, material, Madeira | Tintas
+MINC_141606, material, Folha-de-flandres | Tintas
+MRSJ_24165, material-3, Madeira | Purpurina
+MCHE_71917, materiais, Cobre
+MCHA_27424, materiais_tecnicas-2, Vidro
+MINC_73362, material, Madeira
+MRCO_36515, material-9, madeira | palinha
+MCHE_64385, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MCBC_11145, material, Madeira | Mármore
+MINC_145814, material, Ferro
+MCPR_37078, material, Rocha > Argila
+MINC_233159, material, Alabastro | Conchas | Madeira
+MCPR_37761, material, Metal
+MINC_175075, material, Ferro | Madeira | Tintas
+MRSJ_23119, material-3, Madeira | Palhinha
+MCHE_75223, materiais, Madeira | Palhinha
+MDIA_33830, material-tecnica-3, pintura | porcelana | queima | tinta
+MRSJ_20705, material-3, Madeira | Metal
+MCHA_35193, materiais_tecnicas-2, Tecido de algodão com bordados
+MCBC_11656, material, Madeira > Ébano | Metal
+MINC_232335, material, 
+MCHA_20020, materiais_tecnicas-2, Porcelana
+MCHA_19493, materiais_tecnicas-2, Porcelana
+MINC_148443, material, Latão
+MRCO_36649, material-9, metal > bronze | metal | vidro
+MCHE_68343, materiais, Cerâmica | Pó de Ouro
+MRCO_35901, material-9, ferro | madeira | tinta | vidro
+MCHE_59710, materiais, Prata
+MINC_185591, material, Madeira > Jacarandá
+MHNA_162921, material, prata
+MCHE_60007, materiais, Prata
+MINC_82992, material, Folha-de-flandres | Tintas | Vidro
+MCBC_9498, material, Madeira > Jacarandá | Palhinha
+MCHE_72398, materiais, Cristal
+MRSJ_23572, material-3, Madeira | Palhinha
+MINC_162603, material, Latão
+MHNA_166099, material, porcelana
+MDIA_33881, material-tecnica-3, fundição | metal
+MCHE_47660, materiais, Cerâmica | Pó de Ouro
+MINC_207830, material, Madeira > Jacarandá | Fibra Têxtil > Seda
+MRCO_36239, material-9, madeira
+MCHE_45199, materiais, Cobre | Cristal Bacará
+MDIA_31278, material-tecnica-3, entrançado | madeira | marcenaria | palhinha
+MCHE_53083, materiais, Cerâmica | Pó de Ouro
+MHNA_168096, material, cristal
+MDIA_32314, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCHE_74295, materiais, Gesso | Madeira | Pó de Ouro
+MCHA_19090, materiais_tecnicas-2, Porcelana
+MHNA_163244, material, prata
+MINC_39549, material, Madeira | Ouro | Tintas
+MINC_85220, material, Madeira | Tintas
+MRCO_36581, material-9, ferro batido | madeira | tinta
+MINC_228547, material, 
+MCHE_68433, materiais, Cerâmica | Pó de Ouro
+MCBC_10494, material, Couro | Madeira | Palhinha
+MINC_100020, material, Madeira
+MINC_70355, material, Madeira > Jacarandá | Madeira
+MCHE_59173, materiais, Prata
+MINC_233251, material, 
+MINC_146913, material, Palha > Junco | Madeira
+MCHE_53505, materiais, Cerâmica | Pó de Ouro | Tinta
+MCBC_10643, material, Metal > Prata
+MINC_140680, material, Folha-de-flandres | Tintas
+MCHE_69898, materiais, Madeira | Palhinha
+MRCO_36474, material-9, madeira | tinta
+MBAN_3449, material, Madeira > Cedro
+MCHE_49784, materiais, Prata
+MCHA_19338, materiais_tecnicas-2, Porcelana
+MBAN_2506, material, Madeira
+MCHE_50469, materiais, Madeira | Palhinha
+MCHE_63068, materiais, Cerâmica | Pó de Ouro
+MCHE_56482, materiais, Prata
+MASB_61987, material, Madeira
+MCPR_24819, material, Madeira | Metal
+MHNA_166419, material, porcelana
+MCHE_44927, materiais, Cobre | Cristal Bacará
+MINC_22110, material, Madeira > Cedro | Couro | Ferro
+MCHA_21932, materiais_tecnicas-2, Porcelana
+MINC_225875, material, 
+MCHE_60305, materiais, Prata
+MCHE_48678, materiais, Cerâmica | Pó de Ouro
+MINC_37510, material, Madeira | Ouro | Tintas
+MASB_61894, material, Madeira > Cedro
+MCHE_51991, materiais, Madeira | Mármore
+MBAN_2924, material, Madeira
+MCBC_11638, material, Madeira > Ébano | Metal
+MINC_41569, material, Madeira
+MINC_111203, material, Prata
+MCHE_65777, materiais, Cerâmica | Pó de Ouro
+MINC_163255, material, Latão
+MCHE_72570, materiais, Cristal
+MCHE_52024, materiais, Prata
+MCHE_60959, materiais, Madeira Jacarandá | Palhinha
+MBAN_5156, material, Madeira | Fibra > Fibra Vegetal > Palhinha
+MINC_187378, material, Madeira
+MCHE_52873, materiais, Cerâmica | Pó de Ouro
+MCHA_18687, materiais_tecnicas-2, Porcelana
+MCHA_27962, materiais_tecnicas-2, Vidro
+MRSJ_24204, material-3, Madeira | Tinta
+MCHE_58304, materiais, Prata
+MCHE_74786, materiais, Madeira | Palhinha
+MCHA_24380, materiais_tecnicas-2, Porcelana
+MCHE_54503, materiais, Cerâmica | Pó de Ouro
+MHNA_167735, material, prata
+MDIA_30964, material-tecnica-3, fundição | metal
+MCHE_63667, materiais, Cerâmica | Pó de Ouro
+MCHE_48066, materiais, Madeira | Palhinha
+MINC_172147, material, Couro | Latão | Madeira
+MINC_174657, material, Ferro | Madeira
+MINC_105802, material, Argila > Barro | Esmalte | Verniz
+MINC_228776, material, 
+MCPR_33403, material, Madeira | Metal
+MRSJ_23803, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MCHE_64778, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_26683, materiais_tecnicas-2, Vidro
+MASB_51923, material, Metal > Latão | Plástico
+MCHA_27505, materiais_tecnicas-2, Vidro
+MCHE_74241, materiais, Gesso | Madeira | Pó de Ouro
+MINC_230583, material, 
+MCHE_43191, materiais, Prata
+MINC_92354, material, Folha-de-flandres | Vidro
+MINC_39165, material, Ferro | Madeira > Jacarandá
+MCHE_40490, materiais, Madeira | Palhinha
+MCHE_69963, materiais, Madeira | Palhinha
+MCHA_15296, materiais_tecnicas-2, Madeira
+MINC_163415, material, Latão
+MCHE_47822, materiais, Madeira Jacarandá
+MCHE_64287, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MINC_140725, material, Folha-de-flandres | Tintas
+MDIA_31992, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_193028, material, Madeira
+MCBC_10071, material, Argila
+MCHE_76072, materiais, Madeira | Pó de Ouro
+MCHE_43598, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_25110, materiais_tecnicas-2, Porcelana
+MINC_72548, material, Ferro | Madeira | Tintas
+MCPR_36078, material, Metal > Ferro | Madeira | Pigmento
+MCHA_25140, materiais_tecnicas-2, Porcelana
+MCHE_71153, materiais, Madeira | Metal | Palhinha
+MCHE_43097, materiais, Prata
+MCHE_54743, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_225605, material, 
+MRCO_35899, material-9, folha de ouro | madeira | tinta
+MINC_35633, material, Madeira | Pedra > Talcita | Tintas
+MCHA_23194, materiais_tecnicas-2, Porcelana
+MRSJ_22668, material-3, Madeira | Palhinha
+MCHE_45480, materiais, Madeira | Palhinha
+MCPR_44137, material, Madeira | Metal
+MINC_141210, material, Folha-de-flandres | Tintas
+MINC_229431, material, 
+MCBC_9452, material, Vidro
+MRCO_36179, material-9, ferro | metal
+MCHE_75057, materiais, Madeira | Palhinha
+MINC_163295, material, Latão
+MCHE_68976, materiais, Cerâmica | Pó de Ouro
+MBAN_14308, material, Madeira | Fibra > Fibra Vegetal > Palha
+MDIA_31681, material-tecnica-3, madeira | marcenaria | torneado
+MCHE_43566, materiais, Cerâmica | Pó de Ouro | Tinta
+MCBC_9556, material, Metal
+MCHE_73300, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_67941, materiais, Madeira | Mármore
+MCHE_60247, materiais, Prata
+MBAN_2017, material, Madeira
+MCPR_35017, material, Metal > Ferro | Madeira | Poliamidas > Nylon
+MCHE_58664, materiais, Prata
+MINC_161776, material, Madeira > Jacarandá
+MCHE_49843, materiais, Prata
+MINC_110145, material, Prata
+MCHA_22048, materiais_tecnicas-2, Porcelana
+MRSJ_23840, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MRSJ_22463, material-3, Madeira | Palhinha
+MBAN_5674, material, Rocha > Argila
+MINC_17873, material, Madeira
+MCHE_69800, materiais, Cerâmica | Pó de Ouro
+MCHE_64877, materiais, Cobre | Cristal Bacará
+MRCO_35941, material-9, madeira | palinha
+MCHA_22879, materiais_tecnicas-2, Porcelana
+MINC_226005, material, 
+MCHE_73125, materiais, Cerâmica | Pó de Ouro
+MCBC_11660, material, Madeira > Ébano | Metal
+MCHE_41104, materiais, Madeira | Metal | Palhinha
+MRSJ_21764, material-3, Madeira
+MRSJ_20787, material-3, Madeira
+MINC_226092, material, 
+MCHE_72041, materiais, Cobre | Cristal Bacará
+MDIA_32011, material-tecnica-3, fundição | metal
+MRSJ_21273, material-3, Madeira
+MINC_227162, material, 
+MCHE_67777, materiais, Cerâmica | Pó de Ouro
+MCHE_45951, materiais, Madeira
+MINC_141870, material, Folha-de-flandres | Tintas
+MDIA_31525, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | marchetaria | palhinha
+MINC_99787, material, Madeira > Jacarandá | Madeira
+MDIA_31652, material-tecnica-3, douramento | entalhe | folha de ouro | madeira | pedra | policromia | recorte | tinta | vidro
+MINC_127787, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHA_47319, materiais_tecnicas-2, Vidro
+MCHA_37884, materiais_tecnicas-2, Metal | Vidro
+MINC_140064, material, Folha-de-flandres | Tintas
+MCHE_63821, materiais, Cristal | Metal
+MBAN_4805, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MABO_504, material, madrepérola | prata
+MCHE_59887, materiais, Prata
+MINC_192536, material, Madeira | Tintas
+MCBC_11440, material, Resina | Vidro
+MCHE_73242, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_62760, materiais, Cerâmica | Pó de Ouro
+MBAN_5118, material, Madeira | Fibra > Fibra Vegetal > Palhinha
+MINC_124851, material, Latão
+MINC_111250, material, Prata
+MINC_42859, material, Madeira | Tintas
+MCHE_69863, materiais, Madeira | Palhinha
+MRSJ_20340, material-3, Madeira
+MRSJ_27849, material-3, Folha de Ouro | Porcelana | Tinta
+MINC_124172, material, Folha-de-flandres | Madeira
+MCHE_47157, materiais, Madeira | Palhinha
+MCHE_54929, materiais, Cerâmica
+MINC_204871, material, Palha > Junco | Madeira
+MCHE_42187, materiais, Madeira | Palhinha
+MCHE_55784, materiais, Cerâmica | Pó de Ouro
+MINC_43613, material, Ferro | Madeira | Tintas
+MINC_21377, material, Folha-de-flandres | Vidro
+MCHE_74651, materiais, Madeira | Metal | Palhinha
+MINC_221545, material, Argila > Caolim | Esmalte | Ouro
+MCHE_56180, materiais, Cobre | Cristal Bacará
+MINC_184186, material, Ferro | Madeira
+MCHE_45267, materiais, Cobre | Cristal Bacará
+MINC_206036, material, Madeira | Metal
+MCHE_51552, materiais, Madeira | Palhinha
+MINC_112615, material, Latão
+MRCO_35959, material-9, madeira | palinha
+MCHE_42128, materiais, Linha | Tecido
+MCHE_51784, materiais, Madeira | Palhinha
+MBAN_13070, material, Madeira
+MCHE_53353, materiais, Cerâmica | Pó de Ouro
+MCBC_9216, material, Madeira > Jacarandá | Palhinha
+MINC_39297, material, Ferro | Madeira | Tintas
+MINC_172817, material, Madeira | Ouro | Tintas
+MCHE_65047, materiais, Cobre | Cristal Bacará
+MINC_233489, material, 
+MINC_189259, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MOUR_5687, material-tecnica-3, ferro fundido | latão prensado | madeira recortada
+MCHE_63098, materiais, Cerâmica | Pó de Ouro
+MINC_231169, material, 
+MINC_231742, material, 
+MRCO_36011, material-9, madeira | palinha
+MCBC_9530, material, Madeira | Metal | Vidro
+MCHE_47960, materiais, Madeira | Palhinha
+MCHE_57373, materiais, Cerâmica | Pó de Ouro | Tinta
+MHNA_163856, material, prata 90
+MINC_110004, material, Prata
+MASB_61801, material, Madeira
+MINC_141034, material, Folha-de-flandres | Tintas
+MBAN_10187, material, Madeira
+MCHA_18997, materiais_tecnicas-2, Porcelana
+MHNA_167998, material, aço inoxidável
+MINC_155936, material, Ferro
+MINC_161600, material, Madeira | Tintas
+MINC_187210, material, Pedra-sabão
+MDIA_31139, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MCHA_18904, materiais_tecnicas-2, Porcelana
+MCBC_9234, material, Madeira | Metal
+MASB_49091, material, Madeira | Metal
+MINC_207777, material, Madeira > Jacarandá | Fibra Têxtil > Seda
+MCPR_45071, material, Metal > Metal Esmaltado
+MCHE_51683, materiais, Vidro
+MCPR_44750, material, Metal > Ferro Fundido | Metal > Metal Moldado
+MCHE_51240, materiais, Cerâmica | Pó de Ouro
+MINC_39737, material, Madeira
+MCHE_53821, materiais, Cerâmica | Pó de Ouro
+MINC_70608, material, Madeira > Jacarandá | Madeira > Vinhático
+MCHA_27740, materiais_tecnicas-2, Vidro
+MCBC_10893, material, Madeira | Palhinha
+MINC_99560, material, Madeira > Jacarandá | Madeira
+MRCO_35967, material-9, madeira | palinha
+MINC_205719, material, Madeira
+MCHA_15114, materiais_tecnicas-2, Madeira
+MCHE_76527, materiais, Prata
+MCHA_22106, materiais_tecnicas-2, Porcelana
+MINC_46710, material, Prata
+MRCO_36273, material-9, madeira
+MABO_820, material, argila
+MRSJ_22914, material-3, Madeira | Palhinha
+MCPR_45129, material, Metal > Metal Esmaltado
+MRCO_35772, material-9, madeira | tinta
+MCPR_35988, material, Metal > Ferro | Madeira | Metal
+MCHE_50664, materiais, Vidro
+MCHE_75416, materiais, Madeira | Mármore
+MOUR_5227, material-tecnica-3, couro lavrado | madeira | marcenaria | metal
+MOUR_6023, material-tecnica-3, dourada | entalhada | madeira esculpida | policromada
+MINC_82053, material, Madeira | Tintas
+MCHE_60335, materiais, Prata
+MCHE_64037, materiais, Cristal | Metal
+MINC_231398, material, 
+MCHE_60993, materiais, Madeira Jacarandá
+MINC_12146, material, Ferro | Latão
+MCBC_11710, material, Madeira > Ébano | Metal
+MCBC_10747, material, Vidro > Cristal
+MCHE_52537, materiais, Cerâmica | Pó de Ouro
+MCHE_72657, materiais, Cristal
+MINC_82506, material, Folha-de-flandres | Madeira | Tintas
+MCHE_58754, materiais, Prata
+MCHE_42815, materiais, Prata
+MCHE_42420, materiais, Prata
+MCHE_56775, materiais, Madeira | Palhinha
+MINC_184472, material, Ferro | Madeira > Jacarandá | Latão
+MCHE_63791, materiais, Cerâmica | Pó de Ouro
+MINC_141430, material, Folha-de-flandres | Tintas
+MCHE_46898, materiais, Cristal | Ferro | Tinta com Pó de Ouro
+MCHE_61277, materiais, Prata
+MCHE_62124, materiais, Madeira | Palhinha
+MCHE_53143, materiais, Cerâmica | Pó de Ouro
+MINC_31875, material, Argila > Barro | Papel
+MINC_5958, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MCHE_41140, materiais, Cerâmica | Pó de Ouro
+MRCO_36009, material-9, madeira | palinha
+MRSJ_21193, material-3, Madeira
+MINC_18617, material, Madeira > Jacarandá | Latão | Madeira > Vinhático
+MINC_141826, material, Folha-de-flandres | Tintas
+MINC_30839, material, Madeira | Ouro
+MINC_233066, material, Alabastro | Conchas | Madeira
+MINC_188321, material, Madeira
+MCHE_44995, materiais, Cobre | Cristal Bacará
+MDIA_31656, material-tecnica-3, colagem | entalhe | escultura | madeira | marcenaria | papel | pintura | talcita
+MINC_183528, material, Ferro | Madeira
+MCHE_63280, materiais, Cerâmica | Pó de Ouro
+MINC_204292, material, Ferro | Madeira
+MINC_231472, material, 
+MINC_35759, material, Madeira | Pedra > Talcita | Tintas
+MCHE_41554, materiais, Madeira | Palhinha
+MCBC_9464, material, Madeira | Vidro
+MCHE_76197, materiais, Madeira | Pó de Ouro
+MRSJ_23447, material-3, Folha de Ouro | Porcelana | Tinta
+MCHE_61836, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_105312, material, Argila > Barro | Esmalte | Verniz
+MRSJ_26515, material-3, Madeira | Tinta
+MRSJ_18473, material-3, Pedra (alabastro)
+MINC_171862, material, Madeira
+MCHE_58903, materiais, Prata
+MINC_46506, material, Prata
+MINC_110098, material, Prata
+MCPR_44655, material, Metal > Ferro | Metal > Metal Cinzelado
+MCHE_62918, materiais, Cerâmica | Pó de Ouro
+MINC_201140, material, Madeira
+MINC_184702, material, Couro | Madeira | Tintas
+MCHE_41831, materiais, Madeira | Palhinha
+MCBC_11484, material, Argila | Vidro > Cristal | Madeira | Metal
+MRSJ_23711, material-3, Madeira | Metal | Tinta
+MDIA_31518, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | marchetaria | palhinha
+MINC_232874, material, 
+MCBC_9923, material, Mármore | Madeira > Mogno
+MCHE_70098, materiais, Madeira | Palhinha
+MINC_82143, material, Madeira | Tintas
+MINC_70499, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MCPR_37916, material, Metal
+MINC_222944, material, Madeira | Verniz
+MINC_116723, material, Ferro | Latão
+MDIA_33278, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MCBC_11644, material, Madeira > Ébano | Metal
+MCHE_47566, materiais, Cerâmica | Pó de Ouro
+MHNA_163535, material, prata
+MINC_146589, material, Ferro | Folha-de-flandres
+MCHE_74956, materiais, Madeira | Palhinha
+MABO_502, material, prata
+MINC_42310, material, Madeira > Jacarandá | Marfim
+MCHE_63635, materiais, Cerâmica | Pó de Ouro
+MRSJ_21355, material-3, Madeira
+MCHE_72599, materiais, Cristal
+MRCO_36563, material-9, ferro batido | madeira | tinta
+MINC_34106, material, Madeira | Ouro
+MINC_39598, material, Ferro | Madeira > Jacarandá | Tintas
+MCHE_57190, materiais, Prata
+MCHA_15794, materiais_tecnicas-2, Madeira | Palhinha
+MCBC_10841, material, Vidro > Cristal
+MCBC_11674, material, Madeira > Ébano | Metal
+MCHE_58634, materiais, Prata
+MDIA_34427, material-tecnica-3, madeira | marcenaria | torneado
+MDIA_31885, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MRSJ_20545, material-3, Madeira
+MINC_110698, material, Prata
+MINC_171804, material, Madeira | Purpurina | Tintas
+MCHA_25311, materiais_tecnicas-2, Vidro
+MDIA_33765, material-tecnica-3, porcelana | queima | tinta
+MINC_116911, material, Ferro | Latão
+MINC_74507, material, Madeira
+MCHE_63914, materiais, Cristal | Metal
+MCBC_11427, material, Resina | Vidro
+MCHE_74187, materiais, Gesso | Madeira | Pó de Ouro
+MINC_228209, material, 
+MCBC_10843, material, Vidro
+MCBC_10554, material, Argila | Vidro > Cristal | Madeira | Metal
+MINC_116864, material, Ferro | Latão
+MCHE_63008, materiais, Cerâmica | Pó de Ouro
+MCHE_58694, materiais, Prata
+MCHA_20648, materiais_tecnicas-2, Porcelana
+MASB_61830, material, Madeira > Cedro
+MINC_233207, material, Madeira | Pedra > Talcita | Tintas
+MINC_100304, material, Ferro | Madeira | Tintas
+MCHE_45696, materiais, Cerâmica | Pó de Ouro
+MINC_189209, material, Madeira > Jacarandá | Palha > Junco
+MCPR_36892, material, Rocha > Argila
+MBAN_2966, material, Madeira > Cedro
+MCHE_44315, materiais, Cobre | Cristal Bacará
+MINC_99377, material, Madeira
+MASB_49154, material, Metal > Latão | Metal > Níquel
+MCHE_66153, materiais, Cerâmica | Pó de Ouro
+MINC_112401, material, Latão
+MINC_224328, material, 
+MCBC_10470, material, Argila | Vidro > Cristal | Madeira | Metal
+MRSJ_28335, material-3, Folha de Ouro | Tinta | Vidro
+MCHE_55586, materiais, Cerâmica | Pó de Ouro
+MCHE_56544, materiais, Cerâmica | Pó de Ouro
+MCHA_28824, materiais_tecnicas-2, Metal
+MCHE_73755, materiais, Gesso | Madeira | Pó de Ouro
+MINC_185488, material, Madeira
+MINC_40999, material, Madeira | Ouro
+MINC_46961, material, Argila > Caolim | Esmalte | Ouro
+MINC_182584, material, Ferro | Madeira > Jacarandá | Latão
+MBAN_5902, material, Rocha > Argila
+MINC_175312, material, Madeira
+MCHE_72275, materiais, Cristal
+MRCO_36121, material-9, esmalte | porcelana | tinta
+MINC_183369, material, Madeira | Tintas
+MCHA_24469, materiais_tecnicas-2, Porcelana
+MCBC_11652, material, Madeira > Ébano | Metal
+MCBC_10763, material, Vidro > Cristal
+MINC_5085, material, Madeira > Jacarandá | Metal | Madeira > Sucupira
+MCHE_74457, materiais, Gesso | Madeira | Pó de Ouro
+MDIA_31590, material-tecnica-3, fundição | metal
+MDIA_33775, material-tecnica-3, porcelana | queima | tinta
+MINC_71182, material, Madeira | Tintas
+MCHA_18873, materiais_tecnicas-2, Porcelana
+MCPR_36768, material, Rocha > Argila | Pigmento
+MCHA_15957, materiais_tecnicas-2, Madeira | Palhinha
+MINC_42680, material, Madeira | Osso | Tintas
+MINC_186941, material, Ferro | Latão | Madeira
+MINC_222990, material, Madeira
+MINC_26052, material, Prata
+MCHE_52657, materiais, Cerâmica | Pó de Ouro
+MINC_158674, material, Madeira
+MINC_224928, material, 
+MRSJ_16589, material-3, Madeira | Tinta
+MCHE_45029, materiais, Cobre | Cristal Bacará
+MRSJ_28069, material-3, 
+MCHE_73809, materiais, Gesso | Madeira | Pó de Ouro
+MCPR_36923, material, Rocha > Argila
+MRSJ_21889, material-3, Madeira
+MRSJ_23365, material-3, Madeira | Palhinha
+MCHA_25791, materiais_tecnicas-2, Porcelana
+MINC_173647, material, Ferro | Madeira | Tintas
+MCHE_58784, materiais, Prata
+MINC_116770, material, Ferro | Latão
+MINC_141254, material, Folha-de-flandres | Tintas
+MINC_232837, material, 
+MINC_34768, material, Madeira | Pedra > Talcita | Tintas
+MCHE_65149, materiais, Cobre | Cristal Bacará
+MINC_87779, material, Prata
+MRCO_36141, material-9, cristal | metal | prata
+MASB_48904, material, Metal > Latão
+MCBC_11664, material, Madeira > Ébano | Metal
+MASB_62172, material, Madeira
+MCHE_75922, materiais, Madeira | Pó de Ouro
+MABO_757, material, metal | vidro
+MINC_140372, material, Folha-de-flandres | Tintas
+MCHE_58873, materiais, Prata
+MCPR_37636, material, Metal
+MINC_41682, material, Fibra Têxtil | Madeira > Jacarandá | Tintas
+MABO_817, material, argila
+MRCO_36233, material-9, ferro | metal
+MCBC_10195, material, Argila | Tinta
+MRCO_36435, material-9, madeira | prateada | tinta
+MCHA_23113, materiais_tecnicas-2, Porcelana
+MCHA_27559, materiais_tecnicas-2, Vidro
+MCHE_59113, materiais, Prata
+MCHE_54167, materiais, Cerâmica | Pó de Ouro
+MINC_231590, material, 
+MCHA_20714, materiais_tecnicas-2, Porcelana
+MINC_73698, material, Madeira > Jacarandá | Palha > Junco
+MCHE_67425, materiais, Madeira | Palhinha
+MABO_488, material, 
+MHNA_163467, material, aço | prata
+MINC_187486, material, Madeira
+MCHE_61215, materiais, Metal | Prata
+MCHE_67261, materiais, Madeira | Palhinha
+MDIA_31903, material-tecnica-3, cerâmica | esmalte | porcelana | queima | tinta
+MRSJ_24386, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MCHE_73512, materiais, Gesso | Madeira | Pó de Ouro
+MINC_142134, material, Folha-de-flandres | Tintas
+MCHE_75947, materiais, Madeira | Pó de Ouro
+MDIA_31132, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MINC_86667, material, Madeira > Cedro | Purpurina | Tintas
+MCHE_76222, materiais, Ferro
+MCHE_60925, materiais, Madeira | Palhinha
+MHNA_162855, material, aço | prata
+MCBC_9432, material, Madeira | Palhinha
+MHNA_163371, material, aço | prata
+MINC_141474, material, Folha-de-flandres | Tintas
+MCHE_52597, materiais, Cerâmica | Pó de Ouro
+MCHE_49267, materiais, Prata
+MINC_26101, material, Prata
+MCHA_21845, materiais_tecnicas-2, Porcelana
+MINC_11309, material, Madeira
+MHNA_166866, material, porcelana
+MCBC_10474, material, Argila | Vidro > Cristal | Madeira | Metal
+MRSJ_23242, material-3, Madeira | Palhinha
+MCPR_36108, material, Metal > Ferro | Madeira
+MINC_206403, material, Ferro | Madeira
+MINC_39825, material, Ferro | Madeira
+MCHE_44042, materiais, Madeira | Palhinha
+MINC_223314, material, 
+MCHE_62158, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_52717, materiais, Cerâmica | Pó de Ouro
+MHNA_166829, material, porcelana
+MCHA_24260, materiais_tecnicas-2, Porcelana
+MBAN_1504, material, Madeira | Metal
+MINC_175365, material, Madeira > Cedro | Ferro
+MINC_186669, material, Madeira > Jacarandá | Palha > Junco
+MCHE_42785, materiais, Prata
+MCHE_60217, materiais, Prata
+MCBC_9482, material, Couro | Madeira | Metal | Palhinha
+MRCO_35957, material-9, madeira | palinha
+MINC_73608, material, Madeira > Jacarandá | Palha > Junco
+MCHE_60037, materiais, Prata
+MCBC_10447, material, Madeira | Metal | Papelão | Tinta | Vidro
+MCHA_24170, materiais_tecnicas-2, Porcelana
+MINC_41042, material, Opalina
+MINC_9742, material, Ferro | Madeira > Jacarandá
+MCHE_45233, materiais, Cobre | Cristal Bacará
+MDIA_33770, material-tecnica-3, porcelana | queima | tinta
+MCHE_41069, materiais, Madeira | Palhinha
+MINC_221479, material, Argila > Caolim | Esmalte | Ouro
+MINC_145686, material, Pedra-sabão
+MINC_72602, material, Latão | Madeira | Tintas
+MRCO_36147, material-9, esmalte | porcelana | tinta
+MINC_208142, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_49417, materiais, Prata
+MCBC_10831, material, Vidro > Cristal
+MINC_162439, material, Latão
+MINC_229391, material, 
+MCHE_56150, materiais, Cerâmica | Pó de Ouro
+MINC_189072, material, Madeira | Osso
+MINC_173949, material, Madeira
+MCHE_49725, materiais, Prata
+MINC_47557, material, Argila > Caolim | Esmalte
+MINC_185757, material, Madeira
+MINC_99673, material, Madeira
+MCHE_46991, materiais, Madeira | Palhinha
+MCHE_66306, materiais, Cerâmica | Pó de Ouro
+MCHE_48933, materiais, Cobre
+MCHE_49297, materiais, Prata
+MCHA_20615, materiais_tecnicas-2, Porcelana
+MHNA_160327, material, melamina
+MCBC_10845, material, Vidro
+MCHE_71948, materiais, Ferro
+MRSJ_20217, material-3, Madeira
+MCHE_74538, materiais, Gesso | Madeira | Pó de Ouro
+MINC_168524, material, Ferro | Madeira
+MCHA_19524, materiais_tecnicas-2, Porcelana
+MINC_111697, material, Latão
+MRCO_36472, material-9, madeira | tinta
+MRCO_35895, material-9, folha de ouro | madeira | tinta
+MCHA_26844, materiais_tecnicas-2, Vidro
+MCBC_10895, material, Madeira | Palhinha
+MDIA_31941, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_228163, material, 
+MCBC_11502, material, Argila | Vidro > Cristal | Metal
+MBAN_13109, material, Couro | Madeira
+MCHE_61934, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_20516, materiais_tecnicas-2, Porcelana
+MBAN_2628, material, Madeira > Aroeira
+MINC_29269, material, Madeira > Jacarandá | Palha > Junco
+MINC_232175, material, 
+MINC_231362, material, 
+MINC_203180, material, Madeira
+MCHA_23395, materiais_tecnicas-2, Porcelana
+MCBC_10805, material, Madeira | Metal | Tinta | Vidro
+MINC_124439, material, Folha-de-flandres
+MRCO_36089, material-9, madeira
+MRSJ_27981, material-3, Folha de Ouro | Porcelana | Tinta
+MCHE_51586, materiais, Madeira | Palhinha
+MBAN_14266, material, Madeira | Fibra > Fibra Vegetal > Palha
+MINC_233412, material, 
+MINC_111819, material, Latão
+MRSJ_23938, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MCHE_63975, materiais, Cristal | Metal
+MCBC_10869, material, Madeira > Jacarandá | Metal
+MCHA_31488, materiais_tecnicas-2, Terracota
+MINC_23829, material, Ferro | Madeira > Jacarandá
+MCHA_20747, materiais_tecnicas-2, Porcelana
+MINC_37643, material, Aluminato de Prata | Madeira
+MCHE_69374, materiais, Cerâmica | Pó de Ouro
+MBAN_5040, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MINC_148577, material, Ferro
+MINC_205880, material, Ferro | Madeira
+MCBC_11510, material, Metal | Tinta
+MCHE_44382, materiais, Cobre | Cristal Bacará
+MRSJ_23406, material-3, Madeira | Palhinha
+MINC_174710, material, Latão | Madeira
+MCHE_48100, materiais, Ferro | Madeira
+MINC_191785, material, Madeira | Tintas
+MCHE_50306, materiais, Madeira | Palhinha
+MCPR_37978, material, Metal
+MCHE_54320, materiais, Prata
+MINC_223081, material, Madeira
+MABO_826, material, opalina
+MHNA_166699, material, porcelana
+MRSJ_24010, material-3, Madeira | Metal | Tinta
+MINC_110470, material, Prata
+MCHA_24410, materiais_tecnicas-2, Porcelana
+MCHA_47919, materiais_tecnicas-2, Vidro
+MCHE_57859, materiais, Metal | Prata
+MCHA_27586, materiais_tecnicas-2, Vidro
+MINC_162237, material, Latão
+MINC_183840, material, Madeira > Jacarandá
+MINC_224158, material, 
+MINC_182873, material, Madeira
+MCHE_72208, materiais, Cristal
+MCHE_48574, materiais, Ferro | Madeira
+MCHE_68616, materiais, Cerâmica | Pó de Ouro
+MINC_235443, material, Madeira | Tintas | Vidro
+MCHE_41928, materiais, Prata
+MINC_9644, material, Madeira > Cedro
+MCHE_71631, materiais, Cristal
+MINC_35703, material, Madeira | Pedra > Talcita | Tintas
+MCHE_55088, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_208400, material, Madeira > Jacarandá | Palha > Junco
+MINC_90014, material, Madeira > Jacarandá | Madeira
+MCBC_10855, material, Vidro
+MCHE_47350, materiais, Cristal
+MINC_140504, material, Folha-de-flandres | Tintas
+MCHA_15827, materiais_tecnicas-2, Madeira | Palhinha
+MCHE_57610, materiais, Madeira | Mármore | Metal
+MCHE_61184, materiais, Metal | Prata
+MCBC_11458, material, Madeira | Mármore
+MINC_71139, material, Folha-de-flandres | Madeira | Tintas
+MHNA_166972, material, porcelana
+MINC_124891, material, Latão
+MRCO_36452, material-9, madeira | tinta
+MCHE_55968, materiais, Cerâmica | Pó de Ouro
+MDIA_31901, material-tecnica-3, cerâmica | esmalte | porcelana | queima | tinta
+MCPR_37296, material, Rocha > Argila | Pigmento
+MINC_141166, material, Folha-de-flandres | Tintas
+MCHE_62696, materiais, Cristal
+MCHE_64006, materiais, Cristal | Metal Dourado
+MINC_91162, material, Latão
+MCHE_74685, materiais, Madeira | Metal | Palhinha
+MHNA_166512, material, porcelana
+MCBC_11099, material, Madeira | Palhinha
+MCBC_10823, material, Argila
+MCHA_20876, materiais_tecnicas-2, Porcelana
+MCPR_45570, material, Metal > Metal Moldado
+MRCO_36635, material-9, metal > bronze | cristal | metal
+MRSJ_21152, material-3, Madeira | Metal
+MCHE_61904, materiais, Cerâmica | Pó de Ouro
+MCPR_32758, material, Metal
+MCHA_22687, materiais_tecnicas-2, Porcelana
+MCHE_52116, materiais, Prata
+MCBC_10171, material, Madeira
+MINC_166097, material, Madeira > Pinho-de-riga | Tintas
+MINC_31456, material, Madeira > Cedro | Ouro | Tintas
+MINC_141386, material, Folha-de-flandres | Tintas
+MCHE_75847, materiais, Madeira | Pó de Ouro
+MINC_128254, material, Madeira > Jacarandá | Palha > Junco
+MRSJ_26962, material-3, Madeira
+MRSJ_20134, material-3, Madeira
+MCHE_60187, materiais, Prata
+MINC_30711, material, Madeira | Ouro | Tintas
+MCHE_76498, materiais, Cerâmica | Pó de Ouro
+MABO_492, material, prata
+MASB_61956, material, Madeira > Cedro
+MHNA_160414, material, melamina
+MRCO_36007, material-9, madeira | palinha
+MCPR_35654, material, Metal > Ferro | Madeira | Pigmento
+MCBC_9254, material, Argila | Vidro > Cristal | Metal
+MINC_233295, material, 
+MCHE_45669, materiais, Tafetá
+MDIA_33893, material-tecnica-3, fundição | metal
+MCBC_9500, material, Madeira > Jacarandá | Palhinha
+MCBC_9210, material, Madeira > Jacarandá | Palhinha
+MCHE_47058, materiais, Madeira | Palhinha
+MCBC_11692, material, Madeira > Ébano | Metal
+MINC_141782, material, Folha-de-flandres | Tintas
+MCPR_35047, material, Metal > Ferro | Madeira | Tinta
+MINC_209054, material, Ferro | Madeira
+MCBC_10369, material, Linha | Tecido
+MCHE_43320, materiais, Prata
+MCHE_64646, materiais, Cerâmica | Pó de Ouro | Tinta
+MASB_49122, material, Metal > Latão | Metal > Níquel
+MINC_70752, material, Madeira > Jacarandá | Latão
+MINC_175626, material, Madeira
+MCHE_67458, materiais, Cristal
+MCHE_57978, materiais, Prata
+MINC_110790, material, Prata
+MCBC_10827, material, Vidro
+MCHE_75351, materiais, Madeira | Mármore
+MRSJ_23324, material-3, Madeira | Palhinha
+MCHE_73944, materiais, Gesso | Madeira | Pó de Ouro
+MRSJ_20907, material-3, Madeira
+MRSJ_22545, material-3, Madeira | Palhinha
+MINC_174607, material, Ferro | Madeira > Jacarandá
+MINC_87625, material, Aço | Prata
+MCHE_59857, materiais, Prata
+MDIA_31149, material-tecnica-3, madeira | marcenaria
+MCHA_35272, materiais_tecnicas-2, Bordado | Tecido de algodão
+MBAN_4922, material, Madeira > Jacarandá
+MCPR_37110, material, Rocha > Argila
+MINC_175866, material, Madeira > Jacarandá | Palha > Junco
+MINC_31499, material, Madeira | Ouro | Tintas
+MINC_25476, material, Ferro | Madeira > Jacarandá
+MINC_140284, material, Folha-de-flandres | Tintas
+MRCO_36836, material-9, madeira | metal
+MINC_141342, material, Folha-de-flandres | Tintas
+MDIA_32041, material-tecnica-3, entalhe | marfim
+MCHA_19369, materiais_tecnicas-2, Porcelana
+MCHA_24320, materiais_tecnicas-2, Porcelana
+MINC_139876, material, Folha-de-flandres | Purpurina | Tintas
+MCPR_45157, material, Metal > Metal Esmaltado
+MCHE_74820, materiais, Madeira | Palhinha
+MINC_176119, material, Ferro | Madeira | Tintas
+MCHA_28093, materiais_tecnicas-2, Vidro
+MCHE_46206, materiais, Linha de Algodão | Linho
+MINC_25625, material, Madeira > Vinhático
+MCHE_56872, materiais, Madeira | Mármore
+MINC_186719, material, Madeira > Jacarandá | Palha > Junco
+MCHE_55340, materiais, Cerâmica | Pó de Ouro
+MINC_230542, material, 
+MINC_186383, material, Madeira > Jacarandá | Palha > Junco
+MCHE_63190, materiais, Cerâmica | Pó de Ouro
+MHNA_162823, material, aço | prata
+MCHE_52627, materiais, Cerâmica | Pó de Ouro
+MCHE_59680, materiais, Prata
+MCHA_27765, materiais_tecnicas-2, Vidro
+MBAN_14346, material, Rocha > Argila
+MCPR_38009, material, Metal
+MCHE_73095, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_49357, materiais, Prata
+MINC_96820, material, Vidro
+MABO_829, material, opalina
+MBAN_5233, material, Madeira | Fibra > Fibra Vegetal > Palhinha
+MCHE_43382, materiais, Prata
+MRSJ_16677, material-3, Metal (folha-de-flandres) | Tinta
+MCHE_63373, materiais, Madeira | Palhinha
+MOUR_5689, material-tecnica-3, bronze | fundição | latão | prensa
+MINC_222789, material, Madeira | Ouro | Tintas
+MCHE_64352, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MCBC_10825, material, Vidro
+MCHE_68556, materiais, Cerâmica | Pó de Ouro
+MCHE_54991, materiais, Cerâmica | Pó de Ouro
+MINC_163335, material, Latão
+MCHA_24138, materiais_tecnicas-2, Porcelana
+MDIA_31758, material-tecnica-3, fundição | madeira | marcenaria | metal
+MINC_229550, material, 
+MCHE_50760, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_47789, materiais, Madeira | Palhinha
+MCHE_51360, materiais, Cerâmica | Pó de Ouro
+MDIA_31859, material-tecnica-3, madeira | marcenaria | torneado
+MABO_482, material, argila | metal
+MCHE_51818, materiais, Madeira | Palhinha
+MINC_47100, material, Argila > Caolim | Esmalte
+MDIA_33908, material-tecnica-3, fundição | metal
+MHNA_166668, material, porcelana
+MINC_175817, material, Madeira > Jacarandá | Palha > Junco
+MINC_188957, material, Madeira > Jacarandá | Palha > Junco
+MRSJ_23532, material-3, Madeira | Palhinha
+MRSJ_22504, material-3, Madeira | Palhinha
+MCHE_62442, materiais, Cerâmica | Pó de Ouro
+MCHA_23275, materiais_tecnicas-2, Porcelana
+MCHE_64451, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MINC_171373, material, Madeira
+MINC_187428, material, Ferro | Latão | Madeira
+MINC_127736, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCBC_11662, material, Madeira > Ébano | Metal
+MINC_188217, material, Madeira
+MDIA_31587, material-tecnica-3, fundição | metal
+MINC_100539, material, Madeira > Canela-parda | Ferro | Tintas
+MCHA_23221, materiais_tecnicas-2, Porcelana
+MCHE_51484, materiais, Cristal
+MCHE_53791, materiais, Cerâmica | Pó de Ouro
+MCHE_49327, materiais, Prata
+MINC_172268, material, Madeira > Jacarandá | Palha > Junco
+MCHE_51620, materiais, Cristal
+MINC_186609, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_45825, materiais, Prata
+MCHE_74052, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_66123, materiais, Cerâmica | Pó de Ouro
+MINC_184856, material, Madeira
+MINC_161688, material, Madeira > Jacarandá | Tintas
+MCBC_11702, material, Madeira > Ébano | Metal
+MCHE_58334, materiais, Prata
+MINC_88666, material, Madeira > Cedro | Madeira > Jacarandá
+MRCO_37108, material-9, cristal | ferro | vidro
+MBAN_5826, material, Rocha > Argila
+MCHE_49602, materiais, Prata
+MCHE_46689, materiais, Prata
+MRCO_36275, material-9, madeira
+MASB_63280, material, Metal > Prata
+MCHE_40588, materiais, Prata
+MCHE_68282, materiais, Cerâmica | Pó de Ouro
+MCBC_9496, material, Madeira > Jacarandá | Palhinha
+MINC_148620, material, Ferro
+MINC_10215, material, Ferro | Folha-de-flandres | Vidro
+MCHA_15178, materiais_tecnicas-2, Madeira | Metal
+MRSJ_28025, material-3, 
+MCHE_65081, materiais, Cobre | Cristal Bacará
+MCHE_74133, materiais, Gesso | Madeira | Pó de Ouro
+MINC_184579, material, Madeira > Jacarandá | Madeira > Vinhático
+MCHE_74484, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_55021, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_187892, material, Madeira
+MINC_175470, material, Madeira
+MCHA_21368, materiais_tecnicas-2, Porcelana
+MCHE_53053, materiais, Cerâmica | Pó de Ouro
+MCBC_9472, material, Couro | Madeira | Metal | Palhinha
+MINC_36400, material, Latão | Madeira
+MRCO_36139, material-9, vidro
+MINC_208858, material, Ferro | Madeira
+MCBC_11666, material, Madeira > Ébano | Metal
+MRCO_36850, material-9, folha de ouro | madeira | metal
+MCHE_43159, materiais, Prata
+MCHE_46959, materiais, Ferro
+MCHE_44688, materiais, Cobre | Cristal Bacará
+MINC_111658, material, Latão
+MHNA_163751, material, prata 90
+MINC_232549, material, Madeira | Metal
+MCHE_55845, materiais, Cerâmica | Pó de Ouro
+MCHE_61028, materiais, Metal | Prata
+MCHA_15689, materiais_tecnicas-2, Madeira | Palhinha
+MCHA_21335, materiais_tecnicas-2, Porcelana
+MHNA_168229, material, cristal
+MCHA_18935, materiais_tecnicas-2, Porcelana
+MCHE_59768, materiais, Prata
+MCBC_9486, material, Madeira > Jacarandá | Palhinha
+MCHE_45611, materiais, Vidro
+MCBC_9536, material, Couro | Madeira | Palhinha
+MCHA_21038, materiais_tecnicas-2, Porcelana
+MRSJ_20666, material-3, Madeira
+MDIA_34321, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MCHA_15862, materiais_tecnicas-2, Madeira | Palhinha
+MINC_188647, material, Madeira > Jacarandá | Palha > Junco
+MCHE_42695, materiais, Prata
+MHNA_163890, material, prata 90
+MCHE_71348, materiais, Linha de Algodão | Linho
+MINC_174049, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MCHE_54533, materiais, Cerâmica | Pó de Ouro
+MCHE_48503, materiais, Ferro | Madeira | Mármore | Vidro
+MCHE_48030, materiais, Madeira | Palhinha
+MCHA_14946, materiais_tecnicas-2, Espelho | Madeira | Mármore | Metal
+MRSJ_23037, material-3, Madeira | Palhinha
+MINC_15834, material, Ferro
+MCHE_54072, materiais, Ferro
+MINC_141914, material, Folha-de-flandres | Tintas
+MBAN_4550, material, Madeira
+MINC_168462, material, Ferro | Madeira
+MINC_85130, material, Madeira | Tintas
+MCHE_45063, materiais, Cobre | Cristal Bacará
+MCHE_43694, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_42290, materiais, Prata
+MCPR_36830, material, Rocha > Argila
+MINC_100065, material, Madeira
+MCHA_23005, materiais_tecnicas-2, Porcelana
+MCHE_65840, materiais, Cerâmica | Pó de Ouro
+MCHA_24290, materiais_tecnicas-2, Porcelana
+MINC_175161, material, Madeira > Cedro
+MDIA_31987, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCHE_64418, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MINC_42633, material, Madeira > Cedro | Ferro | Folha-de-flandres
+MCPR_44103, material, Madeira | Metal
+MINC_82641, material, Madeira > Cedro | Tintas
+MINC_18042, material, Folha-de-flandres | Vidro
+MRCO_36243, material-9, ferro | madeira | metal
+MINC_41989, material, Ferro | Latão | Madeira > Vinhático
+MCHE_42452, materiais, Prata
+MRSJ_20584, material-3, Madeira
+MCHE_61519, materiais, Cerâmica | Pó de Ouro
+MCHE_60824, materiais, Madeira
+MINC_223421, material, 
+MCBC_10743, material, Vidro > Cristal
+MINC_29357, material, Madeira > Jacarandá | Palha > Junco
+MINC_41233, material, Couro | Latão | Madeira
+MCHE_58068, materiais, Prata
+MCHA_18656, materiais_tecnicas-2, Porcelana
+MDIA_33268, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MINC_110423, material, Prata
+MCHE_64221, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MCHE_63128, materiais, Cerâmica | Pó de Ouro
+MCHE_44179, materiais, Cobre | Cristal Bacará
+MCHE_53567, materiais, Cerâmica | Pó de Ouro
+MRSJ_16717, material-3, Metal (folha-de-flandres) | Tinta
+MCHE_75897, materiais, Madeira | Pó de Ouro
+MCHA_22019, materiais_tecnicas-2, Porcelana
+MCBC_9202, material, Madeira > Jacarandá | Metal | Tecido Oleado
+MCHE_73566, materiais, Gesso | Madeira | Pó de Ouro
+MCBC_10739, material, Vidro > Cristal
+MBAN_4882, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MINC_11948, material, Ferro
+MINC_140814, material, Folha-de-flandres | Tintas
+MINC_15920, material, Ferro
+MCHA_22658, materiais_tecnicas-2, Porcelana
+MINC_123360, material, Ferro | Folha-de-flandres
+MINC_110933, material, Prata
+MINC_208956, material, Ferro | Madeira
+MCHE_62858, materiais, Cerâmica | Pó de Ouro
+MINC_14904, material, Madeira
+MINC_34149, material, Madeira | Ouro
+MRSJ_23283, material-3, Madeira | Palhinha
+MCHE_75772, materiais, Madeira | Pó de Ouro
+MCHE_40169, materiais, Prata
+MINC_98271, material, Aluminato de Prata | Folha-de-flandres
+MCPR_38189, material, Metal > Ferro | Madeira
+MCBC_9456, material, Madeira | Mármore | Metal | Tinta | Vidro
+MHNA_163211, material, prata
+MINC_228663, material, 
+MINC_70653, material, Madeira > Jacarandá | Madeira
+MINC_100491, material, Ferro | Madeira > Jacarandá | Tintas
+MRCO_35945, material-9, madeira | palinha
+MCHE_51853, materiais, Madeira | Palhinha
+MCHE_53731, materiais, Cerâmica | Pó de Ouro
+MRCO_35953, material-9, madeira | palinha
+MDIA_32109, material-tecnica-3, entrançado | madeira | marcenaria | palhinha
+MINC_43263, material, Madeira | Tintas
+MCHE_62378, materiais, Ferro
+MCHE_72174, materiais, Cristal
+MCHA_22265, materiais_tecnicas-2, Porcelana
+MINC_224493, material, 
+MCHE_58186, materiais, Prata
+MCHE_68493, materiais, Cerâmica | Pó de Ouro
+MCHE_48644, materiais, Ferro | Madeira | Mármore | Vidro
+MCHE_61964, materiais, Madeira | Palhinha
+MINC_141298, material, Folha-de-flandres | Tintas
+MCBC_10773, material, Argila | Tinta
+MCHA_22978, materiais_tecnicas-2, Porcelana
+MCHE_65507, materiais, Cerâmica | Pó de Ouro
+MRSJ_24067, material-3, Folha de Ouro | Madeira | Pedra | Tinta | Vidro
+MASB_47283, material, Metal > Cobre | Metal > Prata
+MCHE_55556, materiais, Cerâmica | Pó de Ouro
+MCHE_64809, materiais, Cobre | Cristal Bacará
+MCHA_19555, materiais_tecnicas-2, Porcelana
+MCHE_76172, materiais, Madeira | Pó de Ouro
+MCHE_70063, materiais, Madeira | Palhinha
+MINC_99422, material, Madeira > Jacarandá
+MCHE_45547, materiais, Vidro
+MCPR_37234, material, Rocha > Argila
+MCBC_10745, material, Vidro > Cristal
+MINC_9843, material, Madeira > Cedro | Madeira > Jacarandá | Metal
+MINC_112279, material, Latão
+MCHE_62888, materiais, Cerâmica | Pó de Ouro
+MHNA_159801, material, vidro
+MCHA_18718, materiais_tecnicas-2, Porcelana
+MCBC_10889, material, Madeira | Palhinha
+MCHA_20812, materiais_tecnicas-2, Porcelana
+MCHE_56710, materiais, Prata
+MCBC_9466, material, Madeira > Jacarandá | Metal
+MCBC_11642, material, Madeira > Ébano | Metal
+MINC_140460, material, Folha-de-flandres | Tintas
+MABO_501, material, prata
+MCHE_43976, materiais, Cobre | Cristal Bacará
+MASB_48837, material, Metal > Latão
+MINC_37466, material, Madeira | Tintas
+MCBC_10887, material, Madeira | Palhinha
+MCHE_46659, materiais, Prata
+MRCO_36129, material-9, esmalte | porcelana | tinta
+MCHE_60853, materiais, Madeira | Mármore
+MCHE_69224, materiais, Cerâmica | Pó de Ouro
+MCHE_61616, materiais, Cerâmica | Pó de Ouro
+MINC_140152, material, Folha-de-flandres | Tintas
+MCHE_58574, materiais, Prata
+MCHA_19648, materiais_tecnicas-2, Porcelana
+MINC_20377, material, Ferro | Madeira > Jacarandá
+MCHE_43034, materiais, Prata
+MCHE_67159, materiais, Cobre | Cristal Bacará
+MINC_87830, material, Prata
+MCHE_64099, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_58604, materiais, Prata
+MRSJ_20506, material-3, Madeira
+MCHE_63697, materiais, Cerâmica | Pó de Ouro
+MRCO_35832, material-9, folha de ouro | madeira | tinta
+MINC_183892, material, Madeira | Fibra Têxtil > Seda | Tintas
+MINC_235306, material, 
+MINC_123506, material, Ferro | Folha-de-flandres
+MCBC_10645, material, Metal > Prata
+MCHE_71696, materiais, Cobre | Cristal Bacará
+MCHA_22187, materiais_tecnicas-2, Porcelana
+MOUR_5253, material-tecnica-3, ferro fundido | madeira | marcenaria
+MCHA_19431, materiais_tecnicas-2, Porcelana
+MINC_175730, material, Madeira > Jacarandá | Palha > Junco
+MINC_70563, material, Madeira > Jacarandá | Madeira
+MDIA_31306, material-tecnica-3, madeira | marcenaria | marchetaria | recorte | vidro
+MINC_102145, material, Ferro
+MINC_208640, material, Madeira | Metal
+MDIA_31967, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCHA_35245, materiais_tecnicas-2, Filó com bordados | Tecido de algodão
+MCHA_32012, materiais_tecnicas-2, Vidro
+MCHE_57312, materiais, Vidro
+MCHE_68646, materiais, Cerâmica | Pó de Ouro
+MINC_12195, material, Ferro | Latão
+MCBC_10761, material, Vidro > Cristal
+MCHE_43725, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_69133, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_110980, material, Prata
+MCHA_24200, materiais_tecnicas-2, Porcelana
+MCHE_73620, materiais, Gesso | Madeira | Pó de Ouro
+MHNA_163276, material, prata
+MCBC_10077, material, Argila
+MCHE_46870, materiais, Linha de Algodão | Linho
+MBAN_1791, material, Metal
+MCHE_61122, materiais, Prata
+MCBC_9220, material, Madeira > Jacarandá | Palhinha
+MINC_123997, material, Folha-de-flandres
+MCHE_64748, materiais, Cerâmica | Pó de Ouro
+MCHE_66702, materiais, Cerâmica | Pó de Ouro
+MCBC_11688, material, Madeira > Ébano | Metal
+MINC_10547, material, Latão
+MINC_168582, material, Madeira > Jacarandá | Madeira
+MINC_174303, material, Ferro | Madeira
+MCHA_14619, materiais_tecnicas-2, Madeira de cedro
+MCHE_53445, materiais, Cerâmica | Pó de Ouro
+MINC_141694, material, Folha-de-flandres | Tintas
+MCHE_58215, materiais, Prata
+MCHE_68736, materiais, Cerâmica | Pó de Ouro
+MCHE_56362, materiais, Prata
+MCHE_52084, materiais, Prata
+MINC_73412, material, Ferro | Madeira
+MCBC_11680, material, Madeira > Ébano | Metal
+MCHA_30651, materiais_tecnicas-2, Madeira | Metal
+MINC_80209, material, Madeira | Ouro
+MDIA_31960, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCBC_9226, material, Madeira | Metal
+MINC_172219, material, Madeira > Jacarandá | Palha > Junco
+MINC_12097, material, Ferro | Latão
+MCBC_11115, material, Madeira | Metal | Vidro
+MINC_111440, material, Prata
+MCBC_11640, material, Madeira > Ébano | Metal
+MRSJ_23877, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MCHE_56120, materiais, Cerâmica | Pó de Ouro
+MCBC_10759, material, Vidro > Cristal
+MINC_84056, material, Argila > Caolim | Esmalte
+MCHE_67490, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_205985, material, Madeira > Jacarandá
+MCHA_25080, materiais_tecnicas-2, Porcelana
+MINC_127984, material, Madeira > Jacarandá | Palha > Junco
+MCHE_41415, materiais, Madeira | Palhinha
+MBAN_1547, material, Madeira | Metal
+MINC_33925, material, Madeira | Tintas
+MDIA_33794, material-tecnica-3, argila | pintura | queima | tinta
+MCHA_18966, materiais_tecnicas-2, Porcelana
+MCHA_23032, materiais_tecnicas-2, Porcelana
+MCHE_43849, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_112483, material, Latão
+MINC_175262, material, Madeira
+MOUR_5275, material-tecnica-3, fundição | madeira | metal | recorte
+MBAN_10227, material, Madeira
+MCHA_24440, materiais_tecnicas-2, Porcelana
+MCBC_10087, material, Argila
+MCBC_11151, material, Argila | Vidro > Cristal | Madeira | Metal
+MRCO_36633, material-9, metal
+MHNA_164071, material, prata 90
+MCHE_70862, materiais, Linha de Algodão | Linho
+MINC_228510, material, 
+MINC_116679, material, Ferro
+MCBC_10490, material, Madeira | Metal | Tinta
+MCBC_10281, material, Madeira
+MINC_31739, material, Madeira > Jacarandá | Latão
+MRSJ_15460, material-3, Folha de Ouro | Porcelana | Tinta
+MINC_173795, material, Ferro | Madeira
+MCHE_54009, materiais, Madeira | Mármore
+MINC_43218, material, Madeira | Tintas
+MCBC_9434, material, Argila | Vidro > Cristal | Metal
+MCHE_52993, materiais, Cerâmica | Pó de Ouro
+MBAN_5078, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MCHE_44790, materiais, Cobre | Cristal Bacará
+MINC_10437, material, Ferro | Latão | Vidro
+MINC_224111, material, 
+MCHE_58993, materiais, Prata
+MBAN_14799, material, Metal > Bronze
+MINC_227567, material, 
+MBAN_6020, material, Madeira
+MINC_42493, material, Madeira > Jacarandá | Madeira | Metal
+MRSJ_28596, material-3, Folha de Ouro | Porcelana | Tinta
+MRCO_36551, material-9, folha de ouro | madeira | tinta
+MCBC_11431, material, Metal | Tinta
+MCHE_49103, materiais, Cobre | Cristal Bacará
+MCHE_47596, materiais, Cerâmica | Pó de Ouro
+MRCO_36511, material-9, madeira | palinha
+MCHA_27532, materiais_tecnicas-2, Vidro
+MCHE_52477, materiais, Cerâmica | Pó de Ouro
+MCHE_68252, materiais, Cerâmica | Pó de Ouro
+MCBC_10911, material, Madeira | Palhinha
+MINC_209499, material, Palha > Junco | Madeira
+MINC_148485, material, Ferro
+MINC_72765, material, Madeira
+MCHE_74079, materiais, Gesso | Madeira | Pó de Ouro
+MINC_139735, material, Folha-de-flandres | Vidro
+MCHE_51450, materiais, Cristal
+MCBC_9558, material, Linha | Tecido > Linho
+MINC_162199, material, Latão
+MCHE_63515, materiais, Cerâmica | Pó de Ouro
+MCHE_42668, materiais, Metal | Vinhático
+MINC_156040, material, Madeira | Ouro
+MRCO_36484, material-9, madeira
+MCHE_42482, materiais, Prata
+MINC_140328, material, Folha-de-flandres | Tintas
+MHNA_162724, material, aço | prata
+MCHE_67682, materiais, Madeira | Palhinha
+MINC_224416, material, 
+MHNA_167771, material, prata
+MHNA_163019, material, prata
+MCBC_11676, material, Madeira > Ébano | Metal
+MCBC_11682, material, Madeira > Ébano | Metal
+MINC_226866, material, 
+MCBC_11109, material, Madeira | Metal | Vidro
+MHNA_163115, material, prata
+MINC_172907, material, Madeira
+MCHE_46018, materiais, Linha de Algodão | Linho
+MCHA_19927, materiais_tecnicas-2, Porcelana
+MCHE_54289, materiais, Prata
+MINC_125209, material, Madeira > Jacarandá | Madeira > Vinhático
+MRSJ_22955, material-3, Madeira | Palhinha
+MCBC_10755, material, Vidro > Cristal
+MCHE_71223, materiais, Madeira | Mármore
+MCHE_66215, materiais, Cerâmica | Pó de Ouro
+MRSJ_19591, material-3, Madeira
+MINC_233698, material, 
+MINC_205561, material, Madeira > Cedro | Madeira > Jacarandá
+MINC_105269, material, Argila > Barro | Esmalte | Verniz
+MRCO_36019, material-9, madeira | palinha
+MCHE_47261, materiais, Prata
+MCPR_37885, material, Metal
+MCHE_44281, materiais, Cobre | Cristal Bacará
+MINC_228091, material, 
+MCHA_21990, materiais_tecnicas-2, Porcelana
+MCHE_42755, materiais, Prata
+MINC_162687, material, Latão
+MINC_186089, material, Madeira > Jacarandá | Palha > Junco
+MCHE_64843, materiais, Cobre | Cristal Bacará
+MCHE_43818, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_99967, material, Madeira
+MCBC_9901, material, Madeira | Metal
+MCHE_60656, materiais, Madeira | Palhinha
+MCHA_20153, materiais_tecnicas-2, Porcelana
+MCHE_41625, materiais, Madeira | Palhinha
+MASB_60481, material, Metal > Ferro | Metal > Latão
+MCBC_11700, material, Madeira > Ébano | Metal
+MCHE_65115, materiais, Cobre | Cristal Bacará
+MCHE_69006, materiais, Cerâmica | Pó de Ouro
+MRCO_36155, material-9, esmalte | porcelana | tinta
+MCHE_43631, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_25760, materiais_tecnicas-2, Porcelana
+MCHE_68463, materiais, Cerâmica | Pó de Ouro
+MINC_72709, material, Ferro | Madeira > Jacarandá
+MINC_10756, material, Madeira > Cedro | Madeira > Jacarandá
+MOUR_5913, material-tecnica-3, dourada | madeira entalhada | policromada | recortada
+MRSJ_21110, material-3, Madeira | Metal
+MINC_42216, material, Madeira > Jacarandá
+MCHE_53537, materiais, Cerâmica | Pó de Ouro
+MINC_119508, material, Cobre | Vidro
+MCHE_68826, materiais, Cerâmica | Pó de Ouro
+MDIA_31114, material-tecnica-3, madeira | marcenaria | pedra | recorte | torneado
+MCHE_40365, materiais, Madeira | Palhinha
+MCHA_19059, materiais_tecnicas-2, Porcelana
+MCHE_66031, materiais, Cerâmica | Pó de Ouro
+MCHE_56422, materiais, Cerâmica | Pó de Ouro
+MCPR_30862, material, Não identificado
+MCHE_45579, materiais, Vidro
+MINC_203225, material, Madeira
+MCHA_15654, materiais_tecnicas-2, Madeira | Palhinha
+MDIA_31159, material-tecnica-3, fundição | jacarandá | madeira | marcenaria | metal
+MCHE_72714, materiais, Cristal
+MCHE_43224, materiais, Prata
+MCHA_21434, materiais_tecnicas-2, Porcelana
+MRCO_36027, material-9, faia | madeira
+MCBC_9993, material, Linha | Madeira | Metal | Tecido | Vidro
+MINC_139789, material, Folha-de-flandres
+MCHE_46806, materiais, Prata
+MINC_82552, material, Folha-de-flandres | Madeira | Tintas
+MCHA_22343, materiais_tecnicas-2, Porcelana
+MHNA_166607, material, porcelana
+MINC_30797, material, Aluminato de Prata | Madeira | Tintas
+MINC_17987, material, Madeira > Jacarandá
+MINC_185859, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHA_19679, materiais_tecnicas-2, Porcelana
+MCBC_9298, material, Argila | Vidro > Cristal | Metal
+MCBC_10905, material, Madeira | Palhinha
+MCHE_75972, materiais, Madeira | Pó de Ouro
+MINC_192981, material, Madeira > Jacarandá | Madeira
+MINC_186037, material, Madeira > Jacarandá | Palha > Junco
+MCHE_75822, materiais, Madeira | Pó de Ouro
+MINC_233575, material, 
+MCBC_11494, material, Metal | Madeira > Pinho
+MDIA_32127, material-tecnica-3, entrançado | madeira | marcenaria | palhinha
+MCHE_56392, materiais, Cerâmica | Pó de Ouro
+MCHE_65687, materiais, Cerâmica | Pó de Ouro
+MCHE_59202, materiais, Prata
+MINC_124482, material, Fibra Têxtil > Seda
+MCHA_59115, materiais_tecnicas-2, Aluminio | Vidro
+MCHE_66456, materiais, Cerâmica | Pó de Ouro
+MDIA_31547, material-tecnica-3, madeira | marcenaria
+MCHE_68946, materiais, Cerâmica | Pó de Ouro
+MCBC_9484, material, Couro | Madeira | Metal | Palhinha
+MCHA_20681, materiais_tecnicas-2, Porcelana
+MABO_491, material, 
+MCHA_38390, materiais_tecnicas-2, Vidro
+MCHE_60067, materiais, Prata
+MINC_111859, material, Latão
+MCHA_19400, materiais_tecnicas-2, Porcelana
+MINC_100587, material, Madeira > Cedro | Ferro | Tintas
+MRCO_36645, material-9, jacarandá | madeira
+MINC_184132, material, Couro | Latão | Madeira
+MCHE_51713, materiais, Madeira | Palhinha
+MINC_175419, material, Madeira
+MCHE_42388, materiais, Prata
+MCHE_55814, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_55428, materiais, Cerâmica | Pó de Ouro
+MCHA_27913, materiais_tecnicas-2, Vidro
+MINC_188049, material, Madeira > Jacarandá | Palha > Junco
+MRSJ_28376, material-3, Folha de Ouro | Tinta | Vidro
+MCHE_40618, materiais, Cerâmica | Pó de Ouro
+MRCO_36175, material-9, ferro | metal
+MBAN_16016, material, Rocha > Argila
+MCPR_36861, material, Rocha > Argila
+MCHE_68097, materiais, Cerâmica | Pó de Ouro | Tinta
+MDIA_31107, material-tecnica-3, corte | fundição | metal | vidro
+MRCO_36005, material-9, base | metal > bronze | cristal | mármore | metal | vidro
+MCBC_11153, material, Madeira
+MDIA_32282, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MINC_37554, material, Madeira | Ouro | Tintas
+MCHE_70133, materiais, Cobre | Cristal Bacará
+MCHA_20582, materiais_tecnicas-2, Porcelana
+MCHA_28040, materiais_tecnicas-2, Vidro
+MCHE_43287, materiais, Prata
+MCHE_45097, materiais, Cobre | Cristal Bacará
+MINC_165823, material, Madeira | Tintas
+MCHE_51420, materiais, Cerâmica | Pó de Ouro
+MCHE_49695, materiais, Prata
+MCHE_58364, materiais, Prata
+MINC_174820, material, Ferro | Madeira
+MCHE_64319, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MCHE_65537, materiais, Cerâmica | Pó de Ouro
+MINC_43059, material, Folha-de-flandres | Madeira | Tintas
+MCBC_9474, material, Couro | Madeira | Metal | Palhinha
+MINC_9935, material, Madeira > Cedro
+MHNA_167806, material, aço inoxidável
+MCBC_11708, material, Madeira > Ébano | Metal
+MHNA_167905, material, aço inoxidável
+MINC_172568, material, Madeira
+MCHA_26817, materiais_tecnicas-2, Vidro
+MHNA_163982, material, prata 90
+MINC_188268, material, Madeira
+MCHE_59053, materiais, Prata
+MCHE_51518, materiais, Madeira | Palhinha
+MCHA_14720, materiais_tecnicas-2, Espelho | Madeira | Metal
+MCHE_63310, materiais, Cerâmica | Pó de Ouro
+MCHE_57577, materiais, Madeira | Palhinha
+MRCO_36468, material-9, folha de ouro | madeira | tinta
+MOUR_5442, material-tecnica-3, entalhe | madeira | metal | recorte
+MCHE_49201, materiais, Cristal | Metal
+MINC_123915, material, Folha-de-flandres
+MCHA_21874, materiais_tecnicas-2, Porcelana
+MRSJ_27678, material-3, Folha de Ouro | Tinta | Vidro
+MCHE_71794, materiais, Cristal | Ferro | Opalina | Tinta com Pó de Ouro
+MCHA_23167, materiais_tecnicas-2, Porcelana
+MINC_5528, material, Folha-de-flandres | Madeira | Tintas
+MCBC_11684, material, Madeira > Ébano | Metal
+MCHE_53173, materiais, Cerâmica | Pó de Ouro
+MINC_174556, material, Ferro | Madeira
+MCHE_62728, materiais, Cristal
+MINC_36454, material, Ferro | Latão | Madeira
+MCHA_22813, materiais_tecnicas-2, Porcelana
+MCHE_44858, materiais, Cobre | Cristal Bacará
+MCBC_10723, material, Madeira | Metal | Vidro
+MCPR_32541, material, Tecido > Corino | Metal > Ferro
+MINC_186319, material, Madeira > Jacarandá | Palha > Junco
+MCHA_37537, materiais_tecnicas-2, Metal
+MCHE_55523, materiais, Cerâmica
+MINC_42812, material, Ferro | Madeira | Tintas
+MCHA_15759, materiais_tecnicas-2, Madeira | Palhinha
+MCHE_73183, materiais, Cerâmica | Pó de Ouro
+MCHA_14815, materiais_tecnicas-2, Madeira
+MCHE_53263, materiais, Cerâmica | Pó de Ouro
+MRCO_36003, material-9, base | metal > bronze | cristal | mármore | metal | vidro
+MCBC_9208, material, Madeira > Jacarandá | Palhinha
+MINC_172726, material, Madeira | Ouro | Tintas
+MCHE_75697, materiais, Madeira | Pó de Ouro
+MCHE_73271, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_128210, material, Madeira > Jacarandá | Palha > Junco
+MDIA_31646, material-tecnica-3, douramento | entalhe | folha de ouro | fundição | madeira | metal | policromia | tinta
+MCHE_73782, materiais, Gesso | Madeira | Pó de Ouro
+MCBC_10847, material, Vidro
+MCHE_55458, materiais, Cerâmica | Pó de Ouro
+MRSJ_21601, material-3, Madeira
+MINC_234079, material, 
+MCHA_20908, materiais_tecnicas-2, Porcelana
+MCHE_74854, materiais, Madeira | Palhinha
+MCBC_10550, material, Argila | Vidro > Cristal | Madeira | Metal
+MBAN_12680, material, Metal > Ferro | Vidro
+MINC_229325, material, 
+MCHE_53884, materiais, Cerâmica | Pó de Ouro
+MCHE_50371, materiais, Madeira | Palhinha
+MRSJ_22791, material-3, Madeira | Palhinha
+MCHA_21467, materiais_tecnicas-2, Porcelana
+MCHE_62189, materiais, Cerâmica
+MCHA_26872, materiais_tecnicas-2, Vidro
+MRCO_36439, material-9, madeira | prateada | tinta
+MINC_162523, material, Latão
+MCHE_53323, materiais, Cerâmica | Pó de Ouro
+MCHE_70458, materiais, Madeira Jacarandá
+MBAN_4844, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MBAN_16167, material, Rocha > Argila
+MCHE_68796, materiais, Cerâmica | Pó de Ouro
+MCHE_45986, materiais, Casca de Ovo | Madeira | Marfim | Papel
+MINC_208088, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_72008, materiais, Cobre | Cristal Bacará
+MINC_140902, material, Folha-de-flandres | Tintas
+MRSJ_28157, material-3, 
+MDIA_30959, material-tecnica-3, fundição | metal
+MCPR_38040, material, Metal
+MINC_223035, material, Madeira | Prata | Tintas
+MINC_201886, material, Madeira > Cedro | Tintas
+MCHE_44416, materiais, Cobre | Cristal Bacará
+MHNA_163083, material, prata
+MCHE_75190, materiais, Madeira | Palhinha
+MCHE_53475, materiais, Cerâmica | Pó de Ouro
+MCHE_61426, materiais, Prata
+MINC_35935, material, Madeira | Pedra > Talcita | Tintas
+MCBC_9488, material, Madeira > Jacarandá | Palhinha
+MCHE_57012, materiais, Prata
+MCHA_37567, materiais_tecnicas-2, Metal
+MCBC_10839, material, Vidro > Cristal
+MCHE_56452, materiais, Cerâmica | Pó de Ouro
+MCHE_42725, materiais, Prata
+MCHE_61337, materiais, Prata
+MDIA_33780, material-tecnica-3, decalcomania | porcelana | queima | tinta
+MCHE_64945, materiais, Cobre | Cristal Bacará
+MCHE_44620, materiais, Cobre | Cristal Bacará
+MCHE_54833, materiais, Madeira | Palhinha
+MCHE_44450, materiais, Cobre | Cristal Bacará
+MCHE_75997, materiais, Madeira | Pó de Ouro
+MBAN_5636, material, Rocha > Argila
+MINC_33969, material, Madeira | Tintas
+MCHE_74565, materiais, Gesso | Madeira | Pó de Ouro
+MDIA_31557, material-tecnica-3, madeira | marcenaria
+MINC_208693, material, Ferro | Madeira > Jacarandá
+MCHE_58544, materiais, Prata
+MCPR_44961, material, Metal > Metal Esmaltado
+MINC_41133, material, Madeira > Cedro | Ferro
+MCHA_19183, materiais_tecnicas-2, Porcelana
+MCHA_19462, materiais_tecnicas-2, Porcelana
+MINC_224697, material, 
+MCHA_22945, materiais_tecnicas-2, Porcelana
+MINC_75684, material, Pedra-sabão
+MINC_10800, material, Folha-de-flandres | Tintas | Vidro
+MINC_231046, material, 
+MCBC_10833, material, Vidro > Cristal
+MCHE_44824, materiais, Cobre | Cristal Bacará
+MDIA_31293, material-tecnica-3, jacarandá | madeira | marcenaria | marchetaria | pau-marfim
+MINC_170870, material, Madeira
+MCHE_52207, materiais, Cristal
+MCHE_58484, materiais, Prata
+MCHE_63545, materiais, Cerâmica | Pó de Ouro
+MCHE_68856, materiais, Cerâmica | Pó de Ouro
+MCHE_56245, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_210245, material, Ferro
+MCBC_11648, material, Madeira > Ébano | Metal
+MINC_174349, material, Madeira
+MCHE_58274, materiais, Prata
+MINC_142354, material, Folha-de-flandres | Tintas
+MCHE_40648, materiais, Cerâmica | Pó de Ouro | Tinta
+MBAN_5939, material, Rocha > Argila
+MCHE_58008, materiais, Prata
+MCHE_49632, materiais, Prata
+MCHE_61397, materiais, Prata
+MCHE_55754, materiais, Cerâmica | Pó de Ouro
+MHNA_163403, material, aço | prata
+MHNA_168030, material, cristal
+MINC_231860, material, 
+MCHE_47226, materiais, Madeira | Palhinha
+MCHE_64191, materiais, Cerâmica | Pó de Ouro
+MDIA_31948, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCPR_37947, material, Metal
+MRCO_36854, material-9, ferro | metal
+MCHA_21137, materiais_tecnicas-2, Porcelana
+MCHE_40812, materiais, Madeira | Palhinha
+MCPR_33678, material, Metal
+MRSJ_28289, material-3, Folha de Ouro | Porcelana | Tinta
+MCHE_74430, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_67554, materiais, Cerâmica | Pó de Ouro
+MINC_205614, material, Ferro | Madeira
+MCHE_57829, materiais, Metal | Prata
+MRCO_35826, material-9, folha de ouro | madeira | tinta
+MDIA_33727, material-tecnica-3, corte | fundição | metal | monocromia | tinta | vidro
+MCHE_48807, materiais, Vidro
+MCBC_10891, material, Madeira | Palhinha
+MINC_172859, material, Madeira | Ouro | Tintas
+MCHE_74752, materiais, Madeira | Palhinha
+MINC_192184, material, Madeira
+MDIA_31617, material-tecnica-3, douramento | entalhe | folha de ouro | fundição | madeira | metal | policromia | tinta
+MRCO_36107, material-9, ferro | metal
+MCHE_73593, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_43756, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_10655, material, Cobre | Vidro
+MCHE_50435, materiais, Madeira | Palhinha
+MCPR_37823, material, Metal
+MDIA_33787, material-tecnica-3, decalcomania | porcelana | queima | tinta
+MCBC_10849, material, Vidro
+MCHE_56335, materiais, Linha de Algodão
+MCBC_9204, material, Madeira > Jacarandá | Mármore
+MRCO_35961, material-9, madeira | palinha
+MCHE_75747, materiais, Madeira | Pó de Ouro
+MRCO_36159, material-9, porcelana | tinta
+MINC_43103, material, Ferro | Madeira | Vidro
+MCHE_67906, materiais, Madeira | Palhinha
+MCHE_54197, materiais, Prata
+MINC_140770, material, Folha-de-flandres | Tintas
+MCHE_64716, materiais, Cerâmica | Pó de Ouro
+MCHE_75157, materiais, Ferro | Madeira | Palhinha
+MINC_184907, material, Folha-de-flandres | Madeira | Ouro
+MCHE_46125, materiais, Linha de Algodão | Linho
+MCHE_62346, materiais, Cristal
+MINC_226590, material, 
+MCHE_67359, materiais, Madeira | Palhinha
+MCHA_47091, materiais_tecnicas-2, Vidro
+MINC_174102, material, Madeira > Jacarandá
+MRCO_36125, material-9, esmalte | porcelana | tinta
+MINC_83862, material, Prata
+MHNA_168129, material, cristal
+MCHE_73674, materiais, Gesso | Madeira | Pó de Ouro
+MINC_231911, material, 
+MCHA_23334, materiais_tecnicas-2, Porcelana
+MRSJ_24250, material-3, Folha de Ouro | Madeira | Tinta
+MCHE_66275, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_140196, material, Folha-de-flandres | Tintas
+MINC_124582, material, Folha-de-flandres | Tintas
+MHNA_166899, material, porcelana
+MCHA_22239, materiais_tecnicas-2, Porcelana
+MCHA_26764, materiais_tecnicas-2, Vidro
+MBAN_2219, material, Pedra > Pedra sabão
+MCHA_20318, materiais_tecnicas-2, Porcelana
+MCHE_59739, materiais, Prata
+MINC_209235, material, Madeira
+MINC_141078, material, Folha-de-flandres | Tintas
+MCHA_27888, materiais_tecnicas-2, Vidro
+MCHE_59797, materiais, Prata
+MOUR_5247, material-tecnica-3, ferro fundido | madeira | marcenaria
+MDIA_34148, material-tecnica-3, entalhe | madeira | marcenaria
+MCHE_49034, materiais, Cristal | Metal
+MINC_162483, material, Latão
+MCHE_56275, materiais, Prata
+MCBC_11512, material, Madeira | Metal | Tinta
+MRSJ_24117, material-3, Folha de Ouro | Madeira
+MHNA_159708, material, cristal
+MCHE_43350, materiais, Prata
+MINC_116817, material, Ferro | Latão
+MCHE_45920, materiais, Ferro
+MCBC_11650, material, Madeira > Ébano | Metal
+MINC_89210, material, Ferro | Fibra Têxtil | Folha-de-flandres
+MCHE_66093, materiais, Cerâmica | Pó de Ouro
+MCHE_44654, materiais, Cobre | Cristal Bacará
+MCHE_65418, materiais, Cerâmica | Pó de Ouro
+MINC_123956, material, Folha-de-flandres
+MDIA_32302, material-tecnica-3, corte | fundição | madeira | marcenaria | mármore | metal | pedra
+MDIA_32118, material-tecnica-3, entrançado | madeira | marcenaria | palhinha
+MDIA_31686, material-tecnica-3, douramento | entalhe | folha de ouro | madeira | policromia | tinta
+MCHE_40199, materiais, Cerâmica
+MRSJ_23201, material-3, Madeira | Palhinha
+MCBC_9206, material, Madeira > Jacarandá | Palhinha
+MINC_223501, material, 
+MINC_162315, material, Latão
+MINC_205668, material, Madeira
+MCBC_10277, material, Madeira | Palhinha
+MINC_140990, material, Folha-de-flandres | Tintas
+MCHE_61152, materiais, Prata
+MINC_47424, material, Argila > Caolim | Esmalte
+MINC_112359, material, Bronze
+MCHE_50730, materiais, Cerâmica
+MINC_233115, material, Alabastro | Conchas | Madeira
+MCHE_49539, materiais, Ferro
+MCHE_54773, materiais, Cerâmica | Pó de Ouro
+MBAN_7583, material, Madeira > Jacarandá | Metal | Madeira > Peroba branca
+MCPR_45043, material, Metal > Metal Esmaltado
+MHNA_160087, material, melamina
+MCHE_75647, materiais, Madeira | Pó de Ouro
+MINC_30753, material, Madeira | Ouro | Tintas
+MRCO_36023, material-9, madeira | palinha
+MCBC_9476, material, Couro | Madeira | Metal | Palhinha
+MCHA_18625, materiais_tecnicas-2, Porcelana
+MCBC_11419, material, Argila | Vidro > Cristal | Madeira | Metal
+MCHE_71120, materiais, Madeira | Mármore
+MINC_185542, material, Ferro | Madeira
+MINC_84232, material, Madeira > Cedro | Ferro | Tintas
+MINC_228699, material, 
+MCHE_64616, materiais, Cerâmica | Pó de Ouro
+MCHE_72628, materiais, Cristal
+MCHE_44213, materiais, Cobre | Cristal Bacará
+MCHE_55274, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_99905, material, Madeira > Jacarandá
+MCHE_71470, materiais, Cobre | Cristal Bacará
+MCHE_76147, materiais, Madeira | Pó de Ouro
+MASB_47566, material, Metal > Latão
+MINC_47053, material, Argila > Caolim | Esmalte | Ouro
+MRCO_36133, material-9, esmalte | porcelana | tinta
+MCHE_75797, materiais, Madeira | Pó de Ouro
+MINC_47332, material, Argila > Caolim | Esmalte
+MCBC_11678, material, Madeira > Ébano | Metal
+MRCO_35836, material-9, madeira
+MCHE_45331, materiais, Vidro
+MINC_185013, material, Couro | Madeira > Jacarandá | Latão
+MCHE_60127, materiais, Prata
+MINC_127934, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_41693, materiais, Madeira | Metal | Palhinha
+MINC_231779, material, 
+MCHE_73998, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_51270, materiais, Cerâmica | Pó de Ouro
+MCHE_66606, materiais, Cerâmica | Pó de Ouro
+MCBC_10439, material, Madeira | Metal | Papelão | Tinta | Vidro
+MCHE_51300, materiais, Cerâmica | Pó de Ouro
+MINC_10609, material, Cobre | Vidro
+MCHE_73971, materiais, Gesso | Madeira | Pó de Ouro
+MRCO_36852, material-9, ferro | metal
+MCBC_10765, material, Vidro > Cristal
+MCBC_11506, material, Argila | Vidro > Cristal | Metal
+MRSJ_21030, material-3, Madeira | Metal
+MCHE_65477, materiais, Cerâmica | Pó de Ouro
+MCHE_42878, materiais, Prata
+MCHE_54961, materiais, Cerâmica | Pó de Ouro
+MHNA_162758, material, aço | prata
+MCHE_49754, materiais, Prata
+MINC_228585, material, 
+MASB_52044, material, Metal > Latão | Plástico
+MRCO_36099, material-9, ferro | metal
+MBAN_14228, material, Madeira
+MINC_80099, material, Ferro | Madeira | Tintas
+MINC_163456, material, Latão
+MINC_43322, material, Madeira > Canela-parda | Ouro | Tintas
+MDIA_32277, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MDIA_31315, material-tecnica-3, escultura | madeira | marcenaria | marchetaria | marfim
+MINC_225565, material, 
+MCHE_53383, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_186884, material, Madeira > Jacarandá
+MRCO_35975, material-9, madeira | palinha
+MCHE_63605, materiais, Cerâmica | Pó de Ouro
+MCHA_27838, materiais_tecnicas-2, Vidro
+MCBC_10647, material, Metal > Prata
+MINC_175676, material, Madeira
+MCHE_51090, materiais, Cerâmica | Pó de Ouro
+MCBC_10641, material, Metal > Prata
+MHNA_162889, material, aço | prata
+MINC_39434, material, Ferro | Madeira > Vinhático
+MINC_188855, material, Madeira > Jacarandá | Palha > Junco
+MCHA_20940, materiais_tecnicas-2, Porcelana
+MHNA_163786, material, prata 90
+MCHE_50897, materiais, Cerâmica | Pó de Ouro
+MCHE_54563, materiais, Cerâmica | Pó de Ouro
+MINC_233801, material, 
+MCBC_9478, material, Couro | Madeira | Metal | Palhinha
+MCHE_73890, materiais, Gesso | Madeira | Pó de Ouro
+MINC_36355, material, Ferro | Madeira > Jacarandá
+MHNA_166257, material, porcelana
+MINC_47378, material, Argila > Caolim | Esmalte
+MCHE_58038, materiais, Prata
+MHNA_163647, material, prata
+MCHE_44010, materiais, Madeira
+MINC_111536, material, Latão
+MINC_203625, material, Ferro | Madeira > Jacarandá
+MCHE_66366, materiais, Cerâmica | Pó de Ouro
+MCHE_55149, materiais, Prata
+MINC_140416, material, Folha-de-flandres | Tintas
+MRSJ_21560, material-3, Madeira | Metal
+MDIA_31496, material-tecnica-3, cinzelagem | fundição | metal
+MCHE_51330, materiais, Cerâmica | Pó de Ouro
+MINC_73140, material, Madeira > Canela-parda | Ferro | Tintas
+MINC_228821, material, 
+MCBC_10287, material, Argila | Vidro > Cristal | Metal
+MCBC_10450, material, Metal
+MINC_141958, material, Folha-de-flandres | Tintas
+MINC_42057, material, Couro | Madeira > Jacarandá
+MDIA_31953, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_189317, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHA_25205, materiais_tecnicas-2, Porcelana
+MCHE_57279, materiais, Vidro
+MCHE_42320, materiais, Cristal
+MCHE_62948, materiais, Cerâmica | Pó de Ouro
+MCHA_20972, materiais_tecnicas-2, Porcelana
+MCHE_59083, materiais, Prata
+MCHE_70493, materiais, Madeira | Metal | Palhinha
+MINC_70992, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_54653, materiais, Cerâmica | Pó de Ouro
+MCHA_15585, materiais_tecnicas-2, Madeira | Palhinha
+MRSJ_24337, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MINC_5480, material, Ferro | Madeira > Jacarandá | Madeira > Sucupira
+MCHA_19276, materiais_tecnicas-2, Porcelana
+MINC_35354, material, Madeira | Pedra > Talcita | Tintas
+MINC_111618, material, Latão
+MCHE_61680, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_71291, materiais, Cetim | Linha de Algodão
+MRCO_35921, material-9, madeira | metal | tinta
+MCHA_21236, materiais_tecnicas-2, Porcelana
+MCHE_40456, materiais, Madeira | Palhinha
+MINC_208589, material, Madeira
+MCBC_10769, material, Argila | Tinta
+MINC_224237, material, 
+MDIA_33825, material-tecnica-3, douramento | folha de ouro | pintura | porcelana | queima | tinta
+MCHA_18501, materiais_tecnicas-2, Porcelana
+MCHE_66516, materiais, Cerâmica | Pó de Ouro
+MINC_182759, material, Madeira | Ouro | Tintas
+MCHE_73329, materiais, Prata
+MINC_124769, material, Folha-de-flandres
+MCHA_19803, materiais_tecnicas-2, Porcelana
+MCHE_46152, materiais, Linha de Algodão | Linho
+MCHE_66486, materiais, Cerâmica | Pó de Ouro
+MINC_207368, material, Madeira > Imbuia | Madeira > Jacarandá
+MRCO_36509, material-9, madeira | palinha
+MCHE_50063, materiais, Metal | Prata
+MINC_166185, material, Madeira
+MINC_87879, material, Prata
+MINC_141122, material, Folha-de-flandres | Tintas
+MCHE_43787, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_85265, material, Madeira | Tintas
+MINC_155886, material, Ferro
+MINC_34060, material, Estanho | Tintas
+MINC_180472, material, Ferro
+MCHE_44348, materiais, Cobre | Cristal Bacará
+MABO_496, material, prata
+MBAN_12486, material, Madeira
+MCBC_10075, material, Argila
+MCHE_63727, materiais, Cerâmica | Pó de Ouro
+MINC_142090, material, Folha-de-flandres | Tintas
+MCHA_21203, materiais_tecnicas-2, Porcelana
+MDIA_31977, material-tecnica-3, cerâmica | esmalte | porcelana | queima | tinta
+MBAN_1713, material, Madeira
+MINC_230750, material, 
+MINC_223692, material, 
+MCHA_18811, materiais_tecnicas-2, Porcelana
+MCHE_72367, materiais, Cristal
+MINC_116531, material, Ferro | Madeira > Jacarandá | Madeira
+MRCO_36456, material-9, madeira | tinta
+MCHE_56740, materiais, Madeira | Palhinha
+MRCO_36151, material-9, esmalte | porcelana | tinta
+MINC_172102, material, Madeira > Jacarandá | Madeira
+MINC_228427, material, 
+MCBC_11438, material, Argila | Verniz
+MASB_61738, material, Madeira > Cedro
+MINC_41088, material, Opalina
+MINC_188699, material, Ferro | Madeira
+MINC_208193, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MRSJ_21805, material-3, Madeira
+MINC_206146, material, Ferro | Madeira
+MINC_41847, material, Ferro | Madeira | Tintas
+MCHE_73007, materiais, Cerâmica | Pó de Ouro
+MASB_63559, material, Metal > Prata
+MINC_208035, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_62600, materiais, Cerâmica | Tinta
+MCBC_9454, material, Vidro
+MINC_175773, material, Madeira > Jacarandá | Palha > Junco
+MINC_174972, material, Madeira | Metal | Tintas
+MCHE_74106, materiais, Gesso | Madeira | Pó de Ouro
+MBAN_7074, material, Rocha > Argila
+MRCO_36458, material-9, madeira | tinta
+MCHE_66576, materiais, Cerâmica | Pó de Ouro
+MCHA_19152, materiais_tecnicas-2, Porcelana
+MINC_184648, material, Madeira > Jacarandá | Palha > Junco
+MCHE_65567, materiais, Cerâmica | Pó de Ouro
+MCHE_74511, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_51649, materiais, Cristal
+MCHE_60690, materiais, Madeira | Palhinha
+MCHE_40230, materiais, Cerâmica
+MINC_10906, material, Folha-de-flandres | Vidro
+MCHE_55488, materiais, Madeira | Palhinha
+MCHE_47857, materiais, Madeira Jacarandá
+MCHE_45514, materiais, Vidro
+MCPR_36048, material, Metal > Ferro | Madeira | Pigmento
+MINC_230509, material, 
+MDIA_31863, material-tecnica-3, fundição | madeira | marcenaria | marchetaria | metal | pintura | tinta
+MINC_156653, material, Ferro | Madeira | Tintas
+MINC_142310, material, Folha-de-flandres | Tintas
+MCHE_65357, materiais, Cerâmica | Pó de Ouro
+MINC_232414, material, 
+MDIA_31299, material-tecnica-3, madeira | marcenaria | marchetaria | recorte | vidro
+MINC_5633, material, Madeira > Jacarandá | Madeira
+MCBC_9316, material, Madeira > Jacarandá | Mármore
+MINC_161820, material, Madeira > Jacarandá
+MCHA_21961, materiais_tecnicas-2, Porcelana
+MRSJ_21520, material-3, Madeira | Metal
+MINC_46457, material, Prata
+MCPR_44717, material, Rocha > Argila | Vidro
+MCHE_73485, materiais, Gesso | Madeira | Pó de Ouro
+MCHA_31572, materiais_tecnicas-2, Terracota
+MCHE_71662, materiais, Madeira | Palhinha
+MCHE_61486, materiais, Madeira | Mármore
+MINC_111991, material, Bronze
+MCHA_15407, materiais_tecnicas-2, Madeira
+MRSJ_15658, material-3, Folha de Ouro | Porcelana | Tinta
+MINC_124678, material, Folha-de-flandres | Tintas
+MCBC_10093, material, Argila | Vidro > Cristal | Madeira | Metal
+MINC_11901, material, Ferro
+MHNA_163682, material, prata
+MINC_201191, material, Madeira
+MINC_184306, material, Ferro | Madeira > Jacarandá | Madeira
+MINC_186159, material, Madeira
+MCBC_11670, material, Madeira > Ébano | Metal
+MINC_139408, material, Ferro | Madeira > Jacarandá
+MCHA_21104, materiais_tecnicas-2, Porcelana
+MRSJ_22054, material-3, Madeira
+MCHE_66245, materiais, Cerâmica | Pó de Ouro
+MCHE_60626, materiais, Prata
+MCHA_26737, materiais_tecnicas-2, Vidro
+MINC_228858, material, 
+MRCO_36013, material-9, madeira | palinha
+MRCO_36513, material-9, madeira | palinha
+MCHE_59412, materiais, Prata
+MCHA_23059, materiais_tecnicas-2, Porcelana
+MRSJ_20382, material-3, Madeira
+MCBC_10482, material, Madeira | Mármore
+MCHA_35299, materiais_tecnicas-2, Fios de linha
+MINC_86948, material, Latão
+MINC_207487, material, Madeira > Jacarandá | Palha > Junco
+MINC_205770, material, Ferro | Madeira
+MINC_34461, material, Madeira > Cedro | Ferro | Tintas
+MCHE_46179, materiais, Linha de Algodão | Linho
+MCBC_10873, material, Metal | Madeira > Peroba | Verniz
+MBAN_1752, material, Madeira
+MINC_12046, material, Ferro | Latão
+MINC_206093, material, Madeira > Cedro | Ferro
+MDIA_31283, material-tecnica-3, entrançado | madeira | marcenaria | palhinha
+MINC_73318, material, Ferro | Madeira
+MINC_224890, material, 
+MINC_186769, material, Madeira > Jacarandá | Palha > Junco
+MINC_233373, material, 
+MINC_147966, material, Ferro | Folha-de-flandres
+MHNA_160476, material, porcelana
+MCHE_55618, materiais, Cerâmica | Pó de Ouro
+MINC_110376, material, Prata
+MCHE_44145, materiais, Cobre | Cristal Bacará
+MINC_30625, material, Madeira
+MHNA_166793, material, porcelana
+MINC_175519, material, Madeira
+MCHE_51957, materiais, Madeira | Palhinha
+MINC_165781, material, Madeira | Tintas
+MINC_223179, material, 
+MINC_185977, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_50695, materiais, Madeira | Palhinha
+MCHE_57767, materiais, Prata
+MRSJ_16349, material-3, Madeira
+MCHA_19741, materiais_tecnicas-2, Porcelana
+MCHA_14586, materiais_tecnicas-2, Madeira de cedro
+MINC_72826, material, Madeira > Jacarandá | Palha > Junco
+MCHA_23248, materiais_tecnicas-2, Porcelana
+MCHE_72339, materiais, Cristal
+MINC_162727, material, Latão
+MCHE_71538, materiais, Cobre | Cristal Bacará
+MINC_225798, material, 
+MINC_101145, material, Latão
+MCHE_73065, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_55304, materiais, Madeira | Metal | Palhinha
+MCHA_21903, materiais_tecnicas-2, Porcelana
+MHNA_159737, material, cristal
+MINC_175574, material, Madeira | Tintas
+MINC_41523, material, Ferro | Madeira
+MCHE_75023, materiais, Madeira | Palhinha
+MINC_36266, material, Madeira > Jacarandá
+MINC_183208, material, Madeira | Purpurina | Tintas
+MHNA_163435, material, aço | prata
+MCBC_11632, material, Madeira | Metal | Tecido | Vidro
+MCBC_10751, material, Vidro > Cristal
+MINC_140946, material, Folha-de-flandres | Tintas
+MCHE_65217, materiais, Cobre | Cristal Bacará
+MCHE_63883, materiais, Cristal | Metal
+MINC_23969, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MINC_113029, material, Couro | Latão | Madeira
+MINC_232252, material, 
+MINC_174001, material, Madeira
+MCHE_47093, materiais, Prata
+MBAN_4963, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MCHE_54623, materiais, Cerâmica | Pó de Ouro
+MCHA_20417, materiais_tecnicas-2, Porcelana
+MCHA_22213, materiais_tecnicas-2, Porcelana
+MINC_206195, material, Ferro | Madeira
+MINC_201781, material, Aluminato de Prata | Madeira > Cedro
+MINC_165948, material, Madeira
+MASB_48935, material, Metal > Estanho
+MCHA_19214, materiais_tecnicas-2, Porcelana
+MCHE_51180, materiais, Cerâmica | Pó de Ouro
+MINC_96432, material, Folha-de-flandres | Tintas | Vidro
+MINC_174398, material, Ferro | Madeira
+MCHA_27478, materiais_tecnicas-2, Vidro
+MCHE_74268, materiais, Gesso | Madeira | Pó de Ouro
+MINC_102237, material, Ferro
+MCHE_54803, materiais, Cerâmica | Pó de Ouro
+MHNA_166162, material, porcelana
+MCHE_73647, materiais, Gesso | Madeira | Pó de Ouro
+MHNA_166450, material, porcelana
+MCBC_10907, material, Madeira | Palhinha
+MRSJ_27718, material-3, Folha de Ouro | Tinta | Vidro
+MINC_174147, material, Madeira > Cedro | Madeira
+MCHE_58843, materiais, Prata
+MCHE_54105, materiais, Cerâmica | Pó de Ouro | Tinta
+MRCO_36476, material-9, madeira | tinta
+MBAN_13840, material, Metal > Estanho
+MCBC_11508, material, Madeira | Metal | Tinta
+MINC_155837, material, Ferro
+MINC_230621, material, 
+MHNA_168261, material, cristal
+MCHE_54473, materiais, Cerâmica | Pó de Ouro
+MINC_128166, material, Madeira > Jacarandá | Palha > Junco
+MHNA_163051, material, prata
+MCHE_64911, materiais, Cobre | Cristal Bacará
+MCHE_40937, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_111949, material, Bronze
+MDIA_31568, material-tecnica-3, entalhe | fundição | madeira | marcenaria | metal
+MCBC_9218, material, Madeira > Jacarandá | Palhinha
+MINC_41277, material, Madeira > Jacarandá | Latão
+MCHA_25050, materiais_tecnicas-2, Porcelana
+MINC_201722, material, Madeira > Cedro | Ouro | Tintas
+MBAN_3401, material, Madeira
+MINC_111297, material, Prata
+MHNA_163575, material, prata
+MBAN_5864, material, Rocha > Argila
+MINC_127832, material, Madeira > Jacarandá | Palha > Junco
+MCBC_11636, material, Madeira > Ébano | Metal
+MINC_201088, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MINC_73654, material, Madeira > Jacarandá | Palha > Junco
+MINC_34640, material, Madeira | Pedra > Talcita | Tintas
+MRSJ_17353, material-3, Folha de Ouro | Tinta
+MCHA_37481, materiais_tecnicas-2, Metal
+MCHE_40262, materiais, Madeira | Mármore | Metal
+MINC_99487, material, Madeira > Jacarandá
+MDIA_30943, material-tecnica-3, fundição | metal
+MCBC_11482, material, Metal | Tinta
+MINC_111899, material, Bronze
+MINC_162161, material, Latão
+MRSJ_20826, material-3, Madeira
+MINC_196716, material, Fibra Têxtil > Algodão | Fio Metálico | Fibra Têxtil > Seda
+MCHE_41865, materiais, Ferro
+MCPR_36018, material, Metal > Ferro | Madeira | Pigmento
+MCPR_45016, material, Metal > Metal Esmaltado
+MRCO_36043, material-9, esmalte | metal | vidro
+MINC_173507, material, Madeira | Tintas
+MINC_186556, material, Madeira
+MCHE_76253, materiais, Argila | Caulim
+MCHE_54593, materiais, Cerâmica | Pó de Ouro
+MCHE_47691, materiais, Madeira | Palhinha
+MDIA_31393, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | marchetaria | palhinha | pau-marfim
+MRCO_36199, material-9, madeira
+MINC_193160, material, Folha-de-flandres
+MRSJ_23975, material-3, Folha de Ouro | Madeira | Metal | Tinta
+MINC_161644, material, Madeira | Tintas
+MDIA_31883, material-tecnica-3, cerâmica | esmalte | porcelana | queima | tinta
+MOUR_5446, material-tecnica-3, ferro fundido | madeira recortada
+MCHA_19834, materiais_tecnicas-2, Porcelana
+MINC_163375, material, Latão
+MHNA_166730, material, porcelana
+MCHE_59023, materiais, Prata
+MRSJ_23758, material-3, Madeira | Tinta
+MCHE_69344, materiais, Cerâmica | Pó de Ouro
+MCHE_58963, materiais, Prata
+MRCO_35999, material-9, jacarandá | madeira
+MRSJ_27937, material-3, Folha de Ouro | Porcelana | Tinta
+MCBC_9538, material, Couro | Madeira | Palhinha
+MBAN_16055, material, Rocha > Argila
+MCHE_47440, materiais, Prata
+MINC_226550, material, 
+MINC_31693, material, Madeira
+MCHA_19617, materiais_tecnicas-2, Porcelana
+MCHE_45726, materiais, Cerâmica | Pó de Ouro | Tinta
+MHNA_163147, material, prata
+MCHE_72074, materiais, Cobre | Cristal Bacará
+MRSJ_21232, material-3, Madeira
+MINC_124810, material, Folha-de-flandres
+MINC_111391, material, Prata
+MBAN_16130, material, Rocha > Argila
+MRCO_36454, material-9, madeira | tinta
+MHNA_159655, material, cristal
+MCHE_58813, materiais, Prata
+MBAN_7194, material, Madeira > Jacarandá
+MCHE_66546, materiais, Cerâmica | Pó de Ouro | Tinta
+MHNA_163716, material, prata 90
+MINC_183473, material, Aluminato de Prata | Madeira
+MRSJ_22422, material-3, Madeira | Palhinha
+MINC_10379, material, Ferro | Latão | Vidro
+MINC_73855, material, Madeira > Jacarandá | Palha > Junco
+MINC_37685, material, Madeira | Ouro | Tintas
+MCHE_76097, materiais, Madeira | Pó de Ouro
+MCHA_20219, materiais_tecnicas-2, Porcelana
+MINC_173845, material, Ferro | Madeira
+MINC_34821, material, Madeira | Pedra > Talcita | Tintas
+MASB_49027, material, Metal > Latão | Metal > Níquel
+MINC_193207, material, Folha-de-flandres
+MCHE_76022, materiais, Madeira | Pó de Ouro
+MINC_146956, material, Madeira
+MINC_12701, material, Ferro | Madeira > Vinhático
+MRCO_36103, material-9, ferro | metal | tinta
+MCBC_11105, material, Madeira | Palhinha
+MCBC_11706, material, Madeira > Ébano | Metal
+MINC_42588, material, Ferro | Madeira > Jacarandá | Metal
+MRSJ_23659, material-3, Madeira | Metal | Tinta
+MINC_29313, material, Madeira > Jacarandá | Palha > Junco
+MINC_225752, material, 
+MRSJ_15614, material-3, Folha de Ouro | Porcelana | Tinta
+MDIA_31552, material-tecnica-3, fundição | madeira | marcenaria | metal
+MHNA_166291, material, porcelana
+MINC_9887, material, Ferro | Madeira > Jacarandá | Madeira
+MCHA_58911, materiais_tecnicas-2, Metal (flandres)
+MCHE_76047, materiais, Madeira | Pó de Ouro
+MCHE_68159, materiais, Metal | Prata
+MINC_89025, material, Madeira > Canela-parda | Tintas
+MCHE_42256, materiais, Ferro | Madeira | Palhinha
+MCHE_50338, materiais, Madeira | Palhinha
+MCHE_72143, materiais, Cristal
+MHNA_167840, material, aço inoxidável
+MINC_230664, material, 
+MINC_81085, material, Madeira | Tintas
+MCHA_19028, materiais_tecnicas-2, Porcelana
+MCHE_47410, materiais, Prata
+MINC_25520, material, Ferro | Madeira > Jacarandá
+MCHE_74025, materiais, Gesso | Madeira | Pó de Ouro
+MINC_20423, material, Madeira > Jacarandá
+MINC_84187, material, Ferro | Madeira | Tintas
+MINC_162643, material, Latão
+MCHE_72455, materiais, Cristal
+MCBC_11658, material, Madeira > Ébano | Metal
+MINC_70697, material, Madeira > Jacarandá | Madeira
+MDIA_34432, material-tecnica-3, madeira | marcenaria | torneado
+MINC_35832, material, Madeira | Pedra > Talcita | Tintas
+MINC_79591, material, Madeira | Tintas
+MDIA_31575, material-tecnica-3, fundição | madeira | marcenaria | marchetaria | metal
+MCHA_22912, materiais_tecnicas-2, Porcelana
+MINC_176310, material, Madeira > Cedro | Ferro | Tintas
+MINC_204454, material, Madeira
+MINC_208446, material, Madeira > Jacarandá | Palha > Junco
+MDIA_34314, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MCHA_22135, materiais_tecnicas-2, Porcelana
+MCHE_43663, materiais, Cerâmica | Pó de Ouro | Tinta
+MCBC_9554, material, Argila | Vidro > Cristal | Metal
+MINC_124301, material, Folha-de-flandres | Madeira
+MINC_232675, material, Metal
+MCHA_20549, materiais_tecnicas-2, Porcelana
+MCHE_49902, materiais, Prata
+MDIA_31240, material-tecnica-3, entalhe | madeira | marcenaria
+MCHE_73863, materiais, Gesso | Madeira | Pó de Ouro
+MRSJ_23078, material-3, Madeira | Palhinha
+MCHE_46746, materiais, Prata
+MCHE_48964, materiais, Madeira
+MCHE_70232, materiais, Madeira
+MCHE_55875, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_49387, materiais, Prata
+MCHE_72484, materiais, Cristal
+MINC_123548, material, Ferro | Folha-de-flandres
+MINC_186267, material, Madeira > Jacarandá | Palha > Junco
+MDIA_33273, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MCBC_11492, material, Madeira
+MHNA_159620, material, cristal
+MBAN_5309, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MCHE_40140, materiais, Cerâmica | Pó de Ouro
+MBAN_4761, material, Metal > Ferro
+MCBC_11500, material, Madeira | Mármore
+MCBC_9308, material, Madeira > Jacarandá | Tecido | Tinta | Vidro
+MCHE_58724, materiais, Prata
+MINC_201620, material, Madeira > Cedro | Ouro | Tintas
+MINC_110192, material, Prata
+MHNA_168194, material, cristal
+MCHE_52176, materiais, Cristal
+MBAN_16629, material, Madeira > Jacarandá
+MCBC_10711, material, Madeira | Mármore | Metal
+MBAN_1632, material, Madeira
+MCHE_55242, materiais, Cerâmica | Pó de Ouro
+MINC_35269, material, Madeira | Pedra > Talcita | Tintas
+MINC_112317, material, Bronze
+MINC_30883, material, Madeira | Ouro
+MCHE_57161, materiais, Prata
+MCHE_65936, materiais, Cerâmica | Pó de Ouro
+MINC_139918, material, Folha-de-flandres | Purpurina | Tintas
+MINC_183736, material, Ferro | Madeira
+MINC_162399, material, Latão
+MINC_88724, material, Madeira > Jacarandá
+MCHE_43004, materiais, Prata
+MINC_232714, material, Metal
+MINC_163215, material, Latão
+MRCO_36470, material-9, madeira | tinta
+MINC_139834, material, Folha-de-flandres | Purpurina | Tintas
+MINC_73506, material, Madeira > Jacarandá | Palha > Junco
+MCHA_19772, materiais_tecnicas-2, Porcelana
+MINC_23923, material, Ferro | Madeira > Jacarandá
+MRCO_36163, material-9, porcelana | tinta
+MINC_233334, material, 
+MINC_140592, material, Folha-de-flandres | Tintas
+MCHE_50403, materiais, Ferro
+MDIA_32287, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MRSJ_28201, material-3, 
+MBAN_4632, material, Madeira
+MCHE_75256, materiais, Madeira | Metal | Palhinha
+MBAN_5751, material, Rocha > Argila
+MCHE_48610, materiais, Madeira | Palhinha
+MCHE_41314, materiais, Madeira | Palhinha
+MCHE_52777, materiais, Cerâmica | Pó de Ouro
+MCHE_53233, materiais, Cerâmica | Pó de Ouro
+MCHE_72309, materiais, Cristal
+MINC_170827, material, Madeira | Ouro | Tintas
+MINC_72453, material, Ferro | Madeira | Tintas
+MDIA_31739, material-tecnica-3, cinzelagem | fundição | metal
+MCHA_47293, materiais_tecnicas-2, Vidro
+MDIA_31144, material-tecnica-3, entalhe | fundição | madeira | marcenaria | metal
+MCHE_60724, materiais, Madeira | Palhinha
+MOUR_5241, material-tecnica-3, couro lavrado | madeira | marcenaria | metal
+MINC_34013, material, Estanho | Tintas
+MCHE_75672, materiais, Madeira | Pó de Ouro
+MHNA_166638, material, porcelana
+MDIA_30951, material-tecnica-3, fundição | metal
+MCBC_10089, material, Linha | Renda | Tecido
+MINC_174505, material, Madeira > Jacarandá | Metal
+MCHE_63220, materiais, Cerâmica | Pó de Ouro
+MCHE_61092, materiais, Prata
+MCBC_11149, material, Argila | Vidro > Cristal | Madeira | Metal
+MINC_72988, material, Palha > Junco | Madeira
+MCHE_74922, materiais, Madeira | Palhinha
+MBAN_9869, material, Vidro
+MCHE_62978, materiais, Cerâmica | Pó de Ouro
+MINC_112657, material, Latão
+MCHE_44961, materiais, Cobre | Cristal Bacará
+MCHE_58933, materiais, Prata
+MCHA_19586, materiais_tecnicas-2, Porcelana
+MCHE_70032, materiais, Argila
+MCHE_74160, materiais, Gesso | Madeira | Pó de Ouro
+MINC_110837, material, Prata
+MINC_24015, material, Madeira > Jacarandá
+MINC_102104, material, Ferro
+MCHE_60758, materiais, Madeira | Palhinha
+MDIA_31168, material-tecnica-3, fundição | metal
+MINC_176215, material, Palha > Junco | Madeira | Metal
+MBAN_6580, material, Madeira
+MINC_172620, material, Madeira
+MCHE_66894, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_42157, materiais, Prata
+MINC_11855, material, Ferro
+MDIA_31154, material-tecnica-3, entalhe | fundição | madeira | marcenaria | metal
+MINC_42446, material, Madeira | Metal
+MCHE_47192, materiais, Madeira | Palhinha
+MBAN_5271, material, Madeira | Fibra > Fibra Vegetal > Palhinha
+MINC_140240, material, Folha-de-flandres | Tintas
+MRCO_36045, material-9, madeira | metal
+MINC_47512, material, Argila > Caolim | Esmalte
+MINC_105051, material, Madeira > Canela-parda | Ouro | Tintas
+MDIA_31908, material-tecnica-3, cerâmica | esmalte | porcelana | queima | tinta
+MRSJ_22586, material-3, Madeira | Palhinha
+MCHE_68373, materiais, Cerâmica | Pó de Ouro
+MCHE_57797, materiais, Metal | Prata
+MCHE_47291, materiais, Cristal
+MINC_186445, material, Ferro | Madeira
+MCHE_48136, materiais, Cobre
+MCHA_23140, materiais_tecnicas-2, Porcelana
+MCHE_53293, materiais, Cerâmica | Pó de Ouro
+MCHA_20285, materiais_tecnicas-2, Porcelana
+MCHA_26710, materiais_tecnicas-2, Vidro
+MINC_83042, material, Folha-de-flandres | Tintas | Vidro
+MINC_188434, material, Ferro | Madeira
+MINC_227515, material, 
+MBAN_16093, material, Rocha > Argila
+MCBC_9460, material, Madeira | Mármore | Metal Tinta | Vidro
+MCHE_69602, materiais, Vidro
+MCHE_54867, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_52903, materiais, Cerâmica | Pó de Ouro
+MCHE_56604, materiais, Madeira | Palhinha
+MINC_184417, material, Prata
+MCHE_48341, materiais, Cristal
+MCHE_53113, materiais, Cerâmica | Pó de Ouro
+MINC_42725, material, Madeira | Tintas
+MCHE_47122, materiais, Madeira | Palhinha
+MBAN_7034, material, Rocha > Argila
+MCHE_55998, materiais, Cerâmica | Pó de Ouro
+MOUR_5332, material-tecnica-3, madeira | marcenaria | metal
+MCBC_9246, material, Metal | Vidro
+MCBC_10771, material, Argila | Tinta
+MCHE_74888, materiais, Madeira | Palhinha
+MCHE_43942, materiais, Madeira | Palhinha
+MINC_231434, material, 
+MINC_209007, material, Ferro | Madeira
+MCHE_43507, materiais, Linha de Seda
+MHNA_163308, material, aço | prata
+MINC_95874, material, Aluminato de Prata | Madeira
+MBAN_7233, material, Madeira
+MINC_105106, material, Madeira > Canela-parda | Ouro | Tintas
+MINC_174765, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MCHE_62312, materiais, Madeira | Palhinha
+MINC_170972, material, Ferro | Madeira | Ouro
+MINC_127692, material, Madeira > Jacarandá | Palha > Junco
+MCHE_41450, materiais, Madeira | Palhinha
+MDIA_31535, material-tecnica-3, fundição | madeira | marcenaria | metal | pintura | tinta
+MINC_207982, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHA_20351, materiais_tecnicas-2, Porcelana
+MCHE_59143, materiais, Prata
+MCBC_9977, material, Linha
+MINC_106898, material, Ferro
+MHNA_162954, material, prata
+MCHE_59232, materiais, Prata
+MDIA_31965, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_29225, material, Madeira > Jacarandá | Palha > Junco
+MASB_48428, material, Madeira | Metal
+MCPR_37854, material, Metal
+MCHE_71189, materiais, Madeira | Palhinha
+MINC_42114, material, Madeira | Metal
+MCBC_11672, material, Madeira > Ébano | Metal
+MHNA_160176, material, melamina
+MCHE_40712, materiais, Madeira | Policromia
+MCHE_56808, materiais, Prata
+MCHA_21786, materiais_tecnicas-2, Porcelana
+MINC_185911, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_54897, materiais, Cerâmica | Pó de Ouro
+MCHA_24930, materiais_tecnicas-2, Porcelana
+MCHA_22846, materiais_tecnicas-2, Porcelana
+MRSJ_20948, material-3, Madeira
+MCHE_63757, materiais, Cobre | Cristal Bacará
+MINC_79547, material, Madeira | Tintas
+MINC_17568, material, Madeira > Jacarandá
+MCHE_51150, materiais, Cerâmica | Pó de Ouro
+MCHE_70797, materiais, Vidro
+MINC_119551, material, Folha-de-flandres
+MINC_112441, material, Bronze
+MCHA_18842, materiais_tecnicas-2, Porcelana
+MINC_169955, material, Madeira
+MCBC_10486, material, Madeira | Mármore
+MCHA_21401, materiais_tecnicas-2, Porcelana
+MCHE_70923, materiais, Renda
+MCHA_20450, materiais_tecnicas-2, Porcelana
+MRCO_36846, material-9, metal | tinta
+MINC_83910, material, Prata
+MINC_110745, material, Prata
+MCHE_65013, materiais, Cobre | Cristal Bacará
+MINC_192671, material, Argila > Barro
+MRCO_36559, material-9, ferro batido | madeira | tinta
+MINC_100207, material, Madeira > Cedro | Ferro | Madeira > Jacarandá
+MINC_184960, material, Folha-de-flandres | Madeira | Ouro
+MHNA_167966, material, aço inoxidável
+MCHE_57890, materiais, Metal | Prata
+MCPR_44594, material, Plástico > Plástico Moldado
+MCHE_73036, materiais, Cerâmica | Pó de Ouro
+MCHE_73917, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_62252, materiais, Cerâmica | Pó de Ouro
+MCHE_47994, materiais, Madeira | Palhinha
+MINC_231509, material, 
+MRCO_36441, material-9, madeira | prateada | tinta
+MCHE_63575, materiais, Cerâmica | Pó de Ouro
+MCHE_70167, materiais, Madeira | Mármore
+MCHE_73701, materiais, Gesso | Madeira | Pó de Ouro
+MCHA_23365, materiais_tecnicas-2, Porcelana
+MCHA_25171, materiais_tecnicas-2, Porcelana
+MCHE_47380, materiais, Cristal
+MINC_174451, material, Madeira > Jacarandá | Palha > Junco
+MDIA_31171, material-tecnica-3, fundição | metal
+MCPR_44930, material, Rocha > Argila
+MRCO_36001, material-9, metal | vidro
+MASB_49404, material, Madeira
+MRSJ_22340, material-3, Madeira | Metal
+MCHE_49962, materiais, Cerâmica | Pó de Ouro | Tinta
+MCBC_10829, material, Vidro
+MCHA_30622, materiais_tecnicas-2, Madeira | Metal
+MCHE_58454, materiais, Prata
+MCHE_68676, materiais, Cerâmica | Pó de Ouro
+MINC_183631, material, Madeira
+MCHE_76122, materiais, Madeira | Pó de Ouro
+MCHE_53630, materiais, Cerâmica | Pó de Ouro
+MRSJ_24879, material-3, Folha de Ouro | Porcelana | Tinta
+MCHE_40554, materiais, Cobre | Cristal Bacará
+MCHA_26788, materiais_tecnicas-2, Vidro
+MABO_763, material, cedro | madeira | vidro
+MINC_171325, material, Ferro | Madeira
+MCHE_41898, materiais, Cerâmica | Pó de Ouro
+MCHE_52567, materiais, Cerâmica | Pó de Ouro
+MDIA_31972, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_233979, material, 
+MCHE_59590, materiais, Prata
+MRSJ_20424, material-3, Madeira | Metal
+MRCO_36577, material-9, folha de ouro | madeira | tinta
+MCHE_44586, materiais, Cobre | Cristal Bacará
+MINC_188101, material, Madeira > Jacarandá | Palha > Junco
+MHNA_159681, material, cristal
+MRSJ_24715, material-3, Folha de Ouro | Metal | Tinta | Vidro
+MINC_41417, material, Ferro | Madeira
+MCHA_28796, materiais_tecnicas-2, Metal
+MABO_787, material, metal
+MCPR_45509, material, Madeira | Metal > Metal Fundido | Metal > Metal Moldado
+MCHE_41485, materiais, Madeira | Palhinha
+MINC_99614, material, Madeira | Tintas
+MABO_493, material, prata
+MCHE_64979, materiais, Cobre | Cristal Bacará
+MCHE_45301, materiais, Prata
+MDIA_31913, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MDIA_31261, material-tecnica-3, douramento | entalhe | espelho | folha de ouro | gesso | madeira | modelagem
+MCBC_11654, material, Madeira > Ébano | Metal
+MINC_70404, material, Madeira > Jacarandá | Madeira
+MCPR_45539, material, Metal > Metal Moldado
+MCHE_74619, materiais, Madeira | Mármore
+MINC_110564, material, Prata
+MHNA_168063, material, cristal
+MOUR_5921, material-tecnica-3, dourada | entalhada | madeira recortada | policromada
+MCHA_27814, materiais_tecnicas-2, Vidro
+MCHE_43255, materiais, Prata
+MCHE_54381, materiais, Prata
+MRSJ_22627, material-3, Madeira | Palhinha
+MCHA_22161, materiais_tecnicas-2, Porcelana
+MINC_159552, material, Madeira
+MINC_189137, material, Madeira > Jacarandá | Palha > Junco
+MBAN_5546, material, Pedra > Cristal | Metal
+MCHE_66636, materiais, Cerâmica | Pó de Ouro
+MINC_10320, material, Bronze
+MINC_30668, material, Aluminato de Prata | Madeira | Tintas
+MINC_123452, material, Ferro | Folha-de-flandres
+MCHA_19896, materiais_tecnicas-2, Porcelana
+MCBC_10885, material, Madeira | Palhinha
+MCHE_40331, materiais, Madeira | Palhinha
+MCHE_52054, materiais, Prata
+MCHA_22317, materiais_tecnicas-2, Porcelana
+MCHA_21170, materiais_tecnicas-2, Porcelana
+MINC_46556, material, Prata
+MDIA_31123, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MCBC_9470, material, Couro | Madeira | Metal | Palhinha
+MINC_189469, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCBC_11470, material, Resina | Vidro
+MCHE_58128, materiais, Prata
+MINC_142222, material, Folha-de-flandres | Tintas
+MINC_184529, material, Fibra Têxtil | Madeira > Jacarandá | Madeira
+MINC_70946, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHE_45165, materiais, Cobre | Cristal Bacará
+MRCO_36651, material-9, metal > bronze | metal | vidro
+MCHA_22745, materiais_tecnicas-2, Porcelana
+MDIA_31530, material-tecnica-3, fundição | madeira | marcenaria | metal
+MINC_147590, material, Latão
+MCHE_42973, materiais, Prata
+MCHA_19121, materiais_tecnicas-2, Porcelana
+MINC_105760, material, Argila > Barro | Esmalte | Verniz
+MINC_227661, material, 
+MCHE_61307, materiais, Prata
+MCHE_59322, materiais, Prata
+MCBC_10801, material, Metal
+MBAN_5194, material, Madeira | Fibra > Fibra Vegetal > Palhinha
+MRCO_36466, material-9, folha de ouro | madeira | tinta
+MCHE_67807, materiais, Cerâmica | Pó de Ouro
+MRSJ_28113, material-3, 
+MCHE_68766, materiais, Cerâmica | Pó de Ouro
+MCBC_11169, material, Argila | Vidro > Cristal | Madeira | Metal
+MCHA_14914, materiais_tecnicas-2, Espelho | Madeira | Mármore | Metal
+MCHE_57248, materiais, Vidro
+MCHE_51025, materiais, Cerâmica
+MCHE_51210, materiais, Cerâmica | Pó de Ouro
+MCHE_59382, materiais, Prata
+MCHE_74990, materiais, Madeira | Palhinha
+MCHE_64068, materiais, Cristal | Metal
+MBAN_5788, material, Rocha > Argila
+MCHE_76468, materiais, Linha | Pano
+MINC_231290, material, 
+MCHE_72542, materiais, Cristal
+MRSJ_21724, material-3, Madeira | Metal
+MRSJ_21479, material-3, Madeira
+MINC_41735, material, Ferro | Madeira > Jacarandá | Tintas
+MINC_119338, material, Ferro
+MHNA_166481, material, porcelana
+MINC_35547, material, Madeira | Pedra > Talcita | Tintas
+MOUR_5263, material-tecnica-3, ferro | fundição | madeira | marcenaria | policromia | recorte
+MRCO_36555, material-9, folha de ouro | madeira | tinta
+MINC_142002, material, Folha-de-flandres | Tintas
+MCHE_64254, materiais, Espelho de Cristal | Gesso | Madeira | Pó de Ouro
+MCHE_58514, materiais, Prata
+MCBC_11686, material, Madeira > Ébano | Metal
+MINC_231326, material, 
+MCHE_65448, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_44722, materiais, Cobre | Cristal Bacará
+MCPR_37730, material, Metal
+MHNA_163821, material, prata 90
+MINC_184358, material, Prata
+MCHA_27987, materiais_tecnicas-2, Vidro
+MCHE_53023, materiais, Cerâmica | Pó de Ouro
+MCHE_54713, materiais, Cerâmica | Pó de Ouro
+MINC_188591, material, Ferro | Madeira
+MCHE_73539, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_42847, materiais, Prata
+MRSJ_22996, material-3, Madeira | Palhinha
+MHNA_166065, material, porcelana
+MINC_209101, material, Couro | Madeira
+MINC_94358, material, Cobre
+MINC_100634, material, Madeira | Ouro | Tintas
+MINC_41890, material, Madeira > Jacarandá | Latão
+MINC_110051, material, Prata
+MBAN_1674, material, Madeira
+MINC_110517, material, Prata
+MCHA_20780, materiais_tecnicas-2, Porcelana
+MINC_142178, material, Folha-de-flandres | Tintas
+MINC_34509, material, Madeira | Ouro | Tintas
+MCHE_60458, materiais, Prata
+MINC_39643, material, Madeira | Ouro | Tintas
+MINC_187323, material, Ferro | Madeira
+MCHE_69769, materiais, Cerâmica | Pó de Ouro | Tinta
+MCBC_11698, material, Madeira > Ébano | Metal
+MCBC_11712, material, Madeira > Ébano | Metal
+MINC_37599, material, Folha-de-flandres | Madeira | Tintas
+MINC_15965, material, Ferro
+MASB_48967, material, Metal > Cobre | Metal > Prata
+MRSJ_21683, material-3, Madeira
+MINC_171417, material, Madeira
+MCBC_11161, material, Madeira | Metal | Tinta
+MCHE_48237, materiais, Cobre | Cristal Bacará
+MCBC_10478, material, Madeira | Metal
+MCHE_75090, materiais, Madeira | Palhinha
+MCHE_63038, materiais, Cerâmica | Pó de Ouro
+MCBC_10853, material, Metal | Vidro
+MCHA_21302, materiais_tecnicas-2, Porcelana
+MCHA_27863, materiais_tecnicas-2, Vidro
+MINC_165543, material, Latão
+MINC_147631, material, Latão
+MCPR_44989, material, Metal > Metal Esmaltado
+MINC_110611, material, Prata
+MBAN_6099, material, Madeira
+MINC_228127, material, 
+MCHE_59501, materiais, Prata
+MCHE_46071, materiais, Linha de Algodão | Linho
+MCHA_37512, materiais_tecnicas-2, Metal
+MRSJ_26833, material-3, Madeira | Tinta
+MRSJ_19920, material-3, Madeira | Metal | Tinta
+MCHA_47894, materiais_tecnicas-2, Vidro
+MCHE_40677, materiais, Madeira
+MCHE_53597, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_122948, material, Ferro | Folha-de-flandres
+MRCO_35828, material-9, folha de ouro | madeira | tinta
+MINC_73556, material, Madeira > Jacarandá | Palha > Junco
+MBAN_7500, material, Metal > Ferro | Madeira
+MBAN_16667, material, Madeira > Jacarandá | Metal
+MDIA_31245, material-tecnica-3, entalhe | fundição | madeira | metal | policromia | tinta
+MCHE_68222, materiais, Cerâmica | Pó de Ouro
+MCHE_54683, materiais, Cerâmica | Pó de Ouro
+MINC_140636, material, Folha-de-flandres | Tintas
+MCHE_75288, materiais, Madeira | Metal | Palhinha
+MCHE_62061, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_55398, materiais, Cerâmica | Pó de Ouro
+MINC_188378, material, Madeira
+MINC_31786, material, Madeira > Jacarandá
+MRCO_36173, material-9, pedra-de-lioz
+MDIA_31932, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MCBC_9560, material, Linha | Tecido > Linho
+MINC_89343, material, Ferro | Madeira
+MINC_234131, material, 
+MINC_188905, material, Madeira > Jacarandá | Palha > Junco
+MHNA_163340, material, aço | prata
+MCBC_11694, material, Madeira > Ébano | Metal
+MHNA_164011, material, prata 90
+MINC_179648, material, Latão
+MINC_208348, material, Madeira > Jacarandá | Palha > Junco
+MRCO_36482, material-9, madeira
+MINC_155990, material, Ferro
+MINC_201988, material, Madeira > Cedro
+MCHA_24990, materiais_tecnicas-2, Porcelana
+MDIA_31542, material-tecnica-3, madeira | marcenaria | torneado
+MINC_141562, material, Folha-de-flandres | Tintas
+MCHE_61247, materiais, Prata
+MOUR_5693, material-tecnica-3, fundido | latão prensado | vidro
+MOUR_5669, material-tecnica-3, batido | ferro fundido
+MBAN_5001, material, Madeira > Jacarandá | Fibra > Fibra Vegetal > Palhinha
+MCHA_19245, materiais_tecnicas-2, Porcelana
+MCHE_53979, materiais, Cerâmica | Pó de Ouro
+MCHE_62282, materiais, Cerâmica | Pó de Ouro
+MDIA_32006, material-tecnica-3, fundição | metal
+MINC_205935, material, Madeira
+MINC_170741, material, Madeira | Ouro
+MCBC_9320, material, Madeira | Metal
+MCHE_53914, materiais, Cobre | Cristal Bacará
+MDIA_31222, material-tecnica-3, entrançado | jacarandá | madeira | marcenaria | palhinha
+MCHE_43911, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_61059, materiais, Prata
+MINC_111575, material, Madeira | Tintas
+MCHE_54443, materiais, Cerâmica | Pó de Ouro
+MCHE_56838, materiais, Madeira | Palhinha
+MCHA_18594, materiais_tecnicas-2, Porcelana
+MCHE_46098, materiais, Linha de Algodão | Linho
+MINC_97254, material, Argila > Barro | Tintas
+MCHE_44756, materiais, Cobre | Cristal Bacará
+MABO_823, material, argila
+MDIA_32244, material-tecnica-3, fundição | metal
+MCHE_65597, materiais, Cerâmica | Pó de Ouro
+MCHE_60157, materiais, Prata
+MINC_141738, material, Folha-de-flandres | Tintas
+MINC_229358, material, 
+MCPR_45099, material, Metal > Metal Esmaltado
+MINC_187590, material, Madeira > Jacarandá | Palha > Junco
+MINC_208302, material, Madeira > Jacarandá | Palha > Junco
+MCHE_64484, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_193072, material, Ferro | Madeira
+MHNA_163952, material, prata 90
+MINC_111125, material, Latão
+MCBC_10903, material, Madeira | Palhinha
+MCHE_47723, materiais, Madeira | Palhinha
+MCHE_61999, materiais, Madeira | Mármore
+MABO_494, material, prata
+MCHE_47024, materiais, Madeira | Palhinha
+MINC_233887, material, 
+MRSJ_20625, material-3, Madeira
+MCHA_20252, materiais_tecnicas-2, Porcelana
+MINC_146869, material, Madeira > Jacarandá
+MCHA_21071, materiais_tecnicas-2, Porcelana
+MCHA_15350, materiais_tecnicas-2, Madeira | Metal
+MCHE_66336, materiais, Cerâmica | Pó de Ouro
+MINC_192133, material, Madeira > Cedro
+MCHE_59292, materiais, Prata
+MCHA_31935, materiais_tecnicas-2, Vidro pintado
+MCBC_11046, material, Vidro > Cristal
+MINC_147056, material, Madeira
+MCHE_63852, materiais, Cristal | Metal
+MCHE_74719, materiais, Madeira | Palhinha
+MCHA_19307, materiais_tecnicas-2, Porcelana
+MBAN_7155, material, Madeira
+MCBC_11498, material, Madeira
+MCHE_52687, materiais, Cerâmica | Pó de Ouro
+MCHA_23086, materiais_tecnicas-2, Porcelana
+MINC_39498, material, Ferro | Madeira | Tintas
+MINC_24217, material, Madeira | Tintas
+MCHA_22077, materiais_tecnicas-2, Porcelana
+MASB_49250, material, Madeira
+MCPR_16913, material, Madeira | Metal > Prego
+MDIA_32216, material-tecnica-3, esmalte | fundição | metal | pintura | tinta
+MCHE_48902, materiais, Cobre
+MINC_140858, material, Folha-de-flandres | Tintas
+MRSJ_27388, material-3, Metal
+MCHA_21816, materiais_tecnicas-2, Porcelana
+MHNA_167873, material, aço inoxidável
+MASB_61338, material, Não identificado
+MINC_126468, material, Couro | Madeira
+MINC_162275, material, Latão
+MCHE_74322, materiais, Gesso | Madeira | Pó de Ouro
+MRCO_36567, material-9, ferro batido | madeira | tinta
+MINC_72934, material, Madeira > Jacarandá | Palha > Junco | Madeira
+MCHA_22369, materiais_tecnicas-2, Porcelana
+MINC_110239, material, Prata
+MHNA_159773, material, vidro
+MDIA_33342, material-tecnica-3, fundição | metal | pintura | tinta
+MINC_228625, material, 
+MCPR_36737, material, Rocha > Argila | Pigmento
+MCBC_10452, material, Metal
+MOUR_5233, material-tecnica-3, couro lavrado | madeira | marcenaria | metal
+MASB_48996, material, Metal > Cobre | Metal > Prata
+MRSJ_21314, material-3, Madeira | Metal
+MCPR_38102, material, Madeira
+MCHE_52933, materiais, Cerâmica | Pó de Ouro
+MASB_62081, material, Madeira
+MCHE_56305, materiais, Prata
+MCHE_53415, materiais, Cerâmica | Pó de Ouro
+MINC_73748, material, Palha > Junco | Madeira
+MDIA_32239, material-tecnica-3, fundição | metal
+MINC_229471, material, 
+MINC_124215, material, Folha-de-flandres | Madeira
+MCBC_9931, material, Argila | Vidro > Cristal | Madeira | Metal
+MINC_99850, material, Madeira > Jacarandá | Madeira
+MINC_9788, material, Madeira > Cedro | Ferro | Tintas
+MCBC_11143, material, Madeira
+MINC_203565, material, Ferro | Madeira > Jacarandá | Madeira
+MCHE_53203, materiais, Cerâmica | Pó de Ouro
+MCHE_63250, materiais, Cerâmica | Pó de Ouro
+MINC_35478, material, Madeira | Pedra > Talcita | Tintas
+MRCO_35997, material-9, madeira | mármore
+MCHE_57645, materiais, Linha de Algodão | Linho
+MHNA_166760, material, porcelana
+MCHE_68403, materiais, Cerâmica | Pó de Ouro
+MOUR_5685, material-tecnica-3, latão amarelo prensado | madeira | vidro
+MCHE_58157, materiais, Prata
+MCBC_10073, material, Argila
+MRSJ_28641, material-3, Folha de Ouro | Porcelana | Tinta
+MINC_124038, material, Folha-de-flandres | Madeira
+MRCO_36488, material-9, madeira
+MINC_70454, material, Madeira > Jacarandá | Madeira | Metal
+MCHE_68312, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_69284, materiais, Cerâmica | Pó de Ouro
+MASB_47823, material, Metal > Latão
+MINC_183097, material, Ferro | Madeira | Tintas
+MCHE_73728, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_53761, materiais, Cerâmica | Pó de Ouro
+MHNA_166543, material, porcelana
+MINC_208536, material, Ferro | Madeira
+MINC_111027, material, Prata
+MCHE_56028, materiais, Cerâmica | Pó de Ouro
+MCHE_72426, materiais, Cristal
+MCHE_74214, materiais, Gesso | Madeira | Pó de Ouro
+MCHE_67747, materiais, Cerâmica | Pó de Ouro
+MDIA_31982, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MRCO_36437, material-9, madeira | prateada | tinta
+MRSJ_25171, material-3, Folha de Ouro | Madeira | Tinta
+MCHE_68886, materiais, Cerâmica | Pó de Ouro
+MINC_112862, material, Metal | Tintas
+MCHE_69194, materiais, Cerâmica | Pó de Ouro
+MINC_226469, material, 
+MABO_499, material, prata
+MCHE_72513, materiais, Cristal
+MCHE_58424, materiais, Prata
+MCHE_67974, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHE_73212, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_223731, material, 
+MINC_42399, material, Ferro | Madeira > Jacarandá
+MRCO_36021, material-9, madeira | palinha
+MRSJ_22873, material-3, Madeira | Palhinha
+MINC_186498, material, Ferro | Madeira > Jacarandá | Metal
+MINC_42355, material, Madeira > Jacarandá | Marfim
+MBAN_7464, material, Metal > Ferro | Madeira
+MCPR_33708, material, Metal > Cobre
+MCHE_69314, materiais, Cerâmica | Pó de Ouro
+MINC_165905, material, Madeira > Pinho-de-riga | Tintas
+MINC_142266, material, Folha-de-flandres | Tintas
+MCHE_41347, materiais, Madeira | Palhinha
+MCHE_53660, materiais, Cerâmica | Pó de Ouro | Tinta
+MHNA_166356, material, porcelana
+MCHE_69036, materiais, Cerâmica | Pó de Ouro
+MCHE_44518, materiais, Cobre | Cristal Bacará
+MINC_208907, material, Ferro | Madeira
+MRCO_36137, material-9, vidro
+MCBC_9907, material, Metal | Tinta
+MCHE_68036, materiais, Cerâmica | Pó de Ouro
+MHNA_163610, material, prata
+MCPR_38072, material, Metal > Aço Inoxidável
+MCHE_58244, materiais, Prata
+MCHE_69254, materiais, Cerâmica | Pó de Ouro
+MINC_35423, material, Madeira | Pedra > Talcita | Tintas
+MBAN_5591, material, Rocha > Argila
+MINC_71518, material, Argila > Caolim | Ouro | Tintas
+MRCO_36480, material-9, madeira
+MINC_43157, material, Madeira > Cedro | Tintas
+MINC_41324, material, Couro | Madeira > Jacarandá | Latão
+MCPR_44072, material, Metal
+MCHE_75123, materiais, Madeira | Palhinha
+MABO_485, material, argila | metal
+MCBC_9782, material, Madeira | Mármore | Metal
+MCHE_47320, materiais, Cristal
+MINC_128306, material, Madeira > Jacarandá | Palha > Junco
+MCHE_68916, materiais, Cerâmica | Pó de Ouro
+MCBC_10371, material, Tecido
+MINC_209286, material, Palha > Junco | Madeira
+MCHA_15380, materiais_tecnicas-2, Madeira
+MCHE_46486, materiais, Cerâmica
+MINC_100252, material, Madeira > Cedro | Tintas
+MOUR_5817, material-tecnica-3, cerâmica monocromada
+MCHE_52146, materiais, Cerâmica | Pó de Ouro
+MINC_205824, material, Ferro | Madeira
+MCHA_15928, materiais_tecnicas-2, Madeira | Palhinha
+MOUR_5243, material-tecnica-3, bronze fundido | madeira | marcenaria
+MCHE_43880, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_124629, material, Folha-de-flandres | Tintas
+MCHE_75722, materiais, Madeira | Pó de Ouro
+MINC_192763, material, Madeira | Purpurina | Tintas
+MCHE_47756, materiais, Madeira | Palhinha
+MCHE_44552, materiais, Cobre | Cristal Bacará
+MINC_142046, material, Folha-de-flandres | Tintas
+MRSJ_21438, material-3, Madeira
+MINC_39253, material, Ferro | Madeira
+MCHE_74592, materiais, Gesso | Madeira | Pó de Ouro
+MRSJ_27893, material-3, Folha de Ouro | Porcelana | Tinta
+MOUR_5231, material-tecnica-3, couro lavrado | madeira | marcenaria | metal
+MRSJ_22750, material-3, Madeira | Palhinha
+MINC_79635, material, Madeira
+MCHA_19865, materiais_tecnicas-2, Porcelana
+MCPR_44624, material, Plástico > Plástico Moldado
+MCHE_43066, materiais, Prata
+MCBC_10901, material, Madeira | Palhinha
+MCBC_10909, material, Couro | Madeira | Metal | Palhinha
+MCHA_14754, materiais_tecnicas-2, Madeira | Metal
+MINC_36310, material, Madeira > Jacarandá | Madeira | Madeira > Vinhático
+MINC_39209, material, Madeira > Cedro | Ferro
+MCBC_10897, material, Madeira | Palhinha
+MINC_47284, material, Argila > Caolim | Esmalte
+MCHE_66426, materiais, Cerâmica | Pó de Ouro
+MCPR_36357, material, Metal > Ferro | Madeira
+MINC_201669, material, Madeira > Cedro | Tintas
+MRSJ_22381, material-3, Madeira | Metal
+MINC_230707, material, 
+MCHA_26656, materiais_tecnicas-2, Vidro
+MBAN_1592, material, Madeira
+MCHA_20186, materiais_tecnicas-2, Porcelana
+MINC_175918, material, Madeira
+MINC_85175, material, Madeira | Tintas
+MCHE_43414, materiais, Prata
+MCHA_27790, materiais_tecnicas-2, Vidro
+MCHE_50792, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_24960, materiais_tecnicas-2, Porcelana
+MCHE_70666, materiais, Vidro
+MINC_228343, material, 
+MCBC_10502, material, Madeira | Mármore | Metal | Tinta | Vidro
+MCHE_66396, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_124129, material, Folha-de-flandres | Madeira
+MRSJ_21069, material-3, Madeira
+MINC_141650, material, Folha-de-flandres | Tintas
+MINC_187267, material, Madeira
+MDIA_31654, material-tecnica-3, douramento | entalhe | folha de ouro | madeira | pedra | policromia | recorte | tinta | vidro
+MCHE_63944, materiais, Cristal | Metal
+MCHE_71504, materiais, Cobre | Cristal Bacará
+MINC_112083, material, Bronze
+MINC_71473, material, Argila > Caolim | Ouro | Tintas
+MCHE_47925, materiais, Madeira | Metal | Palhinha
+MHNA_167934, material, aço inoxidável
+MINC_223614, material, 
+MRSJ_22832, material-3, Madeira | Palhinha
+MINC_162933, material, Madeira | Tintas
+MCBC_11460, material, Madeira | Metal
+MCBC_10279, material, Madeira | Palhinha
+MCHE_51390, materiais, Cerâmica | Pó de Ouro
+MRCO_36490, material-9, madeira
+MINC_232914, material, 
+MCBC_11101, material, Madeira | Palhinha
+MCHE_55209, materiais, Cerâmica | Pó de Ouro | Tinta
+MCHA_15620, materiais_tecnicas-2, Madeira | Palhinha
+MINC_124258, material, Folha-de-flandres | Madeira
+MCHE_44484, materiais, Cobre | Cristal Bacará
+MINC_207433, material, Madeira > Jacarandá | Palha > Junco
+MINC_189630, material, Madeira > Jacarandá | Palha > Junco
+MINC_72880, material, Madeira > Jacarandá | Palha > Junco
+MCHE_65717, materiais, Cerâmica | Pó de Ouro
+MCHE_74376, materiais, Gesso | Madeira | Pó de Ouro
+MHNA_163922, material, prata 90
+MHNA_164041, material, prata 90
+MINC_100352, material, Madeira > Cedro | Ferro | Tintas
+MRSJ_28245, material-3, Folha de Ouro | Porcelana | Tinta
+MHNA_166388, material, porcelana
+MRSJ_22709, material-3, Madeira | Palhinha
+MCHE_65285, materiais, Cobre | Cristal Bacará
+MINC_208743, material, Madeira | Purpurina | Tintas
+MCPR_45749, material, Madeira | Metal
+MINC_186212, material, Ferro | Madeira
+MABO_500, material, prata
+MINC_230964, material, 
+MDIA_31936, material-tecnica-3, cerâmica | decalcomania | esmalte | porcelana | queima | tinta
+MINC_110886, material, Prata
+MCHE_58394, materiais, Prata
+MCHA_24350, materiais_tecnicas-2, Porcelana
+MINC_174249, material, Madeira
+MDIA_31187, material-tecnica-3, fundição | metal
+MINC_47009, material, Argila > Caolim | Esmalte | Ouro
+MCHE_53948, materiais, Cerâmica | Pó de Ouro | Tinta
+MINC_124396, material, Folha-de-flandres
+MCBC_9528, material, Metal | Tinta
+MCPR_37699, material, Metal
+MINC_47147, material, Argila > Caolim | Esmalte
+MCHE_60097, materiais, Prata
+MCHE_66833, materiais, Cerâmica | Pó de Ouro
+MHNA_166323, material, porcelana
+MINC_209337, material, Madeira | Ouro | Tintas
+MCHE_61586, materiais, Cerâmica | Pó de Ouro
+MABO_760, material, ferro
+MCHA_22291, materiais_tecnicas-2, Porcelana
+MCHE_49814, materiais, Prata
+MCHE_56638, materiais, Madeira | Palhinha
+MINC_162891, material, Madeira > Pinho-de-riga | Tintas
+MINC_118706, material, Madeira > Jacarandá
+MINC_23875, material, Ferro | Madeira > Jacarandá
+MCHE_44247, materiais, Cobre | Cristal Bacará
+MINC_124086, material, Folha-de-flandres | Madeira
+MINC_40956, material, Madeira | Ouro
+MCBC_10097, material, Vidro > Cristal | Madeira | Metal | Porcelana
+MCBC_11435, material, Metal | Tinta
+MINC_47468, material, Argila > Caolim | Esmalte
+MHNA_163500, material, prata
+MCHA_23302, materiais_tecnicas-2, Porcelana
+MINC_39692, material, Madeira | Tintas
+MINC_232590, material, 
+MCHA_22716, materiais_tecnicas-2, Porcelana
+MINC_47238, material, Argila > Caolim | Esmalte
+MRSJ_23612, material-3, Ferro | Madeira | Tinta
+MCHA_18780, materiais_tecnicas-2, Porcelana
+MINC_94554, material, Vidro
+MHNA_168162, material, cristal
+MASB_61069, material, Madeira
+MCHE_65251, materiais, Cobre | Cristal Bacará
+MHNA_163179, material, prata
+MBAN_4592, material, Couro | Metal > Ferro | Madeira
+MCHE_59262, materiais, Prata
+MINC_111737, material, Latão
+MRSJ_23160, material-3, Madeira | Palhinha
+MCBC_10775, material, Argila | Tinta
+MCHE_67522, materiais, Cristal
+MINC_110658, material, Latão
+MCHA_22776, materiais_tecnicas-2, Porcelana
+MRCO_36478, material-9, madeira
+MCHE_48370, materiais, Madeira
+MCBC_10741, material, Vidro > Cristal
+MCHE_69164, materiais, Cerâmica | Pó de Ouro
+MCHA_15724, materiais_tecnicas-2, Madeira | Palhinha
+MINC_31649, material, Madeira | Marfim
+MCHE_42941, materiais, Prata
+MCPR_37792, material, Metal
+MCHE_60792, materiais, Ferro
+MCHE_43128, materiais, Prata
+MOUR_5229, material-tecnica-3, couro lavrado | madeira | marcenaria | metal
+MCHE_45131, materiais, Cobre | Cristal Bacará
+MINC_192578, material, Ferro | Latão
+MRSJ_20989, material-3, Madeira
+MCHE_48435, materiais, Madeira | Palhinha
+MINC_73456, material, Madeira
+MCHE_54229, materiais, Prata
+MCHA_18563, materiais_tecnicas-2, Porcelana
+MCHE_61367, materiais, Prata
+MINC_84013, material, Argila > Caolim | Esmalte
+MCHA_35220, materiais_tecnicas-2, Tecido de algodão
+MINC_172312, material, Ferro | Madeira
+MINC_80253, material, Ferro | Madeira | Tintas
+MDIA_31182, material-tecnica-3, fundição | metal
+MCHE_65627, materiais, Cerâmica | Pó de Ouro
+MHNA_166577, material, porcelana
+MHNA_166194, material, porcelana
+MDIA_32026, material-tecnica-3, entalhe | fundição | metal | osso
+MCHA_18532, materiais_tecnicas-2, Porcelana
+MINC_161732, material, Madeira > Jacarandá
+MINC_41785, material, Fibra Têxtil | Madeira | Tintas
+MRCO_35969, material-9, madeira | palinha
+MINC_100400, material, Ferro | Madeira | Tintas
+MCBC_10899, material, Madeira | Palhinha
+MRCO_36183, material-9, ferro | metal
+MINC_90588, material, Folha-de-flandres | Madeira | Tintas
+MCBC_10913, material, Madeira | Palhinha
+MCHA_16902, materiais_tecnicas-2, Madeira | Metal | Vidro
+MINC_128080, material, Pedra-sabão
+MCHE_59530, materiais, Prata
+MCHE_52963, materiais, Cerâmica | Pó de Ouro
+MINC_41934, material, Fibra Têxtil | Madeira > Jacarandá | Tintas
+MCPR_38131, material, Madeira
+MINC_176171, material, Madeira > Jacarandá | Palha > Junco
+MINC_188163, material, Ferro | Madeira
+MINC_5435, material, Madeira > Canela-parda | Ferro
+MINC_123402, material, Ferro | Folha-de-flandres
+MRSJ_20465, material-3, Madeira | Metal
+MCHE_41590, materiais, Madeira | Palhinha
+MCBC_10091, material, Linha
+MCBC_11668, material, Madeira > Ébano | Metal
+MCHA_14785, materiais_tecnicas-2, Madeira | Metal
+MINC_224542, material, 
+MBAN_6060, material, Madeira
+MINC_233614, material, 
+MBAN_2174, material, Madeira
+MINC_101274, material, Latão
+MINC_10854, material, Folha-de-flandres | Tintas | Vidro
+MINC_187656, material, Madeira
+MCHE_42358, materiais, Cerâmica | Pó de Ouro
+MINC_124535, material, Folha-de-flandres | Tintas
+MCHE_60276, materiais, Prata
+MINC_162563, material, Latão
+MCBC_9494, material, Madeira > Jacarandá | Palhinha
+MCHE_48708, materiais, Madeira | Metal | Palhinha
+MRSJ_20299, material-3, Madeira | Metal
+MINC_87674, material, Prata
+MINC_188484, material, Latão | Madeira
+MINC_35212, material, Madeira | Pedra > Talcita | Tintas
+MINC_111344, material, Prata
+MCHE_52306, materiais, Cerâmica | Pó de Ouro
+MCHA_15895, materiais_tecnicas-2, Madeira | Palhinha
+MINC_82774, material, Madeira > Cedro | Ferro | Tintas
+MCHE_61769, materiais, Cerâmica | Pó de Ouro
+MCHA_21005, materiais_tecnicas-2, Porcelana
+MRCO_35905, material-9, madeira | metal
+MINC_105358, material, Argila > Barro | Esmalte | Verniz
+MBAN_2671, material, Madeira > Cedro
+MINC_111487, material, Prata
+MCHE_42909, materiais, Prata
+MBAN_12638, material, Metal > Ferro | Vidro
+MINC_231818, material, 
+MINC_187714, material, Madeira
+MINC_72657, material, Ferro | Madeira > Jacarandá
+MINC_192716, material, Madeira | Purpurina | Tintas
+MCHA_20844, materiais_tecnicas-2, Porcelana
+MINC_110286, material, Latão
+MCHA_19710, materiais_tecnicas-2, Porcelana
+MCPR_37265, material, Rocha > Argila
+MRCO_36571, material-9, ferro batido | madeira | tinta
+MCBC_11646, material, Madeira > Ébano | Metal
+MHNA_166936, material, porcelana
+MRCO_36450, material-9, madeira | tinta
+MHNA_162987, material, prata
+MINC_206461, material, Madeira
+MCHE_57042, materiais, Cerâmica | Pó de Ouro
+MCHE_59620, materiais, Prata
+MINC_125108, material, Cobre
+MBAN_7271, material, Madeira
+MINC_105400, material, Argila > Barro | Esmalte | Verniz
+MRSJ_24797, material-3, Folha de Ouro | Metal | Tinta | Vidro
+MCHE_68526, materiais, Cerâmica | Pó de Ouro

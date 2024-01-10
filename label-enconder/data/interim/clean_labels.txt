@@ -1,0 +1,2922 @@
+mrco_36647,material-9,madeira
+minc_172514,material,madeira|mármore|metal
+mhna_162791,material,metal
+mcbc_9778,material,madeira|tinta|vidro
+minc_147262,material,madeira|metal|tinta
+mche_59442,materiais,metal
+mche_41519,materiais,madeira|palha
+masb_49059,material,metal
+mcbc_10085,material,argila
+mcha_20483,materiais_tecnicas-2,porcelana
+mche_41035,materiais,madeira|palha
+mche_59827,materiais,metal
+mche_40969,materiais,vidro
+mcbc_11704,material,madeira|metal
+minc_187539,material,palha|madeira
+mche_68706,materiais,cerâmica|pó de ouro
+minc_41461,material,fibra têxtil|madeira|ouro
+mche_52507,materiais,cerâmica|pó de ouro
+mche_65870,materiais,cerâmica|pó de ouro
+mcbc_9919,material,madeira|palha
+mcha_24230,materiais_tecnicas-2,porcelana
+mcbc_9540,material,madeira|mármore
+mche_48538,materiais,madeira|metal
+minc_37730,material,madeira|metal|tinta
+minc_173743,material,metal|madeira
+mcbc_10809,material,argila
+minc_42262,material,madeira
+mrsj_20746,material-3,madeira|metal
+mcbc_10081,material,argila
+minc_184009,material,metal|madeira|tinta
+minc_140108,material,metal|tinta
+mche_40297,materiais,madeira|palha
+mcha_14651,materiais_tecnicas-2,metal
+mche_52747,materiais,cerâmica|pó de ouro
+mche_51922,materiais,madeira|palha
+mdia_31388,material-tecnica-3,madeira|palha
+minc_227703,material,
+mcbc_10865,material,argila|vidro|metal
+mche_44893,materiais,metal|vidro
+minc_46408,material,metal
+mcbc_10079,material,argila
+mdia_31851,material-tecnica-3,madeira
+minc_73273,material,madeira
+minc_205505,material,madeira
+minc_140548,material,metal|tinta
+mban_12719,material,madeira
+mche_52843,materiais,cerâmica|pó de ouro
+minc_162359,material,metal
+minc_147672,material,metal|vidro
+mrco_35909,material-9,madeira|palinha
+minc_231209,material,
+mdia_31946,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mhna_160513,material,porcelana
+mdia_30954,material-tecnica-3,metal
+mche_46233,materiais,linha de algodão|linho
+mdia_31997,material-tecnica-3,porcelana|tinta
+minc_34553,material,madeira|metal|tinta
+mcha_21269,materiais_tecnicas-2,porcelana
+minc_201834,material,metal|madeira
+minc_185806,material,metal|madeira
+mdia_33835,material-tecnica-3,porcelana|tinta
+minc_24169,material,madeira|metal|tinta
+mche_61646,materiais,madeira|palha
+minc_46756,material,metal
+minc_203688,material,metal|madeira
+mcha_18749,materiais_tecnicas-2,porcelana
+minc_170784,material,madeira|metal|tinta
+minc_127883,material,madeira|palha
+mcha_47869,materiais_tecnicas-2,vidro
+mhna_166225,material,porcelana
+mche_66001,materiais,cerâmica|pó de ouro
+mdia_31220,material-tecnica-3,folha de ouro|madeira|pedra|tinta|vidro
+mche_74403,materiais,gesso|madeira|pó de ouro
+minc_11995,material,metal
+mour_5328,material-tecnica-3,madeira|metal
+mcpr_36799,material,argila
+mche_68586,materiais,cerâmica|pó de ouro
+mcha_31911,materiais_tecnicas-2,vidro
+mrsj_21396,material-3,madeira|metal
+mban_2883,material,couro|madeira
+mche_65747,materiais,cerâmica|pó de ouro
+mcbc_10373,material,tecido
+minc_34691,material,madeira|pedra|tinta
+minc_6640,material,madeira
+minc_201935,material,madeira|tinta
+mban_14836,material,metal
+mcbc_10749,material,vidro
+mcpr_37668,material,metal
+mche_69066,materiais,cerâmica|pó de ouro
+mdia_31207,material-tecnica-3,folha de ouro|madeira|metal|tinta
+mche_69505,materiais,metal
+mdia_32223,material-tecnica-3,madeira|metal
+minc_141518,material,metal|tinta
+mrco_35830,material-9,folha de ouro|madeira|tinta
+mrsj_22258,material-3,madeira|metal
+mche_49872,materiais,metal
+minc_82395,material,madeira
+mche_56090,materiais,cerâmica|pó de ouro
+mche_70529,materiais,vidro
+mche_74349,materiais,gesso|madeira|pó de ouro
+mche_75872,materiais,madeira|pó de ouro
+mche_51887,materiais,madeira|palha
+minc_82874,material,madeira|metal|tinta
+mcha_15078,materiais_tecnicas-2,madeira
+minc_111163,material,metal
+mcbc_9214,material,madeira|palha
+mcha_27613,materiais_tecnicas-2,vidro
+minc_209191,material,madeira
+mche_58098,materiais,metal
+minc_184252,material,madeira
+mche_48838,materiais,cerâmica|pó de ouro
+mche_67714,materiais,madeira|palha
+mcha_20384,materiais_tecnicas-2,porcelana
+mcpr_36954,material,argila
+mche_48469,materiais,madeira|palha
+mcha_25704,materiais_tecnicas-2,porcelana
+mche_57737,materiais,metal
+minc_42542,material,madeira
+mcbc_11696,material,madeira|metal
+mcbc_10811,material,argila
+mcbc_11690,material,madeira|metal
+minc_208246,material,madeira
+mrco_36029,material-9,vidro
+mche_46776,materiais,metal
+mcha_22473,materiais_tecnicas-2,porcelana
+mcha_20119,materiais_tecnicas-2,porcelana
+mche_75384,materiais,madeira|mármore
+minc_208492,material,madeira|palha
+minc_37422,material,madeira|tinta
+mcha_25020,materiais_tecnicas-2,porcelana
+minc_230883,material,
+mcpr_37327,material,argila|tinta
+mche_73836,materiais,gesso|madeira|pó de ouro
+minc_35881,material,madeira|pedra|tinta
+mche_54258,materiais,metal
+masb_62111,material,madeira
+mcbc_10821,material,couro|metal|tinta
+mcbc_9212,material,madeira|palha
+minc_139689,material,metal|vidro
+mour_5326,material-tecnica-3,madeira
+mrsj_20092,material-3,madeira
+minc_147755,material,metal|tinta|vidro
+mcpr_45480,material,metal
+mcha_27451,materiais_tecnicas-2,vidro
+minc_96775,material,vidro
+minc_100445,material,metal|madeira|metal
+minc_35590,material,madeira|pedra|tinta
+minc_99729,material,madeira
+mdia_31619,material-tecnica-3,folha de ouro|madeira|metal|papel|tinta
+minc_174195,material,madeira
+mche_65657,materiais,cerâmica|pó de ouro
+mrsj_20176,material-3,madeira
+mdia_32016,material-tecnica-3,metal
+minc_5584,material,metal|madeira
+minc_182813,material,madeira|tinta
+minc_141606,material,metal|tinta
+mrsj_24165,material-3,madeira|purpurina
+mche_71917,materiais,metal
+mcha_27424,materiais_tecnicas-2,vidro
+minc_73362,material,madeira
+mrco_36515,material-9,madeira|palinha
+mche_64385,materiais,vidro|gesso|madeira|pó de ouro
+mcbc_11145,material,madeira|mármore
+minc_145814,material,metal
+mcpr_37078,material,argila
+minc_233159,material,pedra|conchas|madeira
+mcpr_37761,material,metal
+minc_175075,material,metal|madeira|tinta
+mrsj_23119,material-3,madeira|palha
+mche_75223,materiais,madeira|palha
+mdia_33830,material-tecnica-3,porcelana|tinta
+mrsj_20705,material-3,madeira|metal
+mcha_35193,materiais_tecnicas-2,tecido
+mcbc_11656,material,madeira|metal
+minc_232335,material,
+mcha_20020,materiais_tecnicas-2,porcelana
+mcha_19493,materiais_tecnicas-2,porcelana
+minc_148443,material,metal
+mrco_36649,material-9,metal|metal|vidro
+mche_68343,materiais,cerâmica|pó de ouro
+mrco_35901,material-9,metal|madeira|tinta|vidro
+mche_59710,materiais,metal
+minc_185591,material,madeira
+mhna_162921,material,metal
+mche_60007,materiais,metal
+minc_82992,material,metal|tinta|vidro
+mcbc_9498,material,madeira|palha
+mche_72398,materiais,vidro
+mrsj_23572,material-3,madeira|palha
+minc_162603,material,metal
+mhna_166099,material,porcelana
+mdia_33881,material-tecnica-3,metal
+mche_47660,materiais,cerâmica|pó de ouro
+minc_207830,material,madeira|fibra têxtil
+mrco_36239,material-9,madeira
+mche_45199,materiais,metal|vidro
+mdia_31278,material-tecnica-3,madeira|palha
+mche_53083,materiais,cerâmica|pó de ouro
+mhna_168096,material,vidro
+mdia_32314,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mche_74295,materiais,gesso|madeira|pó de ouro
+mcha_19090,materiais_tecnicas-2,porcelana
+mhna_163244,material,metal
+minc_39549,material,madeira|metal|tinta
+minc_85220,material,madeira|tinta
+mrco_36581,material-9,metal|madeira|tinta
+minc_228547,material,
+mche_68433,materiais,cerâmica|pó de ouro
+mcbc_10494,material,couro|madeira|palha
+minc_100020,material,madeira
+minc_70355,material,madeira
+mche_59173,materiais,metal
+minc_233251,material,
+minc_146913,material,palha|madeira
+mche_53505,materiais,cerâmica|pó de ouro|tinta
+mcbc_10643,material,metal
+minc_140680,material,metal|tinta
+mche_69898,materiais,madeira|palha
+mrco_36474,material-9,madeira|tinta
+mban_3449,material,madeira
+mche_49784,materiais,metal
+mcha_19338,materiais_tecnicas-2,porcelana
+mban_2506,material,madeira
+mche_50469,materiais,madeira|palha
+mche_63068,materiais,cerâmica|pó de ouro
+mche_56482,materiais,metal
+masb_61987,material,madeira
+mcpr_24819,material,madeira|metal
+mhna_166419,material,porcelana
+mche_44927,materiais,metal|vidro
+minc_22110,material,madeira|couro|metal
+mcha_21932,materiais_tecnicas-2,porcelana
+minc_225875,material,
+mche_60305,materiais,metal
+mche_48678,materiais,cerâmica|pó de ouro
+minc_37510,material,madeira|metal|tinta
+masb_61894,material,madeira
+mche_51991,materiais,madeira|mármore
+mban_2924,material,madeira
+mcbc_11638,material,madeira|metal
+minc_41569,material,madeira
+minc_111203,material,metal
+mche_65777,materiais,cerâmica|pó de ouro
+minc_163255,material,metal
+mche_72570,materiais,vidro
+mche_52024,materiais,metal
+mche_60959,materiais,madeira|palha
+mban_5156,material,madeira|fibra
+minc_187378,material,madeira
+mche_52873,materiais,cerâmica|pó de ouro
+mcha_18687,materiais_tecnicas-2,porcelana
+mcha_27962,materiais_tecnicas-2,vidro
+mrsj_24204,material-3,madeira|tinta
+mche_58304,materiais,metal
+mche_74786,materiais,madeira|palha
+mcha_24380,materiais_tecnicas-2,porcelana
+mche_54503,materiais,cerâmica|pó de ouro
+mhna_167735,material,metal
+mdia_30964,material-tecnica-3,metal
+mche_63667,materiais,cerâmica|pó de ouro
+mche_48066,materiais,madeira|palha
+minc_172147,material,couro|metal|madeira
+minc_174657,material,metal|madeira
+minc_105802,material,argila|esmalte|verniz
+minc_228776,material,
+mcpr_33403,material,madeira|metal
+mrsj_23803,material-3,folha de ouro|madeira|metal|tinta
+mche_64778,materiais,cerâmica|pó de ouro|tinta
+mcha_26683,materiais_tecnicas-2,vidro
+masb_51923,material,metal|plástico
+mcha_27505,materiais_tecnicas-2,vidro
+mche_74241,materiais,gesso|madeira|pó de ouro
+minc_230583,material,
+mche_43191,materiais,metal
+minc_92354,material,metal|vidro
+minc_39165,material,metal|madeira
+mche_40490,materiais,madeira|palha
+mche_69963,materiais,madeira|palha
+mcha_15296,materiais_tecnicas-2,madeira
+minc_163415,material,metal
+mche_47822,materiais,madeira
+mche_64287,materiais,vidro|gesso|madeira|pó de ouro
+minc_140725,material,metal,tinta
+mdia_31992,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+minc_193028,material,madeira
+mcbc_10071,material,argila
+mche_76072,materiais,madeira|pó de ouro
+mche_43598,materiais,cerâmica|pó de ouro|tinta
+mcha_25110,materiais_tecnicas-2,porcelana
+minc_72548,material,metal|madeira|tinta
+mcpr_36078,material,metal|madeira|tinta
+mcha_25140,materiais_tecnicas-2,porcelana
+mche_71153,materiais,madeira|metal|palha
+mche_43097,materiais,metal
+mche_54743,materiais,cerâmica|pó de ouro|tinta
+minc_225605,material,
+mrco_35899,material-9,folha de ouro|madeira|tinta
+minc_35633,material,madeira|pedra|tinta
+mcha_23194,materiais_tecnicas-2,porcelana
+mrsj_22668,material-3,madeira|palha
+mche_45480,materiais,madeira|palha
+mcpr_44137,material,madeira|metal
+minc_141210,material,metal|tinta
+minc_229431,material,
+mcbc_9452,material,vidro
+mrco_36179,material-9,metal
+mche_75057,materiais,madeira|palha
+minc_163295,material,metal
+mche_68976,materiais,cerâmica|pó de ouro
+mban_14308,material,madeira|fibra
+mdia_31681,material-tecnica-3,madeira
+mche_43566,materiais,cerâmica|pó de ouro|tinta
+mcbc_9556,material,metal
+mche_73300,materiais,cerâmica|pó de ouro|tinta
+mche_67941,materiais,madeira|mármore
+mche_60247,materiais,metal
+mban_2017,material,madeira
+mcpr_35017,material,metal|madeira|fibra têxtil
+mche_58664,materiais,metal
+minc_161776,material,madeira
+mche_49843,materiais,metal
+minc_110145,material,metal
+mcha_22048,materiais_tecnicas-2,porcelana
+mrsj_23840,material-3,folha de ouro|madeira|metal|tinta
+mrsj_22463,material-3,madeira|palha
+mban_5674,material,argila
+minc_17873,material,madeira
+mche_69800,materiais,cerâmica|pó de ouro
+mche_64877,materiais,metal|vidro
+mrco_35941,material-9,madeira|palinha
+mcha_22879,materiais_tecnicas-2,porcelana
+minc_226005,material,
+mche_73125,materiais,cerâmica|pó de ouro
+mcbc_11660,material,madeira|metal
+mche_41104,materiais,madeira|metal|palha
+mrsj_21764,material-3,madeira
+mrsj_20787,material-3,madeira
+minc_226092,material,
+mche_72041,materiais,metal|vidro
+mdia_32011,material-tecnica-3,metal
+mrsj_21273,material-3,madeira
+minc_227162,material,
+mche_67777,materiais,cerâmica|pó de ouro
+mche_45951,materiais,madeira
+minc_141870,material,metal|tinta
+mdia_31525,material-tecnica-3,madeira|palha
+minc_99787,material,madeira
+mdia_31652,material-tecnica-3,folha de ouro|madeira|pedra|tinta|vidro
+minc_127787,material,madeira|palha|madeira
+mcha_47319,materiais_tecnicas-2,vidro
+mcha_37884,materiais_tecnicas-2,metal|vidro
+minc_140064,material,metal|tinta
+mche_63821,materiais,vidro|metal
+mban_4805,material,madeira|fibra
+mabo_504,material,madrepérola|metal
+mche_59887,materiais,metal
+minc_192536,material,madeira|tinta
+mcbc_11440,material,resina|vidro
+mche_73242,materiais,cerâmica|pó de ouro|tinta
+mche_62760,materiais,cerâmica|pó de ouro
+mban_5118,material,madeira|fibra
+minc_124851,material,metal
+minc_111250,material,metal
+minc_42859,material,madeira|tinta
+mche_69863,materiais,madeira|palha
+mrsj_20340,material-3,madeira
+mrsj_27849,material-3,folha de ouro|porcelana|tinta
+minc_124172,material,metal|madeira
+mche_47157,materiais,madeira|palha
+mche_54929,materiais,cerâmica
+minc_204871,material,palha|madeira
+mche_42187,materiais,madeira|palha
+mche_55784,materiais,cerâmica|pó de ouro
+minc_43613,material,metal|madeira|tinta
+minc_21377,material,metal|vidro
+mche_74651,materiais,madeira|metal|palha
+minc_221545,material,argila|esmalte|ouro
+mche_56180,materiais,metal|vidro
+minc_184186,material,metal|madeira
+mche_45267,materiais,metal|vidro
+minc_206036,material,madeira|metal
+mche_51552,materiais,madeira|palha
+minc_112615,material,metal
+mrco_35959,material-9,madeira|palinha
+mche_42128,materiais,linha|tecido
+mche_51784,materiais,madeira|palha
+mban_13070,material,madeira
+mche_53353,materiais,cerâmica|pó de ouro
+mcbc_9216,material,madeira|palha
+minc_39297,material,metal|madeira|tinta
+minc_172817,material,madeira|metal|tinta
+mche_65047,materiais,metal|vidro
+minc_233489,material,
+minc_189259,material,madeira|palha|madeira
+mour_5687,material-tecnica-3,metal|madeira
+mche_63098,materiais,cerâmica|pó de ouro
+minc_231169,material,
+minc_231742,material,
+mrco_36011,material-9,madeira|palinha
+mcbc_9530,material,madeira|metal|vidro
+mche_47960,materiais,madeira|palha
+mche_57373,materiais,cerâmica|pó de ouro|tinta
+mhna_163856,material,metal
+minc_110004,material,metal
+masb_61801,material,madeira
+minc_141034,material,metal|tinta
+mban_10187,material,madeira
+mcha_18997,materiais_tecnicas-2,porcelana
+mhna_167998,material,metal
+minc_155936,material,metal
+minc_161600,material,madeira|tinta
+minc_187210,material,pedra-sabão
+mdia_31139,material-tecnica-3,madeira|palha
+mcha_18904,materiais_tecnicas-2,porcelana
+mcbc_9234,material,madeira|metal
+masb_49091,material,madeira|metal
+minc_207777,material,madeira|fibra têxtil
+mcpr_45071,material,metal
+mche_51683,materiais,vidro
+mcpr_44750,material,metal
+mche_51240,materiais,cerâmica|pó de ouro
+minc_39737,material,madeira
+mche_53821,materiais,cerâmica|pó de ouro
+minc_70608,material,madeira
+mcha_27740,materiais_tecnicas-2,vidro
+mcbc_10893,material,madeira|palha
+minc_99560,material,madeira
+mrco_35967,material-9,madeira|palinha
+minc_205719,material,madeira
+mcha_15114,materiais_tecnicas-2,madeira
+mche_76527,materiais,metal
+mcha_22106,materiais_tecnicas-2,porcelana
+minc_46710,material,metal
+mrco_36273,material-9,madeira
+mabo_820,material,argila
+mrsj_22914,material-3,madeira|palha
+mcpr_45129,material,metal
+mrco_35772,material-9,madeira|tinta
+mcpr_35988,material,metal|madeira|metal
+mche_50664,materiais,vidro
+mche_75416,materiais,madeira|mármore
+mour_5227,material-tecnica-3,couro lavrado|madeira|metal
+mour_6023,material-tecnica-3,madeira
+minc_82053,material,madeira|tinta
+mche_60335,materiais,metal
+mche_64037,materiais,vidro|metal
+minc_231398,material,
+mche_60993,materiais,madeira
+minc_12146,material,metal
+mcbc_11710,material,madeira|metal
+mcbc_10747,material,vidro
+mche_52537,materiais,cerâmica|pó de ouro
+mche_72657,materiais,vidro
+minc_82506,material,metal|madeira|tinta
+mche_58754,materiais,metal
+mche_42815,materiais,metal
+mche_42420,materiais,metal
+mche_56775,materiais,madeira|palha
+minc_184472,material,metal|madeira|metal
+mche_63791,materiais,cerâmica|pó de ouro
+minc_141430,material,metal|tinta
+mche_46898,materiais,vidro|metal|tinta|pó de ouro
+mche_61277,materiais,metal
+mche_62124,materiais,madeira|palha
+mche_53143,materiais,cerâmica|pó de ouro
+minc_31875,material,argila|papel
+minc_5958,material,madeira|metal|madeira
+mche_41140,materiais,cerâmica|pó de ouro
+mrco_36009,material-9,madeira|palinha
+mrsj_21193,material-3,madeira
+minc_18617,material,madeira|metal
+minc_141826,material,metal|tinta
+minc_30839,material,madeira|ouro
+minc_233066,material,pedra|conchas|madeira
+minc_188321,material,madeira
+mche_44995,materiais,metal|vidro
+mdia_31656,material-tecnica-3,madeira|papel|tinta|pedra
+minc_183528,material,metal|madeira
+mche_63280,materiais,cerâmica|pó de ouro
+minc_204292,material,metal|madeira
+minc_231472,material,
+minc_35759,material,madeira|pedra|tinta
+mche_41554,materiais,madeira|palha
+mcbc_9464,material,madeira|vidro
+mche_76197,materiais,madeira|pó de ouro
+mrsj_23447,material-3,folha de ouro|porcelana|tinta
+mche_61836,materiais,cerâmica|pó de ouro|tinta
+minc_105312,material,argila|esmalte|verniz
+mrsj_26515,material-3,madeira|tinta
+mrsj_18473,material-3,pedra
+minc_171862,material,madeira
+mche_58903,materiais,metal
+minc_46506,material,metal
+minc_110098,material,metal
+mcpr_44655,material,metal
+mche_62918,materiais,cerâmica|pó de ouro
+minc_201140,material,madeira
+minc_184702,material,couro|madeira|tinta
+mche_41831,materiais,madeira|palha
+mcbc_11484,material,argila|vidro|madeira|metal
+mrsj_23711,material-3,madeira|metal|tinta
+mdia_31518,material-tecnica-3,madeira|palha
+minc_232874,material,
+mcbc_9923,material,mármore|madeira
+mche_70098,materiais,madeira|palha
+minc_82143,material,madeira|tinta
+minc_70499,material,madeira|metal|madeira
+mcpr_37916,material,metal
+minc_222944,material,madeira|verniz
+minc_116723,material,metal
+mdia_33278,material-tecnica-3,madeira|metal|policromia|tinta
+mcbc_11644,material,madeira|metal
+mche_47566,materiais,cerâmica|pó de ouro
+mhna_163535,material,metal
+minc_146589,material,metal|metal
+mche_74956,materiais,madeira|palha
+mabo_502,material,metal
+minc_42310,material,madeira|marfim
+mche_63635,materiais,cerâmica|pó de ouro
+mrsj_21355,material-3,madeira
+mche_72599,materiais,vidro
+mrco_36563,material-9,metal|madeira|tinta
+minc_34106,material,madeira|ouro
+minc_39598,material,metal|madeira|tinta
+mche_57190,materiais,metal
+mcha_15794,materiais_tecnicas-2,madeira|palha
+mcbc_10841,material,vidro
+mcbc_11674,material,madeira|metal
+mche_58634,materiais,metal
+mdia_34427,material-tecnica-3,madeira
+mdia_31885,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mrsj_20545,material-3,madeira
+minc_110698,material,metal
+minc_171804,material,madeira|purpurina|tinta
+mcha_25311,materiais_tecnicas-2,vidro
+mdia_33765,material-tecnica-3,porcelana|tinta
+minc_116911,material,metal
+minc_74507,material,madeira
+mche_63914,materiais,vidro|metal
+mcbc_11427,material,resina|vidro
+mche_74187,materiais,gesso|madeira|pó de ouro
+minc_228209,material,
+mcbc_10843,material,vidro
+mcbc_10554,material,argila|vidro|madeira|metal
+minc_116864,material,metal
+mche_63008,materiais,cerâmica|pó de ouro
+mche_58694,materiais,metal
+mcha_20648,materiais_tecnicas-2,porcelana
+masb_61830,material,madeira
+minc_233207,material,madeira|pedra|tinta
+minc_100304,material,metal|madeira|tinta
+mche_45696,materiais,cerâmica|pó de ouro
+minc_189209,material,madeira|palha
+mcpr_36892,material,argila
+mban_2966,material,madeira
+mche_44315,materiais,metal|vidro
+minc_99377,material,madeira
+masb_49154,material,metal
+mche_66153,materiais,cerâmica|pó de ouro
+minc_112401,material,metal
+minc_224328,material,
+mcbc_10470,material,argila|vidro|madeira|metal
+mrsj_28335,material-3,folha de ouro|tinta|vidro
+mche_55586,materiais,cerâmica|pó de ouro
+mche_56544,materiais,cerâmica|pó de ouro
+mcha_28824,materiais_tecnicas-2,metal
+mche_73755,materiais,gesso|madeira|pó de ouro
+minc_185488,material,madeira
+minc_40999,material,madeira|ouro
+minc_46961,material,argila|esmalte|ouro
+minc_182584,material,metal|madeira|metal
+mban_5902,material,argila
+minc_175312,material,madeira
+mche_72275,materiais,vidro
+mrco_36121,material-9,esmalte|porcelana|tinta
+minc_183369,material,madeira|tinta
+mcha_24469,materiais_tecnicas-2,porcelana
+mcbc_11652,material,madeira|metal
+mcbc_10763,material,vidro
+minc_5085,material,madeira|metal
+mche_74457,materiais,gesso|madeira|pó de ouro
+mdia_31590,material-tecnica-3,metal
+mdia_33775,material-tecnica-3,porcelana|tinta
+minc_71182,material,madeira|tinta
+mcha_18873,materiais_tecnicas-2,porcelana
+mcpr_36768,material,argila|tinta
+mcha_15957,materiais_tecnicas-2,madeira|palha
+minc_42680,material,madeira|osso|tinta
+minc_186941,material,metal|madeira
+minc_222990,material,madeira
+minc_26052,material,metal
+mche_52657,materiais,cerâmica|pó de ouro
+minc_158674,material,madeira
+minc_224928,material,
+mrsj_16589,material-3,madeira|tinta
+mche_45029,materiais,metal|vidro
+mrsj_28069,material-3,
+mche_73809,materiais,gesso|madeira|pó de ouro
+mcpr_36923,material,argila
+mrsj_21889,material-3,madeira
+mrsj_23365,material-3,madeira|palha
+mcha_25791,materiais_tecnicas-2,porcelana
+minc_173647,material,metal|madeira|tinta
+mche_58784,materiais,metal
+minc_116770,material,metal
+minc_141254,material,metal|tinta
+minc_232837,material,
+minc_34768,material,madeira|pedra|tinta
+mche_65149,materiais,metal|vidro
+minc_87779,material,metal
+mrco_36141,material-9,vidro|metal|metal
+masb_48904,material,metal
+mcbc_11664,material,madeira|metal
+masb_62172,material,madeira
+mche_75922,materiais,madeira|pó de ouro
+mabo_757,material,metal|vidro
+minc_140372,material,metal|tinta
+mche_58873,materiais,metal
+mcpr_37636,material,metal
+minc_41682,material,fibra têxtil|madeira|tinta
+mabo_817,material,argila
+mrco_36233,material-9,metal
+mcbc_10195,material,argila|tinta
+mrco_36435,material-9,madeira|tinta
+mcha_23113,materiais_tecnicas-2,porcelana
+mcha_27559,materiais_tecnicas-2,vidro
+mche_59113,materiais,metal
+mche_54167,materiais,cerâmica|pó de ouro
+minc_231590,material,
+mcha_20714,materiais_tecnicas-2,porcelana
+minc_73698,material,madeira|palha
+mche_67425,materiais,madeira|palha
+mabo_488,material,
+mhna_163467,material,metal
+minc_187486,material,madeira
+mche_61215,materiais,metal
+mche_67261,materiais,madeira|palha
+mdia_31903,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mrsj_24386,material-3,folha de ouro|madeira|metal|tinta
+mche_73512,materiais,gesso|madeira|pó de ouro
+minc_142134,material,metal|tinta
+mche_75947,materiais,madeira|pó de ouro
+mdia_31132,material-tecnica-3,madeira|palha
+minc_86667,material,madeira|purpurina|tinta
+mche_76222,materiais,metal
+mche_60925,materiais,madeira|palha
+mhna_162855,material,metal
+mcbc_9432,material,madeira|palha
+mhna_163371,material,metal
+minc_141474,material,metal|tinta
+mche_52597,materiais,cerâmica|pó de ouro
+mche_49267,materiais,metal
+minc_26101,material,metal
+mcha_21845,materiais_tecnicas-2,porcelana
+minc_11309,material,madeira
+mhna_166866,material,porcelana
+mcbc_10474,material,argila|vidro|madeira|metal
+mrsj_23242,material-3,madeira|palha
+mcpr_36108,material,metal|madeira
+minc_206403,material,metal|madeira
+minc_39825,material,metal|madeira
+mche_44042,materiais,madeira|palha
+minc_223314,material,
+mche_62158,materiais,cerâmica|pó de ouro|tinta
+mche_52717,materiais,cerâmica|pó de ouro
+mhna_166829,material,porcelana
+mcha_24260,materiais_tecnicas-2,porcelana
+mban_1504,material,madeira|metal
+minc_175365,material,madeira|metal
+minc_186669,material,madeira|palha
+mche_42785,materiais,metal
+mche_60217,materiais,metal
+mcbc_9482,material,couro|madeira|metal|palha
+mrco_35957,material-9,madeira|palinha
+minc_73608,material,madeira|palha
+mche_60037,materiais,metal
+mcbc_10447,material,madeira|metal|papel|tinta|vidro
+mcha_24170,materiais_tecnicas-2,porcelana
+minc_41042,material,opalina
+minc_9742,material,metal|madeira
+mche_45233,materiais,metal|vidro
+mdia_33770,material-tecnica-3,porcelana|tinta
+mche_41069,materiais,madeira|palha
+minc_221479,material,argila|esmalte|ouro
+minc_145686,material,pedra-sabão
+minc_72602,material,metal|madeira|tinta
+mrco_36147,material-9,esmalte|porcelana|tinta
+minc_208142,material,madeira|palha|madeira
+mche_49417,materiais,metal
+mcbc_10831,material,vidro
+minc_162439,material,metal
+minc_229391,material,
+mche_56150,materiais,cerâmica|pó de ouro
+minc_189072,material,madeira|osso
+minc_173949,material,madeira
+mche_49725,materiais,metal
+minc_47557,material,argila|esmalte
+minc_185757,material,madeira
+minc_99673,material,madeira
+mche_46991,materiais,madeira|palha
+mche_66306,materiais,cerâmica|pó de ouro
+mche_48933,materiais,metal
+mche_49297,materiais,metal
+mcha_20615,materiais_tecnicas-2,porcelana
+mhna_160327,material,melamina
+mcbc_10845,material,vidro
+mche_71948,materiais,metal
+mrsj_20217,material-3,madeira
+mche_74538,materiais,gesso|madeira|pó de ouro
+minc_168524,material,metal|madeira
+mcha_19524,materiais_tecnicas-2,porcelana
+minc_111697,material,metal
+mrco_36472,material-9,madeira|tinta
+mrco_35895,material-9,folha de ouro|madeira|tinta
+mcha_26844,materiais_tecnicas-2,vidro
+mcbc_10895,material,madeira|palha
+mdia_31941,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+minc_228163,material,
+mcbc_11502,material,argila|vidro|metal
+mban_13109,material,couro|madeira
+mche_61934,materiais,cerâmica|pó de ouro|tinta
+mcha_20516,materiais_tecnicas-2,porcelana
+mban_2628,material,madeira
+minc_29269,material,madeira|palha
+minc_232175,material,
+minc_231362,material,
+minc_203180,material,madeira
+mcha_23395,materiais_tecnicas-2,porcelana
+mcbc_10805,material,madeira|metal|tinta|vidro
+minc_124439,material,metal
+mrco_36089,material-9,madeira
+mrsj_27981,material-3,folha de ouro|porcelana|tinta
+mche_51586,materiais,madeira|palha
+mban_14266,material,madeira|fibra
+minc_233412,material,
+minc_111819,material,metal
+mrsj_23938,material-3,folha de ouro|madeira|metal|tinta
+mche_63975,materiais,vidro|metal
+mcbc_10869,material,madeira|metal
+mcha_31488,materiais_tecnicas-2,argila
+minc_23829,material,metal|madeira
+mcha_20747,materiais_tecnicas-2,porcelana
+minc_37643,material,metal|madeira
+mche_69374,materiais,cerâmica|pó de ouro
+mban_5040,material,madeira|fibra
+minc_148577,material,metal
+minc_205880,material,metal|madeira
+mcbc_11510,material,metal|tinta
+mche_44382,materiais,metal|vidro
+mrsj_23406,material-3,madeira|palha
+minc_174710,material,metal|madeira
+mche_48100,materiais,metal|madeira
+minc_191785,material,madeira|tinta
+mche_50306,materiais,madeira|palha
+mcpr_37978,material,metal
+mche_54320,materiais,metal
+minc_223081,material,madeira
+mabo_826,material,opalina
+mhna_166699,material,porcelana
+mrsj_24010,material-3,madeira|metal|tinta
+minc_110470,material,metal
+mcha_24410,materiais_tecnicas-2,porcelana
+mcha_47919,materiais_tecnicas-2,vidro
+mche_57859,materiais,metal
+mcha_27586,materiais_tecnicas-2,vidro
+minc_162237,material,metal
+minc_183840,material,madeira
+minc_224158,material,
+minc_182873,material,madeira
+mche_72208,materiais,vidro
+mche_48574,materiais,metal|madeira
+mche_68616,materiais,cerâmica|pó de ouro
+minc_235443,material,madeira|tinta|vidro
+mche_41928,materiais,metal
+minc_9644,material,madeira
+mche_71631,materiais,vidro
+minc_35703,material,madeira|pedra|tinta
+mche_55088,materiais,cerâmica|pó de ouro|tinta
+minc_208400,material,madeira|palha
+minc_90014,material,madeira
+mcbc_10855,material,vidro
+mche_47350,materiais,vidro
+minc_140504,material,metal|tinta
+mcha_15827,materiais_tecnicas-2,madeira|palha
+mche_57610,materiais,madeira|mármore|metal
+mche_61184,materiais,metal
+mcbc_11458,material,madeira|mármore
+minc_71139,material,metal|madeira|tinta
+mhna_166972,material,porcelana
+minc_124891,material,metal
+mrco_36452,material-9,madeira|tinta
+mche_55968,materiais,cerâmica|pó de ouro
+mdia_31901,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mcpr_37296,material,argila|tinta
+minc_141166,material,metal|tinta
+mche_62696,materiais,vidro
+mche_64006,materiais,vidro|metal
+minc_91162,material,metal
+mche_74685,materiais,madeira|metal|palha
+mhna_166512,material,porcelana
+mcbc_11099,material,madeira|palha
+mcbc_10823,material,argila
+mcha_20876,materiais_tecnicas-2,porcelana
+mcpr_45570,material,metal
+mrco_36635,material-9,metal|vidro
+mrsj_21152,material-3,madeira|metal
+mche_61904,materiais,cerâmica|pó de ouro
+mcpr_32758,material,metal
+mcha_22687,materiais_tecnicas-2,porcelana
+mche_52116,materiais,metal
+mcbc_10171,material,madeira
+minc_166097,material,madeira|tinta
+minc_31456,material,madeira|metal|tinta
+minc_141386,material,metal|tinta
+mche_75847,materiais,madeira|pó de ouro
+minc_128254,material,madeira|palha
+mrsj_26962,material-3,madeira
+mrsj_20134,material-3,madeira
+mche_60187,materiais,metal
+minc_30711,material,madeira|metal|tinta
+mche_76498,materiais,cerâmica|pó de ouro
+mabo_492,material,metal
+masb_61956,material,madeira
+mhna_160414,material,melamina
+mrco_36007,material-9,madeira|palinha
+mcpr_35654,material,metal|madeira|tinta
+mcbc_9254,material,argila|vidro|metal
+minc_233295,material,
+mche_45669,materiais,tecido
+mdia_33893,material-tecnica-3,metal
+mcbc_9500,material,madeira|palha
+mcbc_9210,material,madeira|palha
+mche_47058,materiais,madeira|palha
+mcbc_11692,material,madeira|metal
+minc_141782,material,metal|tinta
+mcpr_35047,material,metal|madeira|tinta
+minc_209054,material,metal|madeira
+mcbc_10369,material,linha|tecido
+mche_43320,materiais,metal
+mche_64646,materiais,cerâmica|pó de ouro|tinta
+masb_49122,material,metal
+minc_70752,material,madeira|metal
+minc_175626,material,madeira
+mche_67458,materiais,vidro
+mche_57978,materiais,metal
+minc_110790,material,metal
+mcbc_10827,material,vidro
+mche_75351,materiais,madeira|mármore
+mrsj_23324,material-3,madeira|palha
+mche_73944,materiais,gesso|madeira|pó de ouro
+mrsj_20907,material-3,madeira
+mrsj_22545,material-3,madeira|palha
+minc_174607,material,metal|madeira
+minc_87625,material,metal
+mche_59857,materiais,metal
+mdia_31149,material-tecnica-3,madeira
+mcha_35272,materiais_tecnicas-2,tecido
+mban_4922,material,madeira
+mcpr_37110,material,argila
+minc_175866,material,madeira|palha
+minc_31499,material,madeira|metal|tinta
+minc_25476,material,metal|madeira
+minc_140284,material,metal|tinta
+mrco_36836,material-9,madeira|metal
+minc_141342,material,metal|tinta
+mdia_32041,material-tecnica-3,marfim
+mcha_19369,materiais_tecnicas-2,porcelana
+mcha_24320,materiais_tecnicas-2,porcelana
+minc_139876,material,metal|purpurina|tinta
+mcpr_45157,material,metal
+mche_74820,materiais,madeira|palha
+minc_176119,material,metal|madeira|tinta
+mcha_28093,materiais_tecnicas-2,vidro
+mche_46206,materiais,linha de algodão|linho
+minc_25625,material,madeira
+mche_56872,materiais,madeira|mármore
+minc_186719,material,madeira|palha
+mche_55340,materiais,cerâmica|pó de ouro
+minc_230542,material,
+minc_186383,material,madeira|palha
+mche_63190,materiais,cerâmica|pó de ouro
+mhna_162823,material,metal
+mche_52627,materiais,cerâmica|pó de ouro
+mche_59680,materiais,metal
+mcha_27765,materiais_tecnicas-2,vidro
+mban_14346,material,argila
+mcpr_38009,material,metal
+mche_73095,materiais,cerâmica|pó de ouro|tinta
+mche_49357,materiais,metal
+minc_96820,material,vidro
+mabo_829,material,opalina
+mban_5233,material,madeira|fibra
+mche_43382,materiais,metal
+mrsj_16677,material-3,metal|tinta
+mche_63373,materiais,madeira|palha
+mour_5689,material-tecnica-3,metal
+minc_222789,material,madeira|metal|tinta
+mche_64352,materiais,vidro|gesso|madeira|pó de ouro
+mcbc_10825,material,vidro
+mche_68556,materiais,cerâmica|pó de ouro
+mche_54991,materiais,cerâmica|pó de ouro
+minc_163335,material,metal
+mcha_24138,materiais_tecnicas-2,porcelana
+mdia_31758,material-tecnica-3,madeira|metal
+minc_229550,material,
+mche_50760,materiais,cerâmica|pó de ouro|tinta
+mche_47789,materiais,madeira|palha
+mche_51360,materiais,cerâmica|pó de ouro
+mdia_31859,material-tecnica-3,madeira
+mabo_482,material,argila|metal
+mche_51818,materiais,madeira|palha
+minc_47100,material,argila|esmalte
+mdia_33908,material-tecnica-3,metal
+mhna_166668,material,porcelana
+minc_175817,material,madeira|palha
+minc_188957,material,madeira|palha
+mrsj_23532,material-3,madeira|palha
+mrsj_22504,material-3,madeira|palha
+mche_62442,materiais,cerâmica|pó de ouro
+mcha_23275,materiais_tecnicas-2,porcelana
+mche_64451,materiais,vidro|gesso|madeira|pó de ouro
+minc_171373,material,madeira
+minc_187428,material,metal|madeira
+minc_127736,material,madeira|palha|madeira
+mcbc_11662,material,madeira|metal
+minc_188217,material,madeira
+mdia_31587,material-tecnica-3,metal
+minc_100539,material,madeira|metal|tinta
+mcha_23221,materiais_tecnicas-2,porcelana
+mche_51484,materiais,vidro
+mche_53791,materiais,cerâmica|pó de ouro
+mche_49327,materiais,metal
+minc_172268,material,madeira|palha
+mche_51620,materiais,vidro
+minc_186609,material,madeira|palha|madeira
+mche_45825,materiais,metal
+mche_74052,materiais,gesso|madeira|pó de ouro
+mche_66123,materiais,cerâmica|pó de ouro
+minc_184856,material,madeira
+minc_161688,material,madeira|tinta
+mcbc_11702,material,madeira|metal
+mche_58334,materiais,metal
+minc_88666,material,madeira
+mrco_37108,material-9,metal|vidro
+mban_5826,material,argila
+mche_49602,materiais,metal
+mche_46689,materiais,metal
+mrco_36275,material-9,madeira
+masb_63280,material,metal
+mche_40588,materiais,metal
+mche_68282,materiais,cerâmica|pó de ouro
+mcbc_9496,material,madeira|palha
+minc_148620,material,metal
+minc_10215,material,metal|metal|vidro
+mcha_15178,materiais_tecnicas-2,madeira|metal
+mrsj_28025,material-3,
+mche_65081,materiais,metal|vidro
+mche_74133,materiais,gesso|madeira|pó de ouro
+minc_184579,material,madeira
+mche_74484,materiais,gesso|madeira|pó de ouro
+mche_55021,materiais,cerâmica|pó de ouro|tinta
+minc_187892,material,madeira
+minc_175470,material,madeira
+mcha_21368,materiais_tecnicas-2,porcelana
+mche_53053,materiais,cerâmica|pó de ouro
+mcbc_9472,material,couro|madeira|metal|palha
+minc_36400,material,metal|madeira
+mrco_36139,material-9,vidro
+minc_208858,material,metal|madeira
+mcbc_11666,material,madeira|metal
+mrco_36850,material-9,folha de ouro|madeira|metal
+mche_43159,materiais,metal
+mche_46959,materiais,metal
+mche_44688,materiais,metal|vidro
+minc_111658,material,metal
+mhna_163751,material,metal
+minc_232549,material,madeira|metal
+mche_55845,materiais,cerâmica|pó de ouro
+mche_61028,materiais,metal
+mcha_15689,materiais_tecnicas-2,madeira|palha
+mcha_21335,materiais_tecnicas-2,porcelana
+mhna_168229,material,vidro
+mcha_18935,materiais_tecnicas-2,porcelana
+mche_59768,materiais,metal
+mcbc_9486,material,madeira|palha
+mche_45611,materiais,vidro
+mcbc_9536,material,couro|madeira|palha
+mcha_21038,materiais_tecnicas-2,porcelana
+mrsj_20666,material-3,madeira
+mdia_34321,material-tecnica-3,madeira|palha
+mcha_15862,materiais_tecnicas-2,madeira|palha
+minc_188647,material,madeira|palha
+mche_42695,materiais,metal
+mhna_163890,material,metal
+mche_71348,materiais,linha de algodão|linho
+minc_174049,material,madeira|metal|madeira
+mche_54533,materiais,cerâmica|pó de ouro
+mche_48503,materiais,metal|madeira|mármore|vidro
+mche_48030,materiais,madeira|palha
+mcha_14946,materiais_tecnicas-2,madeira|mármore|metal
+mrsj_23037,material-3,madeira|palha
+minc_15834,material,metal
+mche_54072,materiais,metal
+minc_141914,material,metal|tinta
+mban_4550,material,madeira
+minc_168462,material,metal|madeira
+minc_85130,material,madeira|tinta
+mche_45063,materiais,metal|vidro
+mche_43694,materiais,cerâmica|pó de ouro|tinta
+mche_42290,materiais,metal
+mcpr_36830,material,argila
+minc_100065,material,madeira
+mcha_23005,materiais_tecnicas-2,porcelana
+mche_65840,materiais,cerâmica|pó de ouro
+mcha_24290,materiais_tecnicas-2,porcelana
+minc_175161,material,madeira
+mdia_31987,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mche_64418,materiais,vidro|gesso|madeira|pó de ouro
+minc_42633,material,madeira|metal|metal
+mcpr_44103,material,madeira|metal
+minc_82641,material,madeira|tinta
+minc_18042,material,metal|vidro
+mrco_36243,material-9,madeira|metal
+minc_41989,material,metal|madeira
+mche_42452,materiais,metal
+mrsj_20584,material-3,madeira
+mche_61519,materiais,cerâmica|pó de ouro
+mche_60824,materiais,madeira
+minc_223421,material,
+mcbc_10743,material,vidro
+minc_29357,material,madeira|palha
+minc_41233,material,couro|metal|madeira
+mche_58068,materiais,metal
+mcha_18656,materiais_tecnicas-2,porcelana
+mdia_33268,material-tecnica-3,madeira|metal|policromia|tinta
+minc_110423,material,metal
+mche_64221,materiais,vidro|gesso|madeira|pó de ouro
+mche_63128,materiais,cerâmica|pó de ouro
+mche_44179,materiais,metal|vidro
+mche_53567,materiais,cerâmica|pó de ouro
+mrsj_16717,material-3,metal|tinta
+mche_75897,materiais,madeira|pó de ouro
+mcha_22019,materiais_tecnicas-2,porcelana
+mcbc_9202,material,madeira|metal|tecido
+mche_73566,materiais,gesso|madeira|pó de ouro
+mcbc_10739,material,vidro
+mban_4882,material,madeira|fibra
+minc_11948,material,metal
+minc_140814,material,metal|tinta
+minc_15920,material,metal
+mcha_22658,materiais_tecnicas-2,porcelana
+minc_123360,material,metal|metal
+minc_110933,material,metal
+minc_208956,material,metal|madeira
+mche_62858,materiais,cerâmica|pó de ouro
+minc_14904,material,madeira
+minc_34149,material,madeira|ouro
+mrsj_23283,material-3,madeira|palha
+mche_75772,materiais,madeira|pó de ouro
+mche_40169,materiais,metal
+minc_98271,material,metal
+mcpr_38189,material,metal|madeira
+mcbc_9456,material,madeira|mármore|metal|tinta|vidro
+mhna_163211,material,metal
+minc_228663,material,
+minc_70653,material,madeira
+minc_100491,material,metal|madeira|tinta
+mrco_35945,material-9,madeira|palinha
+mche_51853,materiais,madeira|palha
+mche_53731,materiais,cerâmica|pó de ouro
+mrco_35953,material-9,madeira|palinha
+mdia_32109,material-tecnica-3,madeira|palha
+minc_43263,material,madeira|tinta
+mche_62378,materiais,metal
+mche_72174,materiais,vidro
+mcha_22265,materiais_tecnicas-2,porcelana
+minc_224493,material,
+mche_58186,materiais,metal
+mche_68493,materiais,cerâmica|pó de ouro
+mche_48644,materiais,metal|madeira|mármore|vidro
+mche_61964,materiais,madeira|palha
+minc_141298,material,metal|tinta
+mcbc_10773,material,argila|tinta
+mcha_22978,materiais_tecnicas-2,porcelana
+mche_65507,materiais,cerâmica|pó de ouro
+mrsj_24067,material-3,folha de ouro|madeira|pedra|tinta|vidro
+masb_47283,material,metal
+mche_55556,materiais,cerâmica|pó de ouro
+mche_64809,materiais,metal|vidro
+mcha_19555,materiais_tecnicas-2,porcelana
+mche_76172,materiais,madeira|pó de ouro
+mche_70063,materiais,madeira|palha
+minc_99422,material,madeira
+mche_45547,materiais,vidro
+mcpr_37234,material,argila
+mcbc_10745,material,vidro
+minc_9843,material,madeira|metal
+minc_112279,material,metal
+mche_62888,materiais,cerâmica|pó de ouro
+mhna_159801,material,vidro
+mcha_18718,materiais_tecnicas-2,porcelana
+mcbc_10889,material,madeira|palha
+mcha_20812,materiais_tecnicas-2,porcelana
+mche_56710,materiais,metal
+mcbc_9466,material,madeira|metal
+mcbc_11642,material,madeira|metal
+minc_140460,material,metal|tinta
+mabo_501,material,metal
+mche_43976,materiais,metal|vidro
+masb_48837,material,metal
+minc_37466,material,madeira|tinta
+mcbc_10887,material,madeira|palha
+mche_46659,materiais,metal
+mrco_36129,material-9,esmalte|porcelana|tinta
+mche_60853,materiais,madeira|mármore
+mche_69224,materiais,cerâmica|pó de ouro
+mche_61616,materiais,cerâmica|pó de ouro
+minc_140152,material,metal|tinta
+mche_58574,materiais,metal
+mcha_19648,materiais_tecnicas-2,porcelana
+minc_20377,material,metal|madeira
+mche_43034,materiais,metal
+mche_67159,materiais,metal|vidro
+minc_87830,material,metal
+mche_64099,materiais,cerâmica|pó de ouro|tinta
+mche_58604,materiais,metal
+mrsj_20506,material-3,madeira
+mche_63697,materiais,cerâmica|pó de ouro
+mrco_35832,material-9,folha de ouro|madeira|tinta
+minc_183892,material,madeira|fibra têxtil|tinta
+minc_235306,material,
+minc_123506,material,metal|metal
+mcbc_10645,material,metal
+mche_71696,materiais,metal|vidro
+mcha_22187,materiais_tecnicas-2,porcelana
+mour_5253,material-tecnica-3,metal|madeira
+mcha_19431,materiais_tecnicas-2,porcelana
+minc_175730,material,madeira|palha
+minc_70563,material,madeira
+mdia_31306,material-tecnica-3,madeira|vidro
+minc_102145,material,metal
+minc_208640,material,madeira|metal
+mdia_31967,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mcha_35245,materiais_tecnicas-2,tecido
+mcha_32012,materiais_tecnicas-2,vidro
+mche_57312,materiais,vidro
+mche_68646,materiais,cerâmica|pó de ouro
+minc_12195,material,metal
+mcbc_10761,material,vidro
+mche_43725,materiais,cerâmica|pó de ouro|tinta
+mche_69133,materiais,cerâmica|pó de ouro|tinta
+minc_110980,material,metal
+mcha_24200,materiais_tecnicas-2,porcelana
+mche_73620,materiais,gesso|madeira|pó de ouro
+mhna_163276,material,metal
+mcbc_10077,material,argila
+mche_46870,materiais,linha de algodão|linho
+mban_1791,material,metal
+mche_61122,materiais,metal
+mcbc_9220,material,madeira|palha
+minc_123997,material,metal
+mche_64748,materiais,cerâmica|pó de ouro
+mche_66702,materiais,cerâmica|pó de ouro
+mcbc_11688,material,madeira|metal
+minc_10547,material,metal
+minc_168582,material,madeira
+minc_174303,material,metal|madeira
+mcha_14619,materiais_tecnicas-2,madeira
+mche_53445,materiais,cerâmica|pó de ouro
+minc_141694,material,metal|tinta
+mche_58215,materiais,metal
+mche_68736,materiais,cerâmica|pó de ouro
+mche_56362,materiais,metal
+mche_52084,materiais,metal
+minc_73412,material,metal|madeira
+mcbc_11680,material,madeira|metal
+mcha_30651,materiais_tecnicas-2,madeira|metal
+minc_80209,material,madeira|ouro
+mdia_31960,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mcbc_9226,material,madeira|metal
+minc_172219,material,madeira|palha
+minc_12097,material,metal
+mcbc_11115,material,madeira|metal|vidro
+minc_111440,material,metal
+mcbc_11640,material,madeira|metal
+mrsj_23877,material-3,folha de ouro|madeira|metal|tinta
+mche_56120,materiais,cerâmica|pó de ouro
+mcbc_10759,material,vidro
+minc_84056,material,argila|esmalte
+mche_67490,materiais,cerâmica|pó de ouro|tinta
+minc_205985,material,madeira
+mcha_25080,materiais_tecnicas-2,porcelana
+minc_127984,material,madeira|palha
+mche_41415,materiais,madeira|palha
+mban_1547,material,madeira|metal
+minc_33925,material,madeira|tinta
+mdia_33794,material-tecnica-3,argila||tinta
+mcha_18966,materiais_tecnicas-2,porcelana
+mcha_23032,materiais_tecnicas-2,porcelana
+mche_43849,materiais,cerâmica|pó de ouro|tinta
+minc_112483,material,metal
+minc_175262,material,madeira
+mour_5275,material-tecnica-3,madeira|metal
+mban_10227,material,madeira
+mcha_24440,materiais_tecnicas-2,porcelana
+mcbc_10087,material,argila
+mcbc_11151,material,argila|vidro|madeira|metal
+mrco_36633,material-9,metal
+mhna_164071,material,metal
+mche_70862,materiais,linha de algodão|linho
+minc_228510,material,
+minc_116679,material,metal
+mcbc_10490,material,madeira|metal|tinta
+mcbc_10281,material,madeira
+minc_31739,material,madeira|metal
+mrsj_15460,material-3,folha de ouro|porcelana|tinta
+minc_173795,material,metal|madeira
+mche_54009,materiais,madeira|mármore
+minc_43218,material,madeira|tinta
+mcbc_9434,material,argila|vidro|metal
+mche_52993,materiais,cerâmica|pó de ouro
+mban_5078,material,madeira|fibra
+mche_44790,materiais,metal|vidro
+minc_10437,material,metal|vidro
+minc_224111,material,
+mche_58993,materiais,metal
+mban_14799,material,metal
+minc_227567,material,
+mban_6020,material,madeira
+minc_42493,material,madeira|metal
+mrsj_28596,material-3,folha de ouro|porcelana|tinta
+mrco_36551,material-9,folha de ouro|madeira|tinta
+mcbc_11431,material,metal|tinta
+mche_49103,materiais,metal|vidro
+mche_47596,materiais,cerâmica|pó de ouro
+mrco_36511,material-9,madeira|palinha
+mcha_27532,materiais_tecnicas-2,vidro
+mche_52477,materiais,cerâmica|pó de ouro
+mche_68252,materiais,cerâmica|pó de ouro
+mcbc_10911,material,madeira|palha
+minc_209499,material,palha|madeira
+minc_148485,material,metal
+minc_72765,material,madeira
+mche_74079,materiais,gesso|madeira|pó de ouro
+minc_139735,material,metal|vidro
+mche_51450,materiais,vidro
+mcbc_9558,material,linha|tecido
+minc_162199,material,metal
+mche_63515,materiais,cerâmica|pó de ouro
+mche_42668,materiais,metal|vinhático
+minc_156040,material,madeira|ouro
+mrco_36484,material-9,madeira
+mche_42482,materiais,metal
+minc_140328,material,metal|tinta
+mhna_162724,material,metal
+mche_67682,materiais,madeira|palha
+minc_224416,material,
+mhna_167771,material,metal
+mhna_163019,material,metal
+mcbc_11676,material,madeira|metal
+mcbc_11682,material,madeira|metal
+minc_226866,material,
+mcbc_11109,material,madeira|metal|vidro
+mhna_163115,material,metal
+minc_172907,material,madeira
+mche_46018,materiais,linha de algodão|linho
+mcha_19927,materiais_tecnicas-2,porcelana
+mche_54289,materiais,metal
+minc_125209,material,madeira
+mrsj_22955,material-3,madeira|palha
+mcbc_10755,material,vidro
+mche_71223,materiais,madeira|mármore
+mche_66215,materiais,cerâmica|pó de ouro
+mrsj_19591,material-3,madeira
+minc_233698,material,
+minc_205561,material,madeira
+minc_105269,material,argila|esmalte|verniz
+mrco_36019,material-9,madeira|palinha
+mche_47261,materiais,metal
+mcpr_37885,material,metal
+mche_44281,materiais,metal|vidro
+minc_228091,material,
+mcha_21990,materiais_tecnicas-2,porcelana
+mche_42755,materiais,metal
+minc_162687,material,metal
+minc_186089,material,madeira|palha
+mche_64843,materiais,metal|vidro
+mche_43818,materiais,cerâmica|pó de ouro|tinta
+minc_99967,material,madeira
+mcbc_9901,material,madeira|metal
+mche_60656,materiais,madeira|palha
+mcha_20153,materiais_tecnicas-2,porcelana
+mche_41625,materiais,madeira|palha
+masb_60481,material,metal
+mcbc_11700,material,madeira|metal
+mche_65115,materiais,metal|vidro
+mche_69006,materiais,cerâmica|pó de ouro
+mrco_36155,material-9,esmalte|porcelana|tinta
+mche_43631,materiais,cerâmica|pó de ouro|tinta
+mcha_25760,materiais_tecnicas-2,porcelana
+mche_68463,materiais,cerâmica|pó de ouro
+minc_72709,material,metal|madeira
+minc_10756,material,madeira
+mour_5913,material-tecnica-3,madeira
+mrsj_21110,material-3,madeira|metal
+minc_42216,material,madeira
+mche_53537,materiais,cerâmica|pó de ouro
+minc_119508,material,metal|vidro
+mche_68826,materiais,cerâmica|pó de ouro
+mdia_31114,material-tecnica-3,madeira|pedra
+mche_40365,materiais,madeira|palha
+mcha_19059,materiais_tecnicas-2,porcelana
+mche_66031,materiais,cerâmica|pó de ouro
+mche_56422,materiais,cerâmica|pó de ouro
+mcpr_30862,material,
+mche_45579,materiais,vidro
+minc_203225,material,madeira
+mcha_15654,materiais_tecnicas-2,madeira|palha
+mdia_31159,material-tecnica-3,madeira|metal
+mche_72714,materiais,vidro
+mche_43224,materiais,metal
+mcha_21434,materiais_tecnicas-2,porcelana
+mrco_36027,material-9,madeira
+mcbc_9993,material,linha|madeira|metal|tecido|vidro
+minc_139789,material,metal
+mche_46806,materiais,metal
+minc_82552,material,metal|madeira|tinta
+mcha_22343,materiais_tecnicas-2,porcelana
+mhna_166607,material,porcelana
+minc_30797,material,metal|madeira|tinta
+minc_17987,material,madeira
+minc_185859,material,madeira|palha|madeira
+mcha_19679,materiais_tecnicas-2,porcelana
+mcbc_9298,material,argila|vidro|metal
+mcbc_10905,material,madeira|palha
+mche_75972,materiais,madeira|pó de ouro
+minc_192981,material,madeira
+minc_186037,material,madeira|palha
+mche_75822,materiais,madeira|pó de ouro
+minc_233575,material,
+mcbc_11494,material,metal|madeira
+mdia_32127,material-tecnica-3,madeira|palha
+mche_56392,materiais,cerâmica|pó de ouro
+mche_65687,materiais,cerâmica|pó de ouro
+mche_59202,materiais,metal
+minc_124482,material,fibra têxtil
+mcha_59115,materiais_tecnicas-2,metal|vidro
+mche_66456,materiais,cerâmica|pó de ouro
+mdia_31547,material-tecnica-3,madeira
+mche_68946,materiais,cerâmica|pó de ouro
+mcbc_9484,material,couro|madeira|metal|palha
+mcha_20681,materiais_tecnicas-2,porcelana
+mabo_491,material,
+mcha_38390,materiais_tecnicas-2,vidro
+mche_60067,materiais,metal
+minc_111859,material,metal
+mcha_19400,materiais_tecnicas-2,porcelana
+minc_100587,material,madeira|metal|tinta
+mrco_36645,material-9,madeira
+minc_184132,material,couro|metal|madeira
+mche_51713,materiais,madeira|palha
+minc_175419,material,madeira
+mche_42388,materiais,metal
+mche_55814,materiais,cerâmica|pó de ouro|tinta
+mche_55428,materiais,cerâmica|pó de ouro
+mcha_27913,materiais_tecnicas-2,vidro
+minc_188049,material,madeira|palha
+mrsj_28376,material-3,folha de ouro|tinta|vidro
+mche_40618,materiais,cerâmica|pó de ouro
+mrco_36175,material-9,metal
+mban_16016,material,argila
+mcpr_36861,material,argila
+mche_68097,materiais,cerâmica|pó de ouro|tinta
+mdia_31107,material-tecnica-3,metal|vidro
+mrco_36005,material-9,metal|vidro|mármore|metal|vidro
+mcbc_11153,material,madeira
+mdia_32282,material-tecnica-3,|madeira|metal|policromia|tinta
+minc_37554,material,madeira|metal|tinta
+mche_70133,materiais,metal|vidro
+mcha_20582,materiais_tecnicas-2,porcelana
+mcha_28040,materiais_tecnicas-2,vidro
+mche_43287,materiais,metal
+mche_45097,materiais,metal|vidro
+minc_165823,material,madeira|tinta
+mche_51420,materiais,cerâmica|pó de ouro
+mche_49695,materiais,metal
+mche_58364,materiais,metal
+minc_174820,material,metal|madeira
+mche_64319,materiais,vidro|gesso|madeira|pó de ouro
+mche_65537,materiais,cerâmica|pó de ouro
+minc_43059,material,metal|madeira|tinta
+mcbc_9474,material,couro|madeira|metal|palha
+minc_9935,material,madeira
+mhna_167806,material,metal
+mcbc_11708,material,madeira|metal
+mhna_167905,material,metal
+minc_172568,material,madeira
+mcha_26817,materiais_tecnicas-2,vidro
+mhna_163982,material,metal
+minc_188268,material,madeira
+mche_59053,materiais,metal
+mche_51518,materiais,madeira|palha
+mcha_14720,materiais_tecnicas-2,vidro|madeira|metal
+mche_63310,materiais,cerâmica|pó de ouro
+mche_57577,materiais,madeira|palha
+mrco_36468,material-9,folha de ouro|madeira|tinta
+mour_5442,material-tecnica-3,madeira|metal
+mche_49201,materiais,vidro|metal
+minc_123915,material,metal
+mcha_21874,materiais_tecnicas-2,porcelana
+mrsj_27678,material-3,folha de ouro|tinta|vidro
+mche_71794,materiais,vidro|metal|opalina|tinta|pó de ouro
+mcha_23167,materiais_tecnicas-2,porcelana
+minc_5528,material,metal|madeira|tinta
+mcbc_11684,material,madeira|metal
+mche_53173,materiais,cerâmica|pó de ouro
+minc_174556,material,metal|madeira
+mche_62728,materiais,vidro
+minc_36454,material,metal|madeira
+mcha_22813,materiais_tecnicas-2,porcelana
+mche_44858,materiais,metal|vidro
+mcbc_10723,material,madeira|metal|vidro
+mcpr_32541,material,tecido|metal
+minc_186319,material,madeira|palha
+mcha_37537,materiais_tecnicas-2,metal
+mche_55523,materiais,cerâmica
+minc_42812,material,metal|madeira|tinta
+mcha_15759,materiais_tecnicas-2,madeira|palha
+mche_73183,materiais,cerâmica|pó de ouro
+mcha_14815,materiais_tecnicas-2,madeira
+mche_53263,materiais,cerâmica|pó de ouro
+mrco_36003,material-9,metal|vidro|mármore|metal|vidro
+mcbc_9208,material,madeira|palha
+minc_172726,material,madeira|metal|tinta
+mche_75697,materiais,madeira|pó de ouro
+mche_73271,materiais,cerâmica|pó de ouro|tinta
+minc_128210,material,madeira|palha
+mdia_31646,material-tecnica-3,folha de ouro|madeira|metal|policromia|tinta
+mche_73782,materiais,gesso|madeira|pó de ouro
+mcbc_10847,material,vidro
+mche_55458,materiais,cerâmica|pó de ouro
+mrsj_21601,material-3,madeira
+minc_234079,material,
+mcha_20908,materiais_tecnicas-2,porcelana
+mche_74854,materiais,madeira|palha
+mcbc_10550,material,argila|vidro|madeira|metal
+mban_12680,material,metal|vidro
+minc_229325,material,
+mche_53884,materiais,cerâmica|pó de ouro
+mche_50371,materiais,madeira|palha
+mrsj_22791,material-3,madeira|palha
+mcha_21467,materiais_tecnicas-2,porcelana
+mche_62189,materiais,cerâmica
+mcha_26872,materiais_tecnicas-2,vidro
+mrco_36439,material-9,madeira|tinta
+minc_162523,material,metal
+mche_53323,materiais,cerâmica|pó de ouro
+mche_70458,materiais,madeira
+mban_4844,material,madeira|fibra
+mban_16167,material,argila
+mche_68796,materiais,cerâmica|pó de ouro
+mche_45986,materiais,casca de ovo|madeira|marfim|papel
+minc_208088,material,madeira|palha|madeira
+mche_72008,materiais,metal|vidro
+minc_140902,material,metal|tinta
+mrsj_28157,material-3,
+mdia_30959,material-tecnica-3,metal
+mcpr_38040,material,metal
+minc_223035,material,madeira|metal|tinta
+minc_201886,material,madeira|tinta
+mche_44416,materiais,metal|vidro
+mhna_163083,material,metal
+mche_75190,materiais,madeira|palha
+mche_53475,materiais,cerâmica|pó de ouro
+mche_61426,materiais,metal
+minc_35935,material,madeira|pedra|tinta
+mcbc_9488,material,madeira|palha
+mche_57012,materiais,metal
+mcha_37567,materiais_tecnicas-2,metal
+mcbc_10839,material,vidro
+mche_56452,materiais,cerâmica|pó de ouro
+mche_42725,materiais,metal
+mche_61337,materiais,metal
+mdia_33780,material-tecnica-3,porcelana|tinta
+mche_64945,materiais,metal|vidro
+mche_44620,materiais,metal|vidro
+mche_54833,materiais,madeira|palha
+mche_44450,materiais,metal|vidro
+mche_75997,materiais,madeira|pó de ouro
+mban_5636,material,argila
+minc_33969,material,madeira|tinta
+mche_74565,materiais,gesso|madeira|pó de ouro
+mdia_31557,material-tecnica-3,madeira
+minc_208693,material,metal|madeira
+mche_58544,materiais,metal
+mcpr_44961,material,metal
+minc_41133,material,madeira|metal
+mcha_19183,materiais_tecnicas-2,porcelana
+mcha_19462,materiais_tecnicas-2,porcelana
+minc_224697,material,
+mcha_22945,materiais_tecnicas-2,porcelana
+minc_75684,material,pedra-sabão
+minc_10800,material,metal|tinta|vidro
+minc_231046,material,
+mcbc_10833,material,vidro
+mche_44824,materiais,metal|vidro
+mdia_31293,material-tecnica-3,madeira
+minc_170870,material,madeira
+mche_52207,materiais,vidro
+mche_58484,materiais,metal
+mche_63545,materiais,cerâmica|pó de ouro
+mche_68856,materiais,cerâmica|pó de ouro
+mche_56245,materiais,cerâmica|pó de ouro|tinta
+minc_210245,material,metal
+mcbc_11648,material,madeira|metal
+minc_174349,material,madeira
+mche_58274,materiais,metal
+minc_142354,material,metal|tinta
+mche_40648,materiais,cerâmica|pó de ouro|tinta
+mban_5939,material,argila
+mche_58008,materiais,metal
+mche_49632,materiais,metal
+mche_61397,materiais,metal
+mche_55754,materiais,cerâmica|pó de ouro
+mhna_163403,material,metal
+mhna_168030,material,vidro
+minc_231860,material,
+mche_47226,materiais,madeira|palha
+mche_64191,materiais,cerâmica|pó de ouro
+mdia_31948,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mcpr_37947,material,metal
+mrco_36854,material-9,metal
+mcha_21137,materiais_tecnicas-2,porcelana
+mche_40812,materiais,madeira|palha
+mcpr_33678,material,metal
+mrsj_28289,material-3,folha de ouro|porcelana|tinta
+mche_74430,materiais,gesso|madeira|pó de ouro
+mche_67554,materiais,cerâmica|pó de ouro
+minc_205614,material,metal|madeira
+mche_57829,materiais,metal
+mrco_35826,material-9,folha de ouro|madeira|tinta
+mdia_33727,material-tecnica-3,metal|tinta|vidro
+mche_48807,materiais,vidro
+mcbc_10891,material,madeira|palha
+minc_172859,material,madeira|metal|tinta
+mche_74752,materiais,madeira|palha
+minc_192184,material,madeira
+mdia_31617,material-tecnica-3,folha de ouro|madeira|metal|policromia|tinta
+mrco_36107,material-9,metal
+mche_73593,materiais,gesso|madeira|pó de ouro
+mche_43756,materiais,cerâmica|pó de ouro|tinta
+minc_10655,material,metal|vidro
+mche_50435,materiais,madeira|palha
+mcpr_37823,material,metal
+mdia_33787,material-tecnica-3,porcelana|tinta
+mcbc_10849,material,vidro
+mche_56335,materiais,linha de algodão
+mcbc_9204,material,madeira|mármore
+mrco_35961,material-9,madeira|palinha
+mche_75747,materiais,madeira|pó de ouro
+mrco_36159,material-9,porcelana|tinta
+minc_43103,material,metal|madeira|vidro
+mche_67906,materiais,madeira|palha
+mche_54197,materiais,metal
+minc_140770,material,metal|tinta
+mche_64716,materiais,cerâmica|pó de ouro
+mche_75157,materiais,metal|madeira|palha
+minc_184907,material,metal|madeira|ouro
+mche_46125,materiais,linha de algodão|linho
+mche_62346,materiais,vidro
+minc_226590,material,
+mche_67359,materiais,madeira|palha
+mcha_47091,materiais_tecnicas-2,vidro
+minc_174102,material,madeira
+mrco_36125,material-9,esmalte|porcelana|tinta
+minc_83862,material,metal
+mhna_168129,material,vidro
+mche_73674,materiais,gesso|madeira|pó de ouro
+minc_231911,material,
+mcha_23334,materiais_tecnicas-2,porcelana
+mrsj_24250,material-3,folha de ouro|madeira|tinta
+mche_66275,materiais,cerâmica|pó de ouro|tinta
+minc_140196,material,metal|tinta
+minc_124582,material,metal|tinta
+mhna_166899,material,porcelana
+mcha_22239,materiais_tecnicas-2,porcelana
+mcha_26764,materiais_tecnicas-2,vidro
+mban_2219,material,pedra
+mcha_20318,materiais_tecnicas-2,porcelana
+mche_59739,materiais,metal
+minc_209235,material,madeira
+minc_141078,material,metal|tinta
+mcha_27888,materiais_tecnicas-2,vidro
+mche_59797,materiais,metal
+mour_5247,material-tecnica-3,metal|madeira
+mdia_34148,material-tecnica-3,madeira
+mche_49034,materiais,vidro|metal
+minc_162483,material,metal
+mche_56275,materiais,metal
+mcbc_11512,material,madeira|metal|tinta
+mrsj_24117,material-3,folha de ouro|madeira
+mhna_159708,material,vidro
+mche_43350,materiais,metal
+minc_116817,material,metal
+mche_45920,materiais,metal
+mcbc_11650,material,madeira|metal
+minc_89210,material,metal|fibra têxtil|metal
+mche_66093,materiais,cerâmica|pó de ouro
+mche_44654,materiais,metal|vidro
+mche_65418,materiais,cerâmica|pó de ouro
+minc_123956,material,metal
+mdia_32302,material-tecnica-3,madeira|mármore|metal|pedra
+mdia_32118,material-tecnica-3,madeira|palha
+mdia_31686,material-tecnica-3,folha de ouro|madeira|policromia|tinta
+mche_40199,materiais,cerâmica
+mrsj_23201,material-3,madeira|palha
+mcbc_9206,material,madeira|palha
+minc_223501,material,
+minc_162315,material,metal
+minc_205668,material,madeira
+mcbc_10277,material,madeira|palha
+minc_140990,material,metal|tinta
+mche_61152,materiais,metal
+minc_47424,material,argila|esmalte
+minc_112359,material,metal
+mche_50730,materiais,cerâmica
+minc_233115,material,pedra|conchas|madeira
+mche_49539,materiais,metal
+mche_54773,materiais,cerâmica|pó de ouro
+mban_7583,material,madeira|metal|madeira
+mcpr_45043,material,metal
+mhna_160087,material,melamina
+mche_75647,materiais,madeira|pó de ouro
+minc_30753,material,madeira|metal|tinta
+mrco_36023,material-9,madeira|palinha
+mcbc_9476,material,couro|madeira|metal|palha
+mcha_18625,materiais_tecnicas-2,porcelana
+mcbc_11419,material,argila|vidro|madeira|metal
+mche_71120,materiais,madeira|mármore
+minc_185542,material,metal|madeira
+minc_84232,material,madeira|metal|tinta
+minc_228699,material,
+mche_64616,materiais,cerâmica|pó de ouro
+mche_72628,materiais,vidro
+mche_44213,materiais,metal|vidro
+mche_55274,materiais,cerâmica|pó de ouro|tinta
+minc_99905,material,madeira
+mche_71470,materiais,metal|vidro
+mche_76147,materiais,madeira|pó de ouro
+masb_47566,material,metal
+minc_47053,material,argila|esmalte|ouro
+mrco_36133,material-9,esmalte|porcelana|tinta
+mche_75797,materiais,madeira|pó de ouro
+minc_47332,material,argila|esmalte
+mcbc_11678,material,madeira|metal
+mrco_35836,material-9,madeira
+mche_45331,materiais,vidro
+minc_185013,material,couro|madeira|metal
+mche_60127,materiais,metal
+minc_127934,material,madeira|palha|madeira
+mche_41693,materiais,madeira|metal|palha
+minc_231779,material,
+mche_73998,materiais,gesso|madeira|pó de ouro
+mche_51270,materiais,cerâmica|pó de ouro
+mche_66606,materiais,cerâmica|pó de ouro
+mcbc_10439,material,madeira|metal|papel|tinta|vidro
+mche_51300,materiais,cerâmica|pó de ouro
+minc_10609,material,metal|vidro
+mche_73971,materiais,gesso|madeira|pó de ouro
+mrco_36852,material-9,metal
+mcbc_10765,material,vidro
+mcbc_11506,material,argila|vidro|metal
+mrsj_21030,material-3,madeira|metal
+mche_65477,materiais,cerâmica|pó de ouro
+mche_42878,materiais,metal
+mche_54961,materiais,cerâmica|pó de ouro
+mhna_162758,material,metal
+mche_49754,materiais,metal
+minc_228585,material,
+masb_52044,material,metal|plástico
+mrco_36099,material-9,metal
+mban_14228,material,madeira
+minc_80099,material,metal|madeira|tinta
+minc_163456,material,metal
+minc_43322,material,madeira|metal|tinta
+mdia_32277,material-tecnica-3,madeira|metal|policromia|tinta
+mdia_31315,material-tecnica-3,madeira|marfim
+minc_225565,material,
+mche_53383,materiais,cerâmica|pó de ouro|tinta
+minc_186884,material,madeira
+mrco_35975,material-9,madeira|palinha
+mche_63605,materiais,cerâmica|pó de ouro
+mcha_27838,materiais_tecnicas-2,vidro
+mcbc_10647,material,metal
+minc_175676,material,madeira
+mche_51090,materiais,cerâmica|pó de ouro
+mcbc_10641,material,metal
+mhna_162889,material,metal
+minc_39434,material,metal|madeira
+minc_188855,material,madeira|palha
+mcha_20940,materiais_tecnicas-2,porcelana
+mhna_163786,material,metal
+mche_50897,materiais,cerâmica|pó de ouro
+mche_54563,materiais,cerâmica|pó de ouro
+minc_233801,material,
+mcbc_9478,material,couro|madeira|metal|palha
+mche_73890,materiais,gesso|madeira|pó de ouro
+minc_36355,material,metal|madeira
+mhna_166257,material,porcelana
+minc_47378,material,argila|esmalte
+mche_58038,materiais,metal
+mhna_163647,material,metal
+mche_44010,materiais,madeira
+minc_111536,material,metal
+minc_203625,material,metal|madeira
+mche_66366,materiais,cerâmica|pó de ouro
+mche_55149,materiais,metal
+minc_140416,material,metal|tinta
+mrsj_21560,material-3,madeira|metal
+mdia_31496,material-tecnica-3,|metal
+mche_51330,materiais,cerâmica|pó de ouro
+minc_73140,material,madeira|metal|tinta
+minc_228821,material,
+mcbc_10287,material,argila|vidro|metal
+mcbc_10450,material,metal
+minc_141958,material,metal|tinta
+minc_42057,material,couro|madeira
+mdia_31953,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+minc_189317,material,madeira|palha|madeira
+mcha_25205,materiais_tecnicas-2,porcelana
+mche_57279,materiais,vidro
+mche_42320,materiais,vidro
+mche_62948,materiais,cerâmica|pó de ouro
+mcha_20972,materiais_tecnicas-2,porcelana
+mche_59083,materiais,metal
+mche_70493,materiais,madeira|metal|palha
+minc_70992,material,madeira|palha|madeira
+mche_54653,materiais,cerâmica|pó de ouro
+mcha_15585,materiais_tecnicas-2,madeira|palha
+mrsj_24337,material-3,folha de ouro|madeira|metal|tinta
+minc_5480,material,metal|madeira
+mcha_19276,materiais_tecnicas-2,porcelana
+minc_35354,material,madeira|pedra|tinta
+minc_111618,material,metal
+mche_61680,materiais,cerâmica|pó de ouro|tinta
+mche_71291,materiais,tecido|linha de algodão
+mrco_35921,material-9,madeira|metal|tinta
+mcha_21236,materiais_tecnicas-2,porcelana
+mche_40456,materiais,madeira|palha
+minc_208589,material,madeira
+mcbc_10769,material,argila|tinta
+minc_224237,material,
+mdia_33825,material-tecnica-3,folha de ouro|porcelana|tinta
+mcha_18501,materiais_tecnicas-2,porcelana
+mche_66516,materiais,cerâmica|pó de ouro
+minc_182759,material,madeira|metal|tinta
+mche_73329,materiais,metal
+minc_124769,material,metal
+mcha_19803,materiais_tecnicas-2,porcelana
+mche_46152,materiais,linha de algodão|linho
+mche_66486,materiais,cerâmica|pó de ouro
+minc_207368,material,madeira
+mrco_36509,material-9,madeira|palinha
+mche_50063,materiais,metal
+minc_166185,material,madeira
+minc_87879,material,metal
+minc_141122,material,metal|tinta
+mche_43787,materiais,cerâmica|pó de ouro|tinta
+minc_85265,material,madeira|tinta
+minc_155886,material,metal
+minc_34060,material,metal|tinta
+minc_180472,material,metal
+mche_44348,materiais,metal|vidro
+mabo_496,material,metal
+mban_12486,material,madeira
+mcbc_10075,material,argila
+mche_63727,materiais,cerâmica|pó de ouro
+minc_142090,material,metal|tinta
+mcha_21203,materiais_tecnicas-2,porcelana
+mdia_31977,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mban_1713,material,madeira
+minc_230750,material,
+minc_223692,material,
+mcha_18811,materiais_tecnicas-2,porcelana
+mche_72367,materiais,vidro
+minc_116531,material,metal|madeira
+mrco_36456,material-9,madeira|tinta
+mche_56740,materiais,madeira|palha
+mrco_36151,material-9,esmalte|porcelana|tinta
+minc_172102,material,madeira
+minc_228427,material,
+mcbc_11438,material,argila|verniz
+masb_61738,material,madeira
+minc_41088,material,opalina
+minc_188699,material,metal|madeira
+minc_208193,material,madeira|palha|madeira
+mrsj_21805,material-3,madeira
+minc_206146,material,metal|madeira
+minc_41847,material,metal|madeira|tinta
+mche_73007,materiais,cerâmica|pó de ouro
+masb_63559,material,metal
+minc_208035,material,madeira|palha|madeira
+mche_62600,materiais,cerâmica|tinta
+mcbc_9454,material,vidro
+minc_175773,material,madeira|palha
+minc_174972,material,madeira|metal|tinta
+mche_74106,materiais,gesso|madeira|pó de ouro
+mban_7074,material,argila
+mrco_36458,material-9,madeira|tinta
+mche_66576,materiais,cerâmica|pó de ouro
+mcha_19152,materiais_tecnicas-2,porcelana
+minc_184648,material,madeira|palha
+mche_65567,materiais,cerâmica|pó de ouro
+mche_74511,materiais,gesso|madeira|pó de ouro
+mche_51649,materiais,vidro
+mche_60690,materiais,madeira|palha
+mche_40230,materiais,cerâmica
+minc_10906,material,metal|vidro
+mche_55488,materiais,madeira|palha
+mche_47857,materiais,madeira
+mche_45514,materiais,vidro
+mcpr_36048,material,metal|madeira|tinta
+minc_230509,material,
+mdia_31863,material-tecnica-3,madeira|metal|tinta
+minc_156653,material,metal|madeira|tinta
+minc_142310,material,metal|tinta
+mche_65357,materiais,cerâmica|pó de ouro
+minc_232414,material,
+mdia_31299,material-tecnica-3,madeira|vidro
+minc_5633,material,madeira
+mcbc_9316,material,madeira|mármore
+minc_161820,material,madeira
+mcha_21961,materiais_tecnicas-2,porcelana
+mrsj_21520,material-3,madeira|metal
+minc_46457,material,metal
+mcpr_44717,material,argila|vidro
+mche_73485,materiais,gesso|madeira|pó de ouro
+mcha_31572,materiais_tecnicas-2,argila
+mche_71662,materiais,madeira|palha
+mche_61486,materiais,madeira|mármore
+minc_111991,material,metal
+mcha_15407,materiais_tecnicas-2,madeira
+mrsj_15658,material-3,folha de ouro|porcelana|tinta
+minc_124678,material,metal|tinta
+mcbc_10093,material,argila|vidro|madeira|metal
+minc_11901,material,metal
+mhna_163682,material,metal
+minc_201191,material,madeira
+minc_184306,material,metal|madeira
+minc_186159,material,madeira
+mcbc_11670,material,madeira|metal
+minc_139408,material,metal|madeira
+mcha_21104,materiais_tecnicas-2,porcelana
+mrsj_22054,material-3,madeira
+mche_66245,materiais,cerâmica|pó de ouro
+mche_60626,materiais,metal
+mcha_26737,materiais_tecnicas-2,vidro
+minc_228858,material,
+mrco_36013,material-9,madeira|palinha
+mrco_36513,material-9,madeira|palinha
+mche_59412,materiais,metal
+mcha_23059,materiais_tecnicas-2,porcelana
+mrsj_20382,material-3,madeira
+mcbc_10482,material,madeira|mármore
+mcha_35299,materiais_tecnicas-2,linha
+minc_86948,material,metal
+minc_207487,material,madeira|palha
+minc_205770,material,metal|madeira
+minc_34461,material,madeira|metal|tinta
+mche_46179,materiais,linha de algodão|linho
+mcbc_10873,material,metal|madeira|verniz
+mban_1752,material,madeira
+minc_12046,material,metal
+minc_206093,material,madeira|metal
+mdia_31283,material-tecnica-3,madeira|palha
+minc_73318,material,metal|madeira
+minc_224890,material,
+minc_186769,material,madeira|palha
+minc_233373,material,
+minc_147966,material,metal|metal
+mhna_160476,material,porcelana
+mche_55618,materiais,cerâmica|pó de ouro
+minc_110376,material,metal
+mche_44145,materiais,metal|vidro
+minc_30625,material,madeira
+mhna_166793,material,porcelana
+minc_175519,material,madeira
+mche_51957,materiais,madeira|palha
+minc_165781,material,madeira|tinta
+minc_223179,material,
+minc_185977,material,madeira|palha|madeira
+mche_50695,materiais,madeira|palha
+mche_57767,materiais,metal
+mrsj_16349,material-3,madeira
+mcha_19741,materiais_tecnicas-2,porcelana
+mcha_14586,materiais_tecnicas-2,madeira
+minc_72826,material,madeira|palha
+mcha_23248,materiais_tecnicas-2,porcelana
+mche_72339,materiais,vidro
+minc_162727,material,metal
+mche_71538,materiais,metal|vidro
+minc_225798,material,
+minc_101145,material,metal
+mche_73065,materiais,cerâmica|pó de ouro|tinta
+mche_55304,materiais,madeira|metal|palha
+mcha_21903,materiais_tecnicas-2,porcelana
+mhna_159737,material,vidro
+minc_175574,material,madeira|tinta
+minc_41523,material,metal|madeira
+mche_75023,materiais,madeira|palha
+minc_36266,material,madeira
+minc_183208,material,madeira|purpurina|tinta
+mhna_163435,material,metal
+mcbc_11632,material,madeira|metal|tecido|vidro
+mcbc_10751,material,vidro
+minc_140946,material,metal|tinta
+mche_65217,materiais,metal|vidro
+mche_63883,materiais,vidro|metal
+minc_23969,material,madeira|metal|madeira
+minc_113029,material,couro|metal|madeira
+minc_232252,material,
+minc_174001,material,madeira
+mche_47093,materiais,metal
+mban_4963,material,madeira|fibra
+mche_54623,materiais,cerâmica|pó de ouro
+mcha_20417,materiais_tecnicas-2,porcelana
+mcha_22213,materiais_tecnicas-2,porcelana
+minc_206195,material,metal|madeira
+minc_201781,material,metal|madeira
+minc_165948,material,madeira
+masb_48935,material,metal
+mcha_19214,materiais_tecnicas-2,porcelana
+mche_51180,materiais,cerâmica|pó de ouro
+minc_96432,material,metal|tinta|vidro
+minc_174398,material,metal|madeira
+mcha_27478,materiais_tecnicas-2,vidro
+mche_74268,materiais,gesso|madeira|pó de ouro
+minc_102237,material,metal
+mche_54803,materiais,cerâmica|pó de ouro
+mhna_166162,material,porcelana
+mche_73647,materiais,gesso|madeira|pó de ouro
+mhna_166450,material,porcelana
+mcbc_10907,material,madeira|palha
+mrsj_27718,material-3,folha de ouro|tinta|vidro
+minc_174147,material,madeira
+mche_58843,materiais,metal
+mche_54105,materiais,cerâmica|pó de ouro|tinta
+mrco_36476,material-9,madeira|tinta
+mban_13840,material,metal
+mcbc_11508,material,madeira|metal|tinta
+minc_155837,material,metal
+minc_230621,material,
+mhna_168261,material,vidro
+mche_54473,materiais,cerâmica|pó de ouro
+minc_128166,material,madeira|palha
+mhna_163051,material,metal
+mche_64911,materiais,metal|vidro
+mche_40937,materiais,cerâmica|pó de ouro|tinta
+minc_111949,material,metal
+mdia_31568,material-tecnica-3,madeira|metal
+mcbc_9218,material,madeira|palha
+minc_41277,material,madeira|metal
+mcha_25050,materiais_tecnicas-2,porcelana
+minc_201722,material,madeira|metal|tinta
+mban_3401,material,madeira
+minc_111297,material,metal
+mhna_163575,material,metal
+mban_5864,material,argila
+minc_127832,material,madeira|palha
+mcbc_11636,material,madeira|metal
+minc_201088,material,madeira|palha|madeira
+minc_73654,material,madeira|palha
+minc_34640,material,madeira|pedra|tinta
+mrsj_17353,material-3,folha de ouro|tinta
+mcha_37481,materiais_tecnicas-2,metal
+mche_40262,materiais,madeira|mármore|metal
+minc_99487,material,madeira
+mdia_30943,material-tecnica-3,metal
+mcbc_11482,material,metal|tinta
+minc_111899,material,metal
+minc_162161,material,metal
+mrsj_20826,material-3,madeira
+minc_196716,material,fibra têxtil
+mche_41865,materiais,metal
+mcpr_36018,material,metal|madeira|tinta
+mcpr_45016,material,metal
+mrco_36043,material-9,esmalte|metal|vidro
+minc_173507,material,madeira|tinta
+minc_186556,material,madeira
+mche_76253,materiais,argila|caulim
+mche_54593,materiais,cerâmica|pó de ouro
+mche_47691,materiais,madeira|palha
+mdia_31393,material-tecnica-3,madeira|palha
+mrco_36199,material-9,madeira
+minc_193160,material,metal
+mrsj_23975,material-3,folha de ouro|madeira|metal|tinta
+minc_161644,material,madeira|tinta
+mdia_31883,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mour_5446,material-tecnica-3,metal|madeira
+mcha_19834,materiais_tecnicas-2,porcelana
+minc_163375,material,metal
+mhna_166730,material,porcelana
+mche_59023,materiais,metal
+mrsj_23758,material-3,madeira|tinta
+mche_69344,materiais,cerâmica|pó de ouro
+mche_58963,materiais,metal
+mrco_35999,material-9,madeira
+mrsj_27937,material-3,folha de ouro|porcelana|tinta
+mcbc_9538,material,couro|madeira|palha
+mban_16055,material,argila
+mche_47440,materiais,metal
+minc_226550,material,
+minc_31693,material,madeira
+mcha_19617,materiais_tecnicas-2,porcelana
+mche_45726,materiais,cerâmica|pó de ouro|tinta
+mhna_163147,material,metal
+mche_72074,materiais,metal|vidro
+mrsj_21232,material-3,madeira
+minc_124810,material,metal
+minc_111391,material,metal
+mban_16130,material,argila
+mrco_36454,material-9,madeira|tinta
+mhna_159655,material,vidro
+mche_58813,materiais,metal
+mban_7194,material,madeira
+mche_66546,materiais,cerâmica|pó de ouro|tinta
+mhna_163716,material,metal
+minc_183473,material,metal|madeira
+mrsj_22422,material-3,madeira|palha
+minc_10379,material,metal|vidro
+minc_73855,material,madeira|palha
+minc_37685,material,madeira|metal|tinta
+mche_76097,materiais,madeira|pó de ouro
+mcha_20219,materiais_tecnicas-2,porcelana
+minc_173845,material,metal|madeira
+minc_34821,material,madeira|pedra|tinta
+masb_49027,material,metal
+minc_193207,material,metal
+mche_76022,materiais,madeira|pó de ouro
+minc_146956,material,madeira
+minc_12701,material,metal|madeira
+mrco_36103,material-9,metal|tinta
+mcbc_11105,material,madeira|palha
+mcbc_11706,material,madeira|metal
+minc_42588,material,madeira|metal
+mrsj_23659,material-3,madeira|metal|tinta
+minc_29313,material,madeira|palha
+minc_225752,material,
+mrsj_15614,material-3,folha de ouro|porcelana|tinta
+mdia_31552,material-tecnica-3,madeira|metal
+mhna_166291,material,porcelana
+minc_9887,material,metal|madeira
+mcha_58911,materiais_tecnicas-2,metal
+mche_76047,materiais,madeira|pó de ouro
+mche_68159,materiais,metal
+minc_89025,material,madeira|tinta
+mche_42256,materiais,metal|madeira|palha
+mche_50338,materiais,madeira|palha
+mche_72143,materiais,vidro
+mhna_167840,material,metal
+minc_230664,material,
+minc_81085,material,madeira|tinta
+mcha_19028,materiais_tecnicas-2,porcelana
+mche_47410,materiais,metal
+minc_25520,material,metal|madeira
+mche_74025,materiais,gesso|madeira|pó de ouro
+minc_20423,material,madeira
+minc_84187,material,metal|madeira|tinta
+minc_162643,material,metal
+mche_72455,materiais,vidro
+mcbc_11658,material,madeira|metal
+minc_70697,material,madeira
+mdia_34432,material-tecnica-3,madeira
+minc_35832,material,madeira|pedra|tinta
+minc_79591,material,madeira|tinta
+mdia_31575,material-tecnica-3,madeira|metal
+mcha_22912,materiais_tecnicas-2,porcelana
+minc_176310,material,madeira|metal|tinta
+minc_204454,material,madeira
+minc_208446,material,madeira|palha
+mdia_34314,material-tecnica-3,madeira|palha
+mcha_22135,materiais_tecnicas-2,porcelana
+mche_43663,materiais,cerâmica|pó de ouro|tinta
+mcbc_9554,material,argila|vidro|metal
+minc_124301,material,metal|madeira
+minc_232675,material,metal
+mcha_20549,materiais_tecnicas-2,porcelana
+mche_49902,materiais,metal
+mdia_31240,material-tecnica-3,madeira
+mche_73863,materiais,gesso|madeira|pó de ouro
+mrsj_23078,material-3,madeira|palha
+mche_46746,materiais,metal
+mche_48964,materiais,madeira
+mche_70232,materiais,madeira
+mche_55875,materiais,cerâmica|pó de ouro|tinta
+mche_49387,materiais,metal
+mche_72484,materiais,vidro
+minc_123548,material,metal|metal
+minc_186267,material,madeira|palha
+mdia_33273,material-tecnica-3,madeira|metal|policromia|tinta
+mcbc_11492,material,madeira
+mhna_159620,material,vidro
+mban_5309,material,madeira|fibra
+mche_40140,materiais,cerâmica|pó de ouro
+mban_4761,material,metal
+mcbc_11500,material,madeira|mármore
+mcbc_9308,material,madeira|tecido|tinta|vidro
+mche_58724,materiais,metal
+minc_201620,material,madeira|metal|tinta
+minc_110192,material,metal
+mhna_168194,material,vidro
+mche_52176,materiais,vidro
+mban_16629,material,madeira
+mcbc_10711,material,madeira|mármore|metal
+mban_1632,material,madeira
+mche_55242,materiais,cerâmica|pó de ouro
+minc_35269,material,madeira|pedra|tinta
+minc_112317,material,metal
+minc_30883,material,madeira|ouro
+mche_57161,materiais,metal
+mche_65936,materiais,cerâmica|pó de ouro
+minc_139918,material,metal|purpurina|tinta
+minc_183736,material,metal|madeira
+minc_162399,material,metal
+minc_88724,material,madeira
+mche_43004,materiais,metal
+minc_232714,material,metal
+minc_163215,material,metal
+mrco_36470,material-9,madeira|tinta
+minc_139834,material,metal|purpurina|tinta
+minc_73506,material,madeira|palha
+mcha_19772,materiais_tecnicas-2,porcelana
+minc_23923,material,metal|madeira
+mrco_36163,material-9,porcelana|tinta
+minc_233334,material,
+minc_140592,material,metal|tinta
+mche_50403,materiais,metal
+mdia_32287,material-tecnica-3,madeira|metal|policromia|tinta
+mrsj_28201,material-3,
+mban_4632,material,madeira
+mche_75256,materiais,madeira|metal|palha
+mban_5751,material,argila
+mche_48610,materiais,madeira|palha
+mche_41314,materiais,madeira|palha
+mche_52777,materiais,cerâmica|pó de ouro
+mche_53233,materiais,cerâmica|pó de ouro
+mche_72309,materiais,vidro
+minc_170827,material,madeira|metal|tinta
+minc_72453,material,metal|madeira|tinta
+mdia_31739,material-tecnica-3,metal
+mcha_47293,materiais_tecnicas-2,vidro
+mdia_31144,material-tecnica-3,madeira|metal
+mche_60724,materiais,madeira|palha
+mour_5241,material-tecnica-3,couro lavrado|madeira|metal
+minc_34013,material,metal|tinta
+mche_75672,materiais,madeira|pó de ouro
+mhna_166638,material,porcelana
+mdia_30951,material-tecnica-3,metal
+mcbc_10089,material,linha||tecido
+minc_174505,material,madeira|metal
+mche_63220,materiais,cerâmica|pó de ouro
+mche_61092,materiais,metal
+mcbc_11149,material,argila|vidro|madeira|metal
+minc_72988,material,palha|madeira
+mche_74922,materiais,madeira|palha
+mban_9869,material,vidro
+mche_62978,materiais,cerâmica|pó de ouro
+minc_112657,material,metal
+mche_44961,materiais,metal|vidro
+mche_58933,materiais,metal
+mcha_19586,materiais_tecnicas-2,porcelana
+mche_70032,materiais,argila
+mche_74160,materiais,gesso|madeira|pó de ouro
+minc_110837,material,metal
+minc_24015,material,madeira
+minc_102104,material,metal
+mche_60758,materiais,madeira|palha
+mdia_31168,material-tecnica-3,metal
+minc_176215,material,palha|madeira|metal
+mban_6580,material,madeira
+minc_172620,material,madeira
+mche_66894,materiais,cerâmica|pó de ouro|tinta
+mche_42157,materiais,metal
+minc_11855,material,metal
+mdia_31154,material-tecnica-3,madeira|metal
+minc_42446,material,madeira|metal
+mche_47192,materiais,madeira|palha
+mban_5271,material,madeira|fibra
+minc_140240,material,metal|tinta
+mrco_36045,material-9,madeira|metal
+minc_47512,material,argila|esmalte
+minc_105051,material,madeira|metal|tinta
+mdia_31908,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mrsj_22586,material-3,madeira|palha
+mche_68373,materiais,cerâmica|pó de ouro
+mche_57797,materiais,metal
+mche_47291,materiais,vidro
+minc_186445,material,metal|madeira
+mche_48136,materiais,metal
+mcha_23140,materiais_tecnicas-2,porcelana
+mche_53293,materiais,cerâmica|pó de ouro
+mcha_20285,materiais_tecnicas-2,porcelana
+mcha_26710,materiais_tecnicas-2,vidro
+minc_83042,material,metal|tinta|vidro
+minc_188434,material,metal|madeira
+minc_227515,material,
+mban_16093,material,argila
+mcbc_9460,material,madeira|mármore|metal|tinta|vidro
+mche_69602,materiais,vidro
+mche_54867,materiais,cerâmica|pó de ouro|tinta
+mche_52903,materiais,cerâmica|pó de ouro
+mche_56604,materiais,madeira|palha
+minc_184417,material,metal
+mche_48341,materiais,vidro
+mche_53113,materiais,cerâmica|pó de ouro
+minc_42725,material,madeira|tinta
+mche_47122,materiais,madeira|palha
+mban_7034,material,argila
+mche_55998,materiais,cerâmica|pó de ouro
+mour_5332,material-tecnica-3,madeira|metal
+mcbc_9246,material,metal|vidro
+mcbc_10771,material,argila|tinta
+mche_74888,materiais,madeira|palha
+mche_43942,materiais,madeira|palha
+minc_231434,material,
+minc_209007,material,metal|madeira
+mche_43507,materiais,linha de seda
+mhna_163308,material,metal
+minc_95874,material,metal|madeira
+mban_7233,material,madeira
+minc_105106,material,madeira|metal|tinta
+minc_174765,material,madeira|metal|madeira
+mche_62312,materiais,madeira|palha
+minc_170972,material,metal|madeira|ouro
+minc_127692,material,madeira|palha
+mche_41450,materiais,madeira|palha
+mdia_31535,material-tecnica-3,madeira|metal|tinta
+minc_207982,material,madeira|palha|madeira
+mcha_20351,materiais_tecnicas-2,porcelana
+mche_59143,materiais,metal
+mcbc_9977,material,linha
+minc_106898,material,metal
+mhna_162954,material,metal
+mche_59232,materiais,metal
+mdia_31965,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+minc_29225,material,madeira|palha
+masb_48428,material,madeira|metal
+mcpr_37854,material,metal
+mche_71189,materiais,madeira|palha
+minc_42114,material,madeira|metal
+mcbc_11672,material,madeira|metal
+mhna_160176,material,melamina
+mche_40712,materiais,madeira|policromia
+mche_56808,materiais,metal
+mcha_21786,materiais_tecnicas-2,porcelana
+minc_185911,material,madeira|palha|madeira
+mche_54897,materiais,cerâmica|pó de ouro
+mcha_24930,materiais_tecnicas-2,porcelana
+mcha_22846,materiais_tecnicas-2,porcelana
+mrsj_20948,material-3,madeira
+mche_63757,materiais,metal|vidro
+minc_79547,material,madeira|tinta
+minc_17568,material,madeira
+mche_51150,materiais,cerâmica|pó de ouro
+mche_70797,materiais,vidro
+minc_119551,material,metal
+minc_112441,material,metal
+mcha_18842,materiais_tecnicas-2,porcelana
+minc_169955,material,madeira
+mcbc_10486,material,madeira|mármore
+mcha_21401,materiais_tecnicas-2,porcelana
+mche_70923,materiais,tecido
+mcha_20450,materiais_tecnicas-2,porcelana
+mrco_36846,material-9,metal|tinta
+minc_83910,material,metal
+minc_110745,material,metal
+mche_65013,materiais,metal|vidro
+minc_192671,material,argila
+mrco_36559,material-9,metal|madeira|tinta
+minc_100207,material,metal|madeira
+minc_184960,material,metal|madeira|metal
+mhna_167966,material,metal
+mche_57890,materiais,metal
+mcpr_44594,material,plástico
+mche_73036,materiais,cerâmica|pó de ouro
+mche_73917,materiais,gesso|madeira|pó de ouro
+mche_62252,materiais,cerâmica|pó de ouro
+mche_47994,materiais,madeira|palha
+minc_231509,material,
+mrco_36441,material-9,madeira|tinta
+mche_63575,materiais,cerâmica|pó de ouro
+mche_70167,materiais,madeira|mármore
+mche_73701,materiais,gesso|madeira|pó de ouro
+mcha_23365,materiais_tecnicas-2,porcelana
+mcha_25171,materiais_tecnicas-2,porcelana
+mche_47380,materiais,vidro
+minc_174451,material,madeira|palha
+mdia_31171,material-tecnica-3,metal
+mcpr_44930,material,argila
+mrco_36001,material-9,metal|vidro
+masb_49404,material,madeira
+mrsj_22340,material-3,madeira|metal
+mche_49962,materiais,cerâmica|pó de ouro|tinta
+mcbc_10829,material,vidro
+mcha_30622,materiais_tecnicas-2,madeira|metal
+mche_58454,materiais,metal
+mche_68676,materiais,cerâmica|pó de ouro
+minc_183631,material,madeira
+mche_76122,materiais,madeira|pó de ouro
+mche_53630,materiais,cerâmica|pó de ouro
+mrsj_24879,material-3,folha de ouro|porcelana|tinta
+mche_40554,materiais,metal|vidro
+mcha_26788,materiais_tecnicas-2,vidro
+mabo_763,material,madeira|vidro
+minc_171325,material,metal|madeira
+mche_41898,materiais,cerâmica|pó de ouro
+mche_52567,materiais,cerâmica|pó de ouro
+mdia_31972,material-tecnica-3,cerâmica||esmalte|porcelana|tinta
+minc_233979,material,
+mche_59590,materiais,metal
+mrsj_20424,material-3,madeira|metal
+mrco_36577,material-9,folha de ouro|madeira|tinta
+mche_44586,materiais,metal|vidro
+minc_188101,material,madeira|palha
+mhna_159681,material,vidro
+mrsj_24715,material-3,folha de ouro|metal|tinta|vidro
+minc_41417,material,metal|madeira
+mcha_28796,materiais_tecnicas-2,metal
+mabo_787,material,metal
+mcpr_45509,material,madeira|metal
+mche_41485,materiais,madeira|palha
+minc_99614,material,madeira|tinta
+mabo_493,material,metal
+mche_64979,materiais,metal|vidro
+mche_45301,materiais,metal
+mdia_31913,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mdia_31261,material-tecnica-3,vidro|folha de ouro|gesso|madeira
+mcbc_11654,material,madeira|metal
+minc_70404,material,madeira
+mcpr_45539,material,metal
+mche_74619,materiais,madeira|mármore
+minc_110564,material,metal
+mhna_168063,material,vidro
+mour_5921,material-tecnica-3,madeira
+mcha_27814,materiais_tecnicas-2,vidro
+mche_43255,materiais,metal
+mche_54381,materiais,metal
+mrsj_22627,material-3,madeira|palha
+mcha_22161,materiais_tecnicas-2,porcelana
+minc_159552,material,madeira
+minc_189137,material,madeira|palha
+mban_5546,material,pedra|metal
+mche_66636,materiais,cerâmica|pó de ouro
+minc_10320,material,metal
+minc_30668,material,metal|madeira|tinta
+minc_123452,material,metal|metal
+mcha_19896,materiais_tecnicas-2,porcelana
+mcbc_10885,material,madeira|palha
+mche_40331,materiais,madeira|palha
+mche_52054,materiais,metal
+mcha_22317,materiais_tecnicas-2,porcelana
+mcha_21170,materiais_tecnicas-2,porcelana
+minc_46556,material,metal
+mdia_31123,material-tecnica-3,madeira|palha
+mcbc_9470,material,couro|madeira|metal|palha
+minc_189469,material,madeira|palha|madeira
+mcbc_11470,material,resina|vidro
+mche_58128,materiais,metal
+minc_142222,material,metal|tinta
+minc_184529,material,fibra têxtil|madeira
+minc_70946,material,madeira|palha|madeira
+mche_45165,materiais,metal|vidro
+mrco_36651,material-9,metal|vidro
+mcha_22745,materiais_tecnicas-2,porcelana
+mdia_31530,material-tecnica-3,madeira|metal
+minc_147590,material,metal
+mche_42973,materiais,metal
+mcha_19121,materiais_tecnicas-2,porcelana
+minc_105760,material,argila|esmalte|verniz
+minc_227661,material,
+mche_61307,materiais,metal
+mche_59322,materiais,metal
+mcbc_10801,material,metal
+mban_5194,material,madeira|fibra
+mrco_36466,material-9,folha de ouro|madeira|tinta
+mche_67807,materiais,cerâmica|pó de ouro
+mrsj_28113,material-3,
+mche_68766,materiais,cerâmica|pó de ouro
+mcbc_11169,material,argila|vidro|madeira|metal
+mcha_14914,materiais_tecnicas-2,vidro|madeira|mármore|metal
+mche_57248,materiais,vidro
+mche_51025,materiais,cerâmica
+mche_51210,materiais,cerâmica|pó de ouro
+mche_59382,materiais,metal
+mche_74990,materiais,madeira|palha
+mche_64068,materiais,vidro|metal
+mban_5788,material,argila
+mche_76468,materiais,linha|tecido
+minc_231290,material,
+mche_72542,materiais,vidro
+mrsj_21724,material-3,madeira|metal
+mrsj_21479,material-3,madeira
+minc_41735,material,metal|madeira|tinta
+minc_119338,material,metal
+mhna_166481,material,porcelana
+minc_35547,material,madeira|pedra|tinta
+mour_5263,material-tecnica-3,metal|madeira|policromia
+mrco_36555,material-9,folha de ouro|madeira|tinta
+minc_142002,material,metal|tinta
+mche_64254,materiais,vidro|gesso|madeira|pó de ouro
+mche_58514,materiais,metal
+mcbc_11686,material,madeira|metal
+minc_231326,material,
+mche_65448,materiais,cerâmica|pó de ouro|tinta
+mche_44722,materiais,metal|vidro
+mcpr_37730,material,metal
+mhna_163821,material,metal
+minc_184358,material,metal
+mcha_27987,materiais_tecnicas-2,vidro
+mche_53023,materiais,cerâmica|pó de ouro
+mche_54713,materiais,cerâmica|pó de ouro
+minc_188591,material,metal|madeira
+mche_73539,materiais,gesso|madeira|pó de ouro
+mche_42847,materiais,metal
+mrsj_22996,material-3,madeira|palha
+mhna_166065,material,porcelana
+minc_209101,material,couro|madeira
+minc_94358,material,metal
+minc_100634,material,madeira|metal|tinta
+minc_41890,material,madeira|metal
+minc_110051,material,metal
+mban_1674,material,madeira
+minc_110517,material,metal
+mcha_20780,materiais_tecnicas-2,porcelana
+minc_142178,material,metal|tinta
+minc_34509,material,madeira|metal|tinta
+mche_60458,materiais,metal
+minc_39643,material,madeira|metal|tinta
+minc_187323,material,metal|madeira
+mche_69769,materiais,cerâmica|pó de ouro|tinta
+mcbc_11698,material,madeira|metal
+mcbc_11712,material,madeira|metal
+minc_37599,material,metal|madeira|tinta
+minc_15965,material,metal
+masb_48967,material,metal
+mrsj_21683,material-3,madeira
+minc_171417,material,madeira
+mcbc_11161,material,madeira|metal|tinta
+mche_48237,materiais,metal|vidro
+mcbc_10478,material,madeira|metal
+mche_75090,materiais,madeira|palha
+mche_63038,materiais,cerâmica|pó de ouro
+mcbc_10853,material,metal|vidro
+mcha_21302,materiais_tecnicas-2,porcelana
+mcha_27863,materiais_tecnicas-2,vidro
+minc_165543,material,metal
+minc_147631,material,metal
+mcpr_44989,material,metal
+minc_110611,material,metal
+mban_6099,material,madeira
+minc_228127,material,
+mche_59501,materiais,metal
+mche_46071,materiais,linha de algodão|linho
+mcha_37512,materiais_tecnicas-2,metal
+mrsj_26833,material-3,madeira|tinta
+mrsj_19920,material-3,madeira|metal|tinta
+mcha_47894,materiais_tecnicas-2,vidro
+mche_40677,materiais,madeira
+mche_53597,materiais,cerâmica|pó de ouro|tinta
+minc_122948,material,metal|metal
+mrco_35828,material-9,folha de ouro|madeira|tinta
+minc_73556,material,madeira|palha
+mban_7500,material,metal|madeira
+mban_16667,material,madeira|metal
+mdia_31245,material-tecnica-3,madeira|metal|policromia|tinta
+mche_68222,materiais,cerâmica|pó de ouro
+mche_54683,materiais,cerâmica|pó de ouro
+minc_140636,material,metal|tinta
+mche_75288,materiais,madeira|metal|palha
+mche_62061,materiais,cerâmica|pó de ouro|tinta
+mche_55398,materiais,cerâmica|pó de ouro
+minc_188378,material,madeira
+minc_31786,material,madeira
+mrco_36173,material-9,pedra
+mdia_31932,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mcbc_9560,material,linha|tecido
+minc_89343,material,metal|madeira
+minc_234131,material,
+minc_188905,material,madeira|palha
+mhna_163340,material,metal
+mcbc_11694,material,madeira|metal
+mhna_164011,material,metal
+minc_179648,material,metal
+minc_208348,material,madeira|palha
+mrco_36482,material-9,madeira
+minc_155990,material,metal
+minc_201988,material,madeira
+mcha_24990,materiais_tecnicas-2,porcelana
+mdia_31542,material-tecnica-3,madeira
+minc_141562,material,metal|tinta
+mche_61247,materiais,metal
+mour_5693,material-tecnica-3,metal|vidro
+mour_5669,material-tecnica-3,metal
+mban_5001,material,madeira|fibra
+mcha_19245,materiais_tecnicas-2,porcelana
+mche_53979,materiais,cerâmica|pó de ouro
+mche_62282,materiais,cerâmica|pó de ouro
+mdia_32006,material-tecnica-3,metal
+minc_205935,material,madeira
+minc_170741,material,madeira|ouro
+mcbc_9320,material,madeira|metal
+mche_53914,materiais,metal|vidro
+mdia_31222,material-tecnica-3,madeira|palha
+mche_43911,materiais,cerâmica|pó de ouro|tinta
+mche_61059,materiais,metal
+minc_111575,material,madeira|tinta
+mche_54443,materiais,cerâmica|pó de ouro
+mche_56838,materiais,madeira|palha
+mcha_18594,materiais_tecnicas-2,porcelana
+mche_46098,materiais,linha de algodão|linho
+minc_97254,material,argila|tinta
+mche_44756,materiais,metal|vidro
+mabo_823,material,argila
+mdia_32244,material-tecnica-3,metal
+mche_65597,materiais,cerâmica|pó de ouro
+mche_60157,materiais,metal
+minc_141738,material,metal|tinta
+minc_229358,material,
+mcpr_45099,material,metal
+minc_187590,material,madeira|palha
+minc_208302,material,madeira|palha
+mche_64484,materiais,cerâmica|pó de ouro|tinta
+minc_193072,material,metal|madeira
+mhna_163952,material,metal
+minc_111125,material,metal
+mcbc_10903,material,madeira|palha
+mche_47723,materiais,madeira|palha
+mche_61999,materiais,madeira|mármore
+mabo_494,material,metal
+mche_47024,materiais,madeira|palha
+minc_233887,material,
+mrsj_20625,material-3,madeira
+mcha_20252,materiais_tecnicas-2,porcelana
+minc_146869,material,madeira
+mcha_21071,materiais_tecnicas-2,porcelana
+mcha_15350,materiais_tecnicas-2,madeira|metal
+mche_66336,materiais,cerâmica|pó de ouro
+minc_192133,material,madeira
+mche_59292,materiais,metal
+mcha_31935,materiais_tecnicas-2,vidro
+mcbc_11046,material,vidro
+minc_147056,material,madeira
+mche_63852,materiais,vidro|metal
+mche_74719,materiais,madeira|palha
+mcha_19307,materiais_tecnicas-2,porcelana
+mban_7155,material,madeira
+mcbc_11498,material,madeira
+mche_52687,materiais,cerâmica|pó de ouro
+mcha_23086,materiais_tecnicas-2,porcelana
+minc_39498,material,metal|madeira|tinta
+minc_24217,material,madeira|tinta
+mcha_22077,materiais_tecnicas-2,porcelana
+masb_49250,material,madeira
+mcpr_16913,material,madeira|metal
+mdia_32216,material-tecnica-3,esmalte|metal|tinta
+mche_48902,materiais,metal
+minc_140858,material,metal|tinta
+mrsj_27388,material-3,metal
+mcha_21816,materiais_tecnicas-2,porcelana
+mhna_167873,material,metal
+masb_61338,material,
+minc_126468,material,couro|madeira
+minc_162275,material,metal
+mche_74322,materiais,gesso|madeira|pó de ouro
+mrco_36567,material-9,metal|madeira|tinta
+minc_72934,material,madeira|palha|madeira
+mcha_22369,materiais_tecnicas-2,porcelana
+minc_110239,material,metal
+mhna_159773,material,vidro
+mdia_33342,material-tecnica-3,metal|tinta
+minc_228625,material,
+mcpr_36737,material,argila|tinta
+mcbc_10452,material,metal
+mour_5233,material-tecnica-3,couro lavrado|madeira|metal
+masb_48996,material,metal
+mrsj_21314,material-3,madeira|metal
+mcpr_38102,material,madeira
+mche_52933,materiais,cerâmica|pó de ouro
+masb_62081,material,madeira
+mche_56305,materiais,metal
+mche_53415,materiais,cerâmica|pó de ouro
+minc_73748,material,palha|madeira
+mdia_32239,material-tecnica-3,metal
+minc_229471,material,
+minc_124215,material,metal|madeira
+mcbc_9931,material,argila|vidro|madeira|metal
+minc_99850,material,madeira
+minc_9788,material,madeira|metal|tinta
+mcbc_11143,material,madeira
+minc_203565,material,metal|madeira
+mche_53203,materiais,cerâmica|pó de ouro
+mche_63250,materiais,cerâmica|pó de ouro
+minc_35478,material,madeira|pedra|tinta
+mrco_35997,material-9,madeira|mármore
+mche_57645,materiais,linha de algodão|linho
+mhna_166760,material,porcelana
+mche_68403,materiais,cerâmica|pó de ouro
+mour_5685,material-tecnica-3,metal|madeira|vidro
+mche_58157,materiais,metal
+mcbc_10073,material,argila
+mrsj_28641,material-3,folha de ouro|porcelana|tinta
+minc_124038,material,metal|madeira
+mrco_36488,material-9,madeira
+minc_70454,material,madeira|metal
+mche_68312,materiais,cerâmica|pó de ouro|tinta
+mche_69284,materiais,cerâmica|pó de ouro
+masb_47823,material,metal
+minc_183097,material,metal|madeira|tinta
+mche_73728,materiais,gesso|madeira|pó de ouro
+mche_53761,materiais,cerâmica|pó de ouro
+mhna_166543,material,porcelana
+minc_208536,material,metal|madeira
+minc_111027,material,metal
+mche_56028,materiais,cerâmica|pó de ouro
+mche_72426,materiais,vidro
+mche_74214,materiais,gesso|madeira|pó de ouro
+mche_67747,materiais,cerâmica|pó de ouro
+mdia_31982,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+mrco_36437,material-9,madeira|tinta
+mrsj_25171,material-3,folha de ouro|madeira|tinta
+mche_68886,materiais,cerâmica|pó de ouro
+minc_112862,material,metal|tinta
+mche_69194,materiais,cerâmica|pó de ouro
+minc_226469,material,
+mabo_499,material,metal
+mche_72513,materiais,vidro
+mche_58424,materiais,metal
+mche_67974,materiais,cerâmica|pó de ouro|tinta
+mche_73212,materiais,cerâmica|pó de ouro|tinta
+minc_223731,material,
+minc_42399,material,metal|madeira
+mrco_36021,material-9,madeira|palinha
+mrsj_22873,material-3,madeira|palha
+minc_186498,material,metal|madeira|metal
+minc_42355,material,madeira|marfim
+mban_7464,material,metal|madeira
+mcpr_33708,material,metal
+mche_69314,materiais,cerâmica|pó de ouro
+minc_165905,material,madeira|tinta
+minc_142266,material,metal|tinta
+mche_41347,materiais,madeira|palha
+mche_53660,materiais,cerâmica|pó de ouro|tinta
+mhna_166356,material,porcelana
+mche_69036,materiais,cerâmica|pó de ouro
+mche_44518,materiais,metal|vidro
+minc_208907,material,metal|madeira
+mrco_36137,material-9,vidro
+mcbc_9907,material,metal|tinta
+mche_68036,materiais,cerâmica|pó de ouro
+mhna_163610,material,metal
+mcpr_38072,material,metal
+mche_58244,materiais,metal
+mche_69254,materiais,cerâmica|pó de ouro
+minc_35423,material,madeira|pedra|tinta
+mban_5591,material,argila
+minc_71518,material,argila|metal|tinta
+mrco_36480,material-9,madeira
+minc_43157,material,madeira|tinta
+minc_41324,material,couro|madeira|metal
+mcpr_44072,material,metal
+mche_75123,materiais,madeira|palha
+mabo_485,material,argila|metal
+mcbc_9782,material,madeira|mármore|metal
+mche_47320,materiais,vidro
+minc_128306,material,madeira|palha
+mche_68916,materiais,cerâmica|pó de ouro
+mcbc_10371,material,tecido
+minc_209286,material,palha|madeira
+mcha_15380,materiais_tecnicas-2,madeira
+mche_46486,materiais,cerâmica
+minc_100252,material,madeira|tinta
+mour_5817,material-tecnica-3,cerâmica
+mche_52146,materiais,cerâmica|pó de ouro
+minc_205824,material,metal|madeira
+mcha_15928,materiais_tecnicas-2,madeira|palha
+mour_5243,material-tecnica-3,metal|madeira
+mche_43880,materiais,cerâmica|pó de ouro|tinta
+minc_124629,material,metal|tinta
+mche_75722,materiais,madeira|pó de ouro
+minc_192763,material,madeira|purpurina|tinta
+mche_47756,materiais,madeira|palha
+mche_44552,materiais,metal|vidro
+minc_142046,material,metal|tinta
+mrsj_21438,material-3,madeira
+minc_39253,material,metal|madeira
+mche_74592,materiais,gesso|madeira|pó de ouro
+mrsj_27893,material-3,folha de ouro|porcelana|tinta
+mour_5231,material-tecnica-3,couro lavrado|madeira|metal
+mrsj_22750,material-3,madeira|palha
+minc_79635,material,madeira
+mcha_19865,materiais_tecnicas-2,porcelana
+mcpr_44624,material,plástico
+mche_43066,materiais,metal
+mcbc_10901,material,madeira|palha
+mcbc_10909,material,couro|madeira|metal|palha
+mcha_14754,materiais_tecnicas-2,madeira|metal
+minc_36310,material,madeira
+minc_39209,material,madeira|metal
+mcbc_10897,material,madeira|palha
+minc_47284,material,argila|esmalte
+mche_66426,materiais,cerâmica|pó de ouro
+mcpr_36357,material,metal|madeira
+minc_201669,material,madeira|tinta
+mrsj_22381,material-3,madeira|metal
+minc_230707,material,
+mcha_26656,materiais_tecnicas-2,vidro
+mban_1592,material,madeira
+mcha_20186,materiais_tecnicas-2,porcelana
+minc_175918,material,madeira
+minc_85175,material,madeira|tinta
+mche_43414,materiais,metal
+mcha_27790,materiais_tecnicas-2,vidro
+mche_50792,materiais,cerâmica|pó de ouro|tinta
+mcha_24960,materiais_tecnicas-2,porcelana
+mche_70666,materiais,vidro
+minc_228343,material,
+mcbc_10502,material,madeira|mármore|metal|tinta|vidro
+mche_66396,materiais,cerâmica|pó de ouro|tinta
+minc_124129,material,metal|madeira
+mrsj_21069,material-3,madeira
+minc_141650,material,metal|tinta
+minc_187267,material,madeira
+mdia_31654,material-tecnica-3,folha de ouro|madeira|pedra|tinta|vidro
+mche_63944,materiais,vidro|metal
+mche_71504,materiais,metal|vidro
+minc_112083,material,metal
+minc_71473,material,argila|metal|tinta
+mche_47925,materiais,madeira|metal|palha
+mhna_167934,material,metal
+minc_223614,material,
+mrsj_22832,material-3,madeira|palha
+minc_162933,material,madeira|tinta
+mcbc_11460,material,madeira|metal
+mcbc_10279,material,madeira|palha
+mche_51390,materiais,cerâmica|pó de ouro
+mrco_36490,material-9,madeira
+minc_232914,material,
+mcbc_11101,material,madeira|palha
+mche_55209,materiais,cerâmica|pó de ouro|tinta
+mcha_15620,materiais_tecnicas-2,madeira|palha
+minc_124258,material,metal|madeira
+mche_44484,materiais,metal|vidro
+minc_207433,material,madeira|palha
+minc_189630,material,madeira|palha
+minc_72880,material,madeira|palha
+mche_65717,materiais,cerâmica|pó de ouro
+mche_74376,materiais,gesso|madeira|pó de ouro
+mhna_163922,material,metal
+mhna_164041,material,metal
+minc_100352,material,madeira|metal|tinta
+mrsj_28245,material-3,folha de ouro|porcelana|tinta
+mhna_166388,material,porcelana
+mrsj_22709,material-3,madeira|palha
+mche_65285,materiais,metal|vidro
+minc_208743,material,madeira|purpurina|tinta
+mcpr_45749,material,madeira|metal
+minc_186212,material,metal|madeira
+mabo_500,material,metal
+minc_230964,material,
+mdia_31936,material-tecnica-3,cerâmica|esmalte|porcelana|tinta
+minc_110886,material,metal
+mche_58394,materiais,metal
+mcha_24350,materiais_tecnicas-2,porcelana
+minc_174249,material,madeira
+mdia_31187,material-tecnica-3,metal
+minc_47009,material,argila|esmalte|ouro
+mche_53948,materiais,cerâmica|pó de ouro|tinta
+minc_124396,material,metal
+mcbc_9528,material,metal|tinta
+mcpr_37699,material,metal
+minc_47147,material,argila|esmalte
+mche_60097,materiais,metal
+mche_66833,materiais,cerâmica|pó de ouro
+mhna_166323,material,porcelana
+minc_209337,material,madeira|metal|tinta
+mche_61586,materiais,cerâmica|pó de ouro
+mabo_760,material,metal
+mcha_22291,materiais_tecnicas-2,porcelana
+mche_49814,materiais,metal
+mche_56638,materiais,madeira|palha
+minc_162891,material,madeira|tinta
+minc_118706,material,madeira
+minc_23875,material,metal|madeira
+mche_44247,materiais,metal|vidro
+minc_124086,material,metal|madeira
+minc_40956,material,madeira|ouro
+mcbc_10097,material,vidro|madeira|metal|porcelana
+mcbc_11435,material,metal|tinta
+minc_47468,material,argila|esmalte
+mhna_163500,material,metal
+mcha_23302,materiais_tecnicas-2,porcelana
+minc_39692,material,madeira|tinta
+minc_232590,material,
+mcha_22716,materiais_tecnicas-2,porcelana
+minc_47238,material,argila|esmalte
+mrsj_23612,material-3,metal|madeira|tinta
+mcha_18780,materiais_tecnicas-2,porcelana
+minc_94554,material,vidro
+mhna_168162,material,vidro
+masb_61069,material,madeira
+mche_65251,materiais,metal|vidro
+mhna_163179,material,metal
+mban_4592,material,couro|metal|madeira
+mche_59262,materiais,metal
+minc_111737,material,metal
+mrsj_23160,material-3,madeira|palha
+mcbc_10775,material,argila|tinta
+mche_67522,materiais,vidro
+minc_110658,material,metal
+mcha_22776,materiais_tecnicas-2,porcelana
+mrco_36478,material-9,madeira
+mche_48370,materiais,madeira
+mcbc_10741,material,vidro
+mche_69164,materiais,cerâmica|pó de ouro
+mcha_15724,materiais_tecnicas-2,madeira|palha
+minc_31649,material,madeira|marfim
+mche_42941,materiais,metal
+mcpr_37792,material,metal
+mche_60792,materiais,metal
+mche_43128,materiais,metal
+mour_5229,material-tecnica-3,couro lavrado|madeira|metal
+mche_45131,materiais,metal|vidro
+minc_192578,material,metal
+mrsj_20989,material-3,madeira
+mche_48435,materiais,madeira|palha
+minc_73456,material,madeira
+mche_54229,materiais,metal
+mcha_18563,materiais_tecnicas-2,porcelana
+mche_61367,materiais,metal
+minc_84013,material,argila|esmalte
+mcha_35220,materiais_tecnicas-2,tecido
+minc_172312,material,metal|madeira
+minc_80253,material,metal|madeira|tinta
+mdia_31182,material-tecnica-3,metal
+mche_65627,materiais,cerâmica|pó de ouro
+mhna_166577,material,porcelana
+mhna_166194,material,porcelana
+mdia_32026,material-tecnica-3,metal|osso
+mcha_18532,materiais_tecnicas-2,porcelana
+minc_161732,material,madeira
+minc_41785,material,fibra têxtil|madeira|tinta
+mrco_35969,material-9,madeira|palha
+minc_100400,material,metal|madeira|tinta
+mcbc_10899,material,madeira|palha
+mrco_36183,material-9,metal
+minc_90588,material,metal|madeira|tinta
+mcbc_10913,material,madeira|palha
+mcha_16902,materiais_tecnicas-2,madeira|metal|vidro
+minc_128080,material,pedra
+mche_59530,materiais,metal
+mche_52963,materiais,cerâmica|pó de ouro
+minc_41934,material,fibra têxtil|madeira|tinta
+mcpr_38131,material,madeira
+minc_176171,material,madeira|palha
+minc_188163,material,metal|madeira
+minc_5435,material,madeira|metal
+minc_123402,material,metal|metal
+mrsj_20465,material-3,madeira|metal
+mche_41590,materiais,madeira|palha
+mcbc_10091,material,linha
+mcbc_11668,material,madeira|metal
+mcha_14785,materiais_tecnicas-2,madeira|metal
+minc_224542,material,
+mban_6060,material,madeira
+minc_233614,material,
+mban_2174,material,madeira
+minc_101274,material,metal
+minc_10854,material,metal|tinta|vidro
+minc_187656,material,madeira
+mche_42358,materiais,cerâmica|pó de ouro
+minc_124535,material,metal|tinta
+mche_60276,materiais,metal
+minc_162563,material,metal
+mcbc_9494,material,madeira|palha
+mche_48708,materiais,madeira|metal|palha
+mrsj_20299,material-3,madeira|metal
+minc_87674,material,metal
+minc_188484,material,metal|madeira
+minc_35212,material,madeira|pedra|tinta
+minc_111344,material,metal
+mche_52306,materiais,cerâmica|pó de ouro
+mcha_15895,materiais_tecnicas-2,madeira|palha
+minc_82774,material,madeira|metal|tinta
+mche_61769,materiais,cerâmica|pó de ouro
+mcha_21005,materiais_tecnicas-2,porcelana
+mrco_35905,material-9,madeira|metal
+minc_105358,material,argila|esmalte|verniz
+mban_2671,material,madeira
+minc_111487,material,metal
+mche_42909,materiais,metal
+mban_12638,material,metal|vidro
+minc_231818,material,
+minc_187714,material,madeira
+minc_72657,material,metal|madeira
+minc_192716,material,madeira|purpurina|tinta
+mcha_20844,materiais_tecnicas-2,porcelana
+minc_110286,material,metal
+mcha_19710,materiais_tecnicas-2,porcelana
+mcpr_37265,material,argila
+mrco_36571,material-9,metal|madeira|tinta
+mcbc_11646,material,madeira|metal
+mhna_166936,material,porcelana
+mrco_36450,material-9,madeira|tinta
+mhna_162987,material,metal
+minc_206461,material,madeira
+mche_57042,materiais,cerâmica|pó de ouro
+mche_59620,materiais,metal
+minc_125108,material,metal
+mban_7271,material,madeira
+minc_105400,material,argila|esmalte|verniz
+mrsj_24797,material-3,folha de ouro|metal|tinta|vidro
+mche_68526,materiais,cerâmica|pó de ouro
