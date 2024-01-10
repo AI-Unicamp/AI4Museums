@@ -15,3 +15,4 @@
 # AI4Museums
 Artificial Intelligence for Brazilian Museums
 
+This repository is dedicated to documenting the development of the automatic metadata extraction methodology for images of interior objects from Brazilian museums managed by Ibram. It contains the code for generating descriptions, obtaining and constructing the database, as well as the initial exploratory phase.
