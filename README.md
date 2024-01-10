@@ -4,9 +4,9 @@
 <div align="center">
 	  <a href="https://github.com/AI-Unicamp/AI4Museums">Home</a>
       <span> • </span>
-    <a href="https://github.com/AI-Unicamp/AI4Museums/ema">EMA Dataset</a>
+    <a href="https://github.com/AI-Unicamp/ema/tree/f0e5847368011b1505268645608a8569bb19cc76">EMA Dataset</a>
       <span> • </span>
-    <a href="https://github.com/AI-Unicamp/AI4Museums/Captioner">Captioner</a>
+    <a href="https://github.com/AI-Unicamp/AI4Museums/tree/main/dominant-color">Dominant Color</a>
       <span> • </span>
 	  <a href="https://github.com/AI-Unicamp/AI4Museums/Contact">Contact</a>
 <p></p>
