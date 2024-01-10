@@ -8,7 +8,7 @@
       <span> • </span>
     <a href="https://github.com/AI-Unicamp/AI4Museums/tree/main/dominant-color">Dominant Color</a>
       <span> • </span>
-	  <a href="https://github.com/AI-Unicamp/AI4Museums/Contact">Contact</a>
+	  <a href="https://github.com/AI-Unicamp/AI4Museums">Contact</a>
 <p></p>
 </div>
 
